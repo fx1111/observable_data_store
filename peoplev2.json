@@ -6,12 +6,6 @@
         "photo": "nopic"
     },
     {
-        "group": "location",
-        "id": "United States",
-        "tooltip": 4915.0,
-        "photo": "nopic"
-    },
-    {
         "group": "misc",
         "id": "Indian",
         "tooltip": 3039.0,
@@ -36,213 +30,9 @@
         "photo": "nopic"
     },
     {
-        "group": "location",
-        "id": "New Delhi",
-        "tooltip": 876.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "misc",
-        "id": "Covid",
-        "tooltip": 830.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "NSE",
-        "tooltip": 796.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "location",
-        "id": "Hong Kong",
-        "tooltip": 786.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "location",
-        "id": "Asia",
-        "tooltip": 761.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "Sensex",
-        "tooltip": 738.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "location",
-        "id": "Europe",
-        "tooltip": 711.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "location",
-        "id": "Delhi",
-        "tooltip": 667.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "person",
-        "id": "Nirmala Sitharaman",
-        "tooltip": 582.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "location",
-        "id": "Beijing",
-        "tooltip": 554.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "misc",
-        "id": "European",
-        "tooltip": 522.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "location",
-        "id": "Russia",
-        "tooltip": 502.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "HDFC Bank",
-        "tooltip": 461.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "State Bank of India",
-        "tooltip": 461.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "ICICI Bank",
-        "tooltip": 461.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "location",
-        "id": "Germany",
-        "tooltip": 419.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "Axis Bank",
-        "tooltip": 406.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "person",
-        "id": "Modi",
-        "tooltip": 393.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "Bharti Airtel",
-        "tooltip": 380.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "location",
-        "id": "Australia",
-        "tooltip": 363.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "S & P BSE Sensex",
-        "tooltip": 362.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "location",
-        "id": "Maharashtra",
-        "tooltip": 354.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "location",
-        "id": "Singapore",
-        "tooltip": 338.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "location",
-        "id": "France",
-        "tooltip": 336.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "Infosys",
-        "tooltip": 326.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "misc",
-        "id": "Co",
-        "tooltip": 319.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "Supreme Court",
-        "tooltip": 317.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "location",
-        "id": "South Korea",
-        "tooltip": 301.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "location",
-        "id": "Kolkata",
-        "tooltip": 300.0,
-        "photo": "nopic"
-    },
-    {
         "group": "org",
         "id": "PTI",
         "tooltip": 293.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "TCS",
-        "tooltip": 292.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "location",
-        "id": "London",
-        "tooltip": 283.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "Bloomberg",
-        "tooltip": 282.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "misc",
-        "id": "19",
-        "tooltip": 277.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "location",
-        "id": "Gujarat",
-        "tooltip": 267.0,
         "photo": "nopic"
     },
     {
@@ -252,183 +42,15 @@
         "photo": "nopic"
     },
     {
-        "group": "misc",
-        "id": "Indians",
-        "tooltip": 242.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "Congress",
-        "tooltip": 238.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "Bajaj Finance",
-        "tooltip": 234.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "ITC",
-        "tooltip": 234.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "Kotak Mahindra Bank",
-        "tooltip": 231.0,
-        "photo": "nopic"
-    },
-    {
         "group": "location",
         "id": "Ladakh",
         "tooltip": 219.0,
         "photo": "nopic"
     },
     {
-        "group": "location",
-        "id": "Tamil Nadu",
-        "tooltip": 219.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "Centre",
-        "tooltip": 217.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "National Stock Exchange",
-        "tooltip": 200.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "misc",
-        "id": "Australian",
-        "tooltip": 198.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "Singapore Exchange",
-        "tooltip": 195.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "location",
-        "id": "United",
-        "tooltip": 190.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "location",
-        "id": "Uttar Pradesh",
-        "tooltip": 187.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "misc",
-        "id": "French",
-        "tooltip": 181.0,
-        "photo": "nopic"
-    },
-    {
         "group": "person",
         "id": "Singh",
         "tooltip": 180.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "location",
-        "id": "Italy",
-        "tooltip": 179.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "person",
-        "id": "Piyush Goyal",
-        "tooltip": 177.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "Wipro",
-        "tooltip": 173.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "misc",
-        "id": "Nifty 50",
-        "tooltip": 169.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "misc",
-        "id": "S",
-        "tooltip": 162.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "misc",
-        "id": "E",
-        "tooltip": 160.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "Dalal Street",
-        "tooltip": 155.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "S & P BSE",
-        "tooltip": 154.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "BPCL",
-        "tooltip": 153.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "location",
-        "id": "Karnataka",
-        "tooltip": 153.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "location",
-        "id": "Pune",
-        "tooltip": 146.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "location",
-        "id": "Rajasthan",
-        "tooltip": 142.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "Asian Paints",
-        "tooltip": 139.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "Tech Mahindra",
-        "tooltip": 138.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "location",
-        "id": "Andhra Pradesh",
-        "tooltip": 131.0,
         "photo": "nopic"
     },
     {
@@ -445,134 +67,14 @@
     },
     {
         "group": "org",
-        "id": "Union",
-        "tooltip": 126.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "L & T",
-        "tooltip": 122.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "location",
-        "id": "Paris",
-        "tooltip": 120.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "location",
-        "id": "Bihar",
-        "tooltip": 119.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "location",
-        "id": "Punjab",
-        "tooltip": 118.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "person",
-        "id": "Rahul Gandhi",
-        "tooltip": 117.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "misc",
-        "id": "Russian",
-        "tooltip": 116.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "Bharti Infratel",
-        "tooltip": 110.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "Tata Consultancy Services",
-        "tooltip": 109.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "Hero MotoCorp",
-        "tooltip": 109.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "location",
-        "id": "Pakistan",
-        "tooltip": 109.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
         "id": "AL",
         "tooltip": 107.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "misc",
-        "id": "D",
-        "tooltip": 107.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "person",
-        "id": "Xi Jinping",
-        "tooltip": 105.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "WHO",
-        "tooltip": 105.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "location",
-        "id": "West Bengal",
-        "tooltip": 104.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "location",
-        "id": "Switzerland",
-        "tooltip": 98.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "person",
-        "id": "R",
-        "tooltip": 96.0,
         "photo": "nopic"
     },
     {
         "group": "person",
         "id": "Amit Shah",
         "tooltip": 96.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "IndiGo",
-        "tooltip": 95.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "location",
-        "id": "UAE",
-        "tooltip": 93.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "location",
-        "id": "Telangana",
-        "tooltip": 91.0,
         "photo": "nopic"
     },
     {
@@ -583,157 +85,7 @@
     },
     {
         "group": "person",
-        "id": "Wang Yi",
-        "tooltip": 81.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "BJP",
-        "tooltip": 80.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "LIC",
-        "tooltip": 80.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "CBDT",
-        "tooltip": 79.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "Hindustan Unilever",
-        "tooltip": 78.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "UPL",
-        "tooltip": 77.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "Government of India",
-        "tooltip": 72.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "location",
-        "id": "United Arab Emirates",
-        "tooltip": 70.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "person",
-        "id": "Anurag Srivastava",
-        "tooltip": 69.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "Zee Entertainment",
-        "tooltip": 69.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "Power Grid",
-        "tooltip": 67.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "location",
-        "id": "Houston",
-        "tooltip": 61.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "location",
-        "id": "Iran",
-        "tooltip": 60.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "Central Board of Direct Taxes",
-        "tooltip": 60.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "location",
-        "id": "Assam",
-        "tooltip": 57.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "location",
-        "id": "Kashmir",
-        "tooltip": 56.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "location",
-        "id": "Jammu",
-        "tooltip": 56.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "misc",
-        "id": "English",
-        "tooltip": 55.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "person",
-        "id": "Ravi Shankar Prasad",
-        "tooltip": 54.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "person",
-        "id": "Sonia Gandhi",
-        "tooltip": 54.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "location",
-        "id": "Jharkhand",
-        "tooltip": 53.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "location",
-        "id": "Moscow",
-        "tooltip": 53.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "person",
         "id": "Ajit Doval",
-        "tooltip": 48.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "Britannia Industries",
-        "tooltip": 48.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "Indian Army",
-        "tooltip": 48.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "person",
-        "id": "S Jaishankar",
         "tooltip": 48.0,
         "photo": "nopic"
     },
@@ -745,19 +97,13 @@
     },
     {
         "group": "org",
-        "id": "Commission",
-        "tooltip": 46.0,
+        "id": "Indian Army",
+        "tooltip": 48.0,
         "photo": "nopic"
     },
     {
         "group": "org",
         "id": "Army",
-        "tooltip": 46.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "Limited",
         "tooltip": 46.0,
         "photo": "nopic"
     },
@@ -769,55 +115,7 @@
     },
     {
         "group": "location",
-        "id": "Turkey",
-        "tooltip": 44.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "Central",
-        "tooltip": 43.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "person",
-        "id": "Ka",
-        "tooltip": 42.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "ANI",
-        "tooltip": 41.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "person",
-        "id": "Raj",
-        "tooltip": 39.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "location",
         "id": "Pangong Tso",
-        "tooltip": 38.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "misc",
-        "id": "Hindi",
-        "tooltip": 38.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "misc",
-        "id": "Scheme",
-        "tooltip": 38.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "Boeing",
         "tooltip": 38.0,
         "photo": "nopic"
     },
@@ -829,38 +127,8 @@
     },
     {
         "group": "misc",
-        "id": "Indo",
-        "tooltip": 36.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "misc",
         "id": "Control",
         "tooltip": 36.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "person",
-        "id": "Ashok Gehlot",
-        "tooltip": 36.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "SIAM",
-        "tooltip": 34.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "misc",
-        "id": "Himalayan",
-        "tooltip": 34.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "Society of Indian Automobile Manufacturers",
-        "tooltip": 33.0,
         "photo": "nopic"
     },
     {
@@ -871,224 +139,8 @@
     },
     {
         "group": "org",
-        "id": "Union Health Ministry",
-        "tooltip": 32.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "MEA",
-        "tooltip": 32.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "Hindustan Aeronautics",
-        "tooltip": 31.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "misc",
-        "id": "South Asian",
-        "tooltip": 31.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "location",
-        "id": "Kazakhstan",
-        "tooltip": 31.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "Communist Party",
-        "tooltip": 30.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "person",
-        "id": "MM Naravane",
-        "tooltip": 30.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "person",
-        "id": "Amarinder Singh",
-        "tooltip": 30.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "Airbus",
-        "tooltip": 30.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "location",
-        "id": "Nepal",
-        "tooltip": 30.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "location",
-        "id": "Israel",
-        "tooltip": 30.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "location",
-        "id": "Eastern Ladakh",
-        "tooltip": 29.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "Ministry of External Affairs",
-        "tooltip": 28.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "Lok Sabha",
-        "tooltip": 28.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "person",
-        "id": "Ram",
-        "tooltip": 27.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "person",
-        "id": "Manmohan Singh",
-        "tooltip": 27.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "IAF",
-        "tooltip": 27.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "misc",
-        "id": "Sri",
-        "tooltip": 26.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
         "id": "People's Liberation Army",
         "tooltip": 26.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "InterGlobe Aviation",
-        "tooltip": 26.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "HAL",
-        "tooltip": 26.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "location",
-        "id": "North",
-        "tooltip": 26.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "OECD",
-        "tooltip": 26.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "Ministry of Home Affairs",
-        "tooltip": 25.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "person",
-        "id": "Ram Nath Kovind",
-        "tooltip": 24.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "misc",
-        "id": "Pakistani",
-        "tooltip": 24.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "Ministry of Defence",
-        "tooltip": 24.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "person",
-        "id": "Jaishankar",
-        "tooltip": 24.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "Rajya Sabha",
-        "tooltip": 24.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "ALSO READ",
-        "tooltip": 23.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "Central Bank of India",
-        "tooltip": 21.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "person",
-        "id": "Mamata Banerjee",
-        "tooltip": 21.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "person",
-        "id": "\u201d Trump",
-        "tooltip": 21.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "person",
-        "id": "Pa",
-        "tooltip": 21.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "Air Force",
-        "tooltip": 19.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "Bharatiya Janata Party",
-        "tooltip": 18.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "Bosch",
-        "tooltip": 18.0,
         "photo": "nopic"
     },
     {
@@ -1099,164 +151,8 @@
     },
     {
         "group": "location",
-        "id": "Chushul",
-        "tooltip": 18.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "person",
-        "id": "M M Naravane",
-        "tooltip": 18.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "person",
-        "id": "He",
-        "tooltip": 18.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "location",
-        "id": "Tripura",
-        "tooltip": 17.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "location",
-        "id": "Leh",
-        "tooltip": 17.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "location",
-        "id": "Nashik",
-        "tooltip": 17.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "MHA",
-        "tooltip": 17.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "location",
         "id": "Sikkim",
         "tooltip": 16.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "External Affairs Ministry",
-        "tooltip": 16.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "person",
-        "id": "Akash",
-        "tooltip": 15.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "person",
-        "id": "Sushant Singh Rajput",
-        "tooltip": 15.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "MoD",
-        "tooltip": 15.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "misc",
-        "id": "Make in India",
-        "tooltip": 15.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "location",
-        "id": "Galwan",
-        "tooltip": 15.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "person",
-        "id": "RKS Bhadauria",
-        "tooltip": 15.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "person",
-        "id": "Shivraj Singh Chouhan",
-        "tooltip": 15.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "person",
-        "id": "Pranab Mukherjee",
-        "tooltip": 15.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "Smallcap",
-        "tooltip": 14.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "Bajaj Electricals",
-        "tooltip": 14.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "NDA",
-        "tooltip": 14.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "misc",
-        "id": "Midcap 100",
-        "tooltip": 13.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "People \u2019 s Liberation Army",
-        "tooltip": 13.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "LAC",
-        "tooltip": 13.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "Motherson Sumi Systems",
-        "tooltip": 12.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "location",
-        "id": "Ambala",
-        "tooltip": 12.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "person",
-        "id": "Uddhav Thackeray",
-        "tooltip": 12.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "person",
-        "id": "Atal Bihari Vajpayee",
-        "tooltip": 12.0,
         "photo": "nopic"
     },
     {
@@ -1266,525 +162,15 @@
         "photo": "nopic"
     },
     {
-        "group": "person",
-        "id": "Wei Fenghe",
-        "tooltip": 12.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "person",
-        "id": "Wang",
-        "tooltip": 12.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "person",
-        "id": "Pan",
-        "tooltip": 12.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "person",
-        "id": "Mark T Esper",
-        "tooltip": 12.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "Ministry",
-        "tooltip": 12.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "person",
-        "id": "Sharad Pawar",
-        "tooltip": 12.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "location",
-        "id": "Tibet",
-        "tooltip": 11.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "Navy",
-        "tooltip": 11.0,
-        "photo": "nopic"
-    },
-    {
         "group": "location",
         "id": "Daulat Beg Oldie",
         "tooltip": 11.0,
         "photo": "nopic"
     },
     {
-        "group": "org",
-        "id": "Defence",
-        "tooltip": 11.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "location",
-        "id": "Arunachal Pradesh",
-        "tooltip": 11.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "Shriram City Union Finance",
-        "tooltip": 10.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "House of Representatives",
-        "tooltip": 10.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "location",
-        "id": "Pangong",
-        "tooltip": 10.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "misc",
-        "id": "Hindus",
-        "tooltip": 10.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "location",
-        "id": "Hot Springs",
-        "tooltip": 10.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "person",
-        "id": "Naveen Patnaik",
-        "tooltip": 9.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "person",
-        "id": "G C Murmu",
-        "tooltip": 9.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "person",
-        "id": "Amar Singh",
-        "tooltip": 9.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "person",
-        "id": "Abdullah",
-        "tooltip": 9.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "person",
-        "id": "Edappadi K Palaniswami",
-        "tooltip": 9.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "person",
-        "id": "Nitish Kumar",
-        "tooltip": 9.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "person",
-        "id": "Jai",
-        "tooltip": 9.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "person",
-        "id": "Sitaram Yechury",
-        "tooltip": 9.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "CWC",
-        "tooltip": 9.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "person",
-        "id": "Naravane",
-        "tooltip": 9.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "Group of Seven",
-        "tooltip": 9.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "Huawei Technologies Co Ltd",
-        "tooltip": 9.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "person",
-        "id": "Mukherjee",
-        "tooltip": 9.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "NSA",
-        "tooltip": 8.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "misc",
-        "id": "Soviet",
-        "tooltip": 8.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "location",
-        "id": "Central Asia",
-        "tooltip": 8.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "Metropolis Healthcare",
-        "tooltip": 8.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "PMO",
-        "tooltip": 8.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "SCO",
-        "tooltip": 8.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "GOI",
-        "tooltip": 7.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "location",
-        "id": "Ayodhya",
-        "tooltip": 7.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "The Indian Express",
-        "tooltip": 7.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "location",
-        "id": "Uttar",
-        "tooltip": 7.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "Indian Navy",
-        "tooltip": 7.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "JSW",
-        "tooltip": 7.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "NDRF",
-        "tooltip": 7.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "ITBP",
-        "tooltip": 7.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "ITAT",
-        "tooltip": 7.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "WMCC",
-        "tooltip": 6.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "location",
-        "id": "Lipulekh",
-        "tooltip": 6.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "person",
-        "id": "Christopher",
-        "tooltip": 6.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "person",
-        "id": "Amit Cowsish",
-        "tooltip": 6.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "person",
-        "id": "AM Khanwilkar",
-        "tooltip": 6.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "location",
-        "id": "Kalapani",
-        "tooltip": 6.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "location",
-        "id": "Himalayas",
-        "tooltip": 6.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "person",
-        "id": "Raghuvansh Prasad Singh",
-        "tooltip": 6.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "IndusI",
-        "tooltip": 6.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "person",
-        "id": "Jawed Ashraf",
-        "tooltip": 6.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "Chinese People's Liberation Army",
-        "tooltip": 6.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "G7",
-        "tooltip": 6.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "Shanghai Cooperation Organisation",
-        "tooltip": 6.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "person",
-        "id": "Karambir Singh",
-        "tooltip": 6.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "person",
-        "id": "V Muraleedharan",
-        "tooltip": 6.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "person",
-        "id": "Zhang Shuili",
-        "tooltip": 6.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "location",
-        "id": "Limpiyadhura",
-        "tooltip": 5.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "location",
-        "id": "Depsang",
-        "tooltip": 5.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "location",
-        "id": "Moldo",
-        "tooltip": 5.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "misc",
-        "id": "Nepali",
-        "tooltip": 5.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "misc",
-        "id": "Nepalese",
-        "tooltip": 5.0,
-        "photo": "nopic"
-    },
-    {
         "group": "location",
         "id": "Daulat Beg Oldi",
         "tooltip": 5.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "Defence Acquisition Council",
-        "tooltip": 5.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "World Trade Organisation",
-        "tooltip": 5.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "Galaxy Surfactants",
-        "tooltip": 5.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "\u2019 s Office",
-        "tooltip": 5.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "location",
-        "id": "Bordeaux",
-        "tooltip": 5.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "Symphony",
-        "tooltip": 5.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "DAC",
-        "tooltip": 5.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "misc",
-        "id": "Lok",
-        "tooltip": 5.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "Assam Rifles",
-        "tooltip": 4.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "Telegraph",
-        "tooltip": 4.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "CDS",
-        "tooltip": 4.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "misc",
-        "id": "Pinaka",
-        "tooltip": 4.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "location",
-        "id": "Finger",
-        "tooltip": 4.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "Golden Arrows",
-        "tooltip": 4.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "location",
-        "id": "Kargil",
-        "tooltip": 4.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "Aviation",
-        "tooltip": 4.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "location",
-        "id": "Pradesh",
-        "tooltip": 3.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "NCB",
-        "tooltip": 3.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "person",
-        "id": "Jaya Shah",
-        "tooltip": 3.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "person",
-        "id": "Shibu Soren",
-        "tooltip": 3.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "person",
-        "id": "Ganesh Timilsina",
-        "tooltip": 3.0,
         "photo": "nopic"
     },
     {
@@ -1795,643 +181,13 @@
     },
     {
         "group": "person",
-        "id": "H Vasanthakumar",
-        "tooltip": 3.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "person",
-        "id": "Beni Prasad Verma",
-        "tooltip": 3.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "person",
-        "id": "M P Veerendra Kumar",
-        "tooltip": 3.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "person",
-        "id": "Adhir Ranjan Choudhary",
-        "tooltip": 3.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "person",
-        "id": "Posh Raj Pandey",
-        "tooltip": 3.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "person",
-        "id": "Rajnath Pandey",
-        "tooltip": 3.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "location",
-        "id": "Spanggur Gap",
-        "tooltip": 3.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "person",
         "id": "Howdy Modi",
         "tooltip": 3.0,
         "photo": "nopic"
     },
     {
-        "group": "person",
-        "id": "Ajay Trehan",
-        "tooltip": 3.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "person",
-        "id": "Bidya Devi Bhandari",
-        "tooltip": 3.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "person",
-        "id": "Upad",
-        "tooltip": 3.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "person",
-        "id": "Shruti Modi",
-        "tooltip": 3.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "person",
-        "id": "Sharad Bobde",
-        "tooltip": 3.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "person",
-        "id": "Smriti Irani",
-        "tooltip": 3.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "person",
-        "id": "Bipin Singh Rawat",
-        "tooltip": 3.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "person",
-        "id": "Justice P C Ghose",
-        "tooltip": 3.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "location",
-        "id": "Tulung La",
-        "tooltip": 3.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "Chinese Army",
-        "tooltip": 3.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "person",
-        "id": "Nipun Mehra",
-        "tooltip": 3.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "person",
-        "id": "James Dorsey",
-        "tooltip": 3.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "person",
-        "id": "Wei Fenghi",
-        "tooltip": 3.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "person",
-        "id": "Dashrath",
-        "tooltip": 3.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "location",
-        "id": "Lukung",
-        "tooltip": 3.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "person",
-        "id": "\u201d Singh",
-        "tooltip": 3.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "17 Squadron",
-        "tooltip": 3.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "person",
-        "id": "Atal Ji",
-        "tooltip": 3.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "location",
-        "id": "Air Force Station",
-        "tooltip": 3.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "Ministry of Defense",
-        "tooltip": 3.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "person",
-        "id": "Lav",
-        "tooltip": 3.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "person",
-        "id": "Kush",
-        "tooltip": 3.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "person",
-        "id": "Sita",
-        "tooltip": 3.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "person",
-        "id": "Valmiki",
-        "tooltip": 3.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "person",
-        "id": "K P Oli",
-        "tooltip": 3.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "misc",
-        "id": "Rafales",
-        "tooltip": 3.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "KRBL",
-        "tooltip": 3.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "OFB",
-        "tooltip": 3.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "Ordnance Factory Board",
-        "tooltip": 3.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "Western Theatre Command",
-        "tooltip": 3.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "person",
-        "id": "Dhurba Sharma",
-        "tooltip": 3.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "person",
-        "id": "Naredra Modi",
-        "tooltip": 3.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "misc",
-        "id": "DR",
-        "tooltip": 2.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "location",
-        "id": "Helmet Top",
-        "tooltip": 2.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "location",
-        "id": "East Ladakh",
-        "tooltip": 2.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "United StatesPrincipal Capital Asia",
-        "tooltip": 2.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "Manohar Parrikar Institute For Defence Studies and Analyses",
-        "tooltip": 2.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "misc",
-        "id": "DTAA",
-        "tooltip": 2.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "Shanghai Cooperation Organization",
-        "tooltip": 2.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "location",
-        "id": "North Sikkim",
-        "tooltip": 2.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "Spectrum",
-        "tooltip": 2.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "misc",
-        "id": "LA",
-        "tooltip": 2.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "Indian Armed Forces",
-        "tooltip": 2.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "National Assembly",
-        "tooltip": 2.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "Lok Janshakti Party",
-        "tooltip": 2.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "Sputnik",
-        "tooltip": 2.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "Hindustan Aeronautics Ltd",
-        "tooltip": 2.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "Oracle Financial Services Software",
-        "tooltip": 2.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "SDRF",
-        "tooltip": 1.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "misc",
-        "id": "Victory Day",
-        "tooltip": 1.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "misc",
-        "id": "Shenzen",
-        "tooltip": 1.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "Indian Military Academy",
-        "tooltip": 1.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "French Air Force",
-        "tooltip": 1.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "Bharat Forge MoD",
-        "tooltip": 1.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "misc",
-        "id": "21st Vijay Diwas",
-        "tooltip": 1.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "Narcotics Control Bureau",
-        "tooltip": 1.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "State Disaster Response and Mi",
-        "tooltip": 1.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "location",
-        "id": "Patna Collectorate",
-        "tooltip": 1.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "location",
-        "id": "Al Dhafra",
-        "tooltip": 1.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "location",
-        "id": "R & R Hospital",
-        "tooltip": 1.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "LJP",
-        "tooltip": 1.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "location",
-        "id": "Merignac",
-        "tooltip": 1.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "misc",
-        "id": "Hindustan Turbo Trainer \u2013 40",
-        "tooltip": 1.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "Nanyang Technological University",
-        "tooltip": 1.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "misc",
-        "id": "Star Wars",
-        "tooltip": 1.0,
-        "photo": "nopic"
-    },
-    {
         "group": "location",
         "id": "North Si",
-        "tooltip": 1.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "location",
-        "id": "Australasia",
-        "tooltip": 1.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "location",
-        "id": "War Memorial",
-        "tooltip": 1.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "location",
-        "id": "Ridi",
-        "tooltip": 1.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "OKID",
-        "tooltip": 1.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "South Asia Watch on Trade Economics and Environment",
-        "tooltip": 1.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "Indus",
-        "tooltip": 1.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "location",
-        "id": "Zanskar",
-        "tooltip": 1.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "for Consultation and Coordination",
-        "tooltip": 1.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "location",
-        "id": "Tawang",
-        "tooltip": 1.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "misc",
-        "id": "Astra Missile",
-        "tooltip": 1.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "Special Frontier Force",
-        "tooltip": 1.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "Chinese Air Force",
-        "tooltip": 1.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "location",
-        "id": "Korwa",
-        "tooltip": 1.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "IRRPL",
-        "tooltip": 1.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "INSAS",
-        "tooltip": 1.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "Rosoboronexport",
-        "tooltip": 1.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "Kalashnikov Group",
-        "tooltip": 1.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "Small Arms System",
-        "tooltip": 1.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "Kalashnikov Concern",
-        "tooltip": 1.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "location",
-        "id": "Nathu La",
-        "tooltip": 1.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "location",
-        "id": "South Block",
-        "tooltip": 1.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "Himalayan Times",
-        "tooltip": 1.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "location",
-        "id": "Gandak River",
-        "tooltip": 1.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "location",
-        "id": "Narayani",
-        "tooltip": 1.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "Chalet Hotels AIA Engineering",
-        "tooltip": 1.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "misc",
-        "id": "AGR Saga",
-        "tooltip": 1.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "SAWTEE",
-        "tooltip": 1.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "Zhenhua Data Information Technology Co . Limited",
-        "tooltip": 1.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "Intelligence Bureau",
-        "tooltip": 1.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "AuthBridge",
-        "tooltip": 1.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "IB",
-        "tooltip": 1.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "Bharat Pe",
-        "tooltip": 1.0,
-        "photo": "nopic"
-    },
-    {
-        "group": "location",
-        "id": "Nimu",
         "tooltip": 1.0,
         "photo": "nopic"
     }
@@ -2440,12 +196,6 @@
         "target": "Rajnath Singh",
         "source": "India",
         "costWhereApplicable": 6867.0,
-        "relationship": "nopic"
-    },
-    {
-        "target": "Rajnath Singh",
-        "source": "United States",
-        "costWhereApplicable": 4915.0,
         "relationship": "nopic"
     },
     {
@@ -2474,212 +224,8 @@
     },
     {
         "target": "Rajnath Singh",
-        "source": "New Delhi",
-        "costWhereApplicable": 876.0,
-        "relationship": "nopic"
-    },
-    {
-        "target": "Rajnath Singh",
-        "source": "Covid",
-        "costWhereApplicable": 830.0,
-        "relationship": "nopic"
-    },
-    {
-        "target": "Rajnath Singh",
-        "source": "NSE",
-        "costWhereApplicable": 796.0,
-        "relationship": "nopic"
-    },
-    {
-        "target": "Rajnath Singh",
-        "source": "Hong Kong",
-        "costWhereApplicable": 786.0,
-        "relationship": "nopic"
-    },
-    {
-        "target": "Rajnath Singh",
-        "source": "Asia",
-        "costWhereApplicable": 761.0,
-        "relationship": "nopic"
-    },
-    {
-        "target": "Rajnath Singh",
-        "source": "Sensex",
-        "costWhereApplicable": 738.0,
-        "relationship": "nopic"
-    },
-    {
-        "target": "Rajnath Singh",
-        "source": "Europe",
-        "costWhereApplicable": 711.0,
-        "relationship": "nopic"
-    },
-    {
-        "target": "Rajnath Singh",
-        "source": "Delhi",
-        "costWhereApplicable": 667.0,
-        "relationship": "nopic"
-    },
-    {
-        "target": "Rajnath Singh",
-        "source": "Nirmala Sitharaman",
-        "costWhereApplicable": 582.0,
-        "relationship": "nopic"
-    },
-    {
-        "target": "Rajnath Singh",
-        "source": "Beijing",
-        "costWhereApplicable": 554.0,
-        "relationship": "nopic"
-    },
-    {
-        "target": "Rajnath Singh",
-        "source": "European",
-        "costWhereApplicable": 522.0,
-        "relationship": "nopic"
-    },
-    {
-        "target": "Rajnath Singh",
-        "source": "Russia",
-        "costWhereApplicable": 502.0,
-        "relationship": "nopic"
-    },
-    {
-        "target": "Rajnath Singh",
-        "source": "HDFC Bank",
-        "costWhereApplicable": 461.0,
-        "relationship": "nopic"
-    },
-    {
-        "target": "Rajnath Singh",
-        "source": "State Bank of India",
-        "costWhereApplicable": 461.0,
-        "relationship": "nopic"
-    },
-    {
-        "target": "Rajnath Singh",
-        "source": "ICICI Bank",
-        "costWhereApplicable": 461.0,
-        "relationship": "nopic"
-    },
-    {
-        "target": "Rajnath Singh",
-        "source": "Germany",
-        "costWhereApplicable": 419.0,
-        "relationship": "nopic"
-    },
-    {
-        "target": "Rajnath Singh",
-        "source": "Axis Bank",
-        "costWhereApplicable": 406.0,
-        "relationship": "nopic"
-    },
-    {
-        "target": "Rajnath Singh",
-        "source": "Modi",
-        "costWhereApplicable": 393.0,
-        "relationship": "nopic"
-    },
-    {
-        "target": "Rajnath Singh",
-        "source": "Bharti Airtel",
-        "costWhereApplicable": 380.0,
-        "relationship": "nopic"
-    },
-    {
-        "target": "Rajnath Singh",
-        "source": "Australia",
-        "costWhereApplicable": 363.0,
-        "relationship": "nopic"
-    },
-    {
-        "target": "Rajnath Singh",
-        "source": "S & P BSE Sensex",
-        "costWhereApplicable": 362.0,
-        "relationship": "nopic"
-    },
-    {
-        "target": "Rajnath Singh",
-        "source": "Maharashtra",
-        "costWhereApplicable": 354.0,
-        "relationship": "nopic"
-    },
-    {
-        "target": "Rajnath Singh",
-        "source": "Singapore",
-        "costWhereApplicable": 338.0,
-        "relationship": "nopic"
-    },
-    {
-        "target": "Rajnath Singh",
-        "source": "France",
-        "costWhereApplicable": 336.0,
-        "relationship": "nopic"
-    },
-    {
-        "target": "Rajnath Singh",
-        "source": "Infosys",
-        "costWhereApplicable": 326.0,
-        "relationship": "nopic"
-    },
-    {
-        "target": "Rajnath Singh",
-        "source": "Co",
-        "costWhereApplicable": 319.0,
-        "relationship": "nopic"
-    },
-    {
-        "target": "Rajnath Singh",
-        "source": "Supreme Court",
-        "costWhereApplicable": 317.0,
-        "relationship": "nopic"
-    },
-    {
-        "target": "Rajnath Singh",
-        "source": "South Korea",
-        "costWhereApplicable": 301.0,
-        "relationship": "nopic"
-    },
-    {
-        "target": "Rajnath Singh",
-        "source": "Kolkata",
-        "costWhereApplicable": 300.0,
-        "relationship": "nopic"
-    },
-    {
-        "target": "Rajnath Singh",
         "source": "PTI",
         "costWhereApplicable": 293.0,
-        "relationship": "nopic"
-    },
-    {
-        "target": "Rajnath Singh",
-        "source": "TCS",
-        "costWhereApplicable": 292.0,
-        "relationship": "nopic"
-    },
-    {
-        "target": "Rajnath Singh",
-        "source": "London",
-        "costWhereApplicable": 283.0,
-        "relationship": "nopic"
-    },
-    {
-        "target": "Rajnath Singh",
-        "source": "Bloomberg",
-        "costWhereApplicable": 282.0,
-        "relationship": "nopic"
-    },
-    {
-        "target": "Rajnath Singh",
-        "source": "19",
-        "costWhereApplicable": 277.0,
-        "relationship": "nopic"
-    },
-    {
-        "target": "Rajnath Singh",
-        "source": "Gujarat",
-        "costWhereApplicable": 267.0,
         "relationship": "nopic"
     },
     {
@@ -2690,50 +236,152 @@
     },
     {
         "target": "Rajnath Singh",
-        "source": "Indians",
-        "costWhereApplicable": 242.0,
-        "relationship": "nopic"
-    },
-    {
-        "target": "Rajnath Singh",
-        "source": "Congress",
-        "costWhereApplicable": 238.0,
-        "relationship": "nopic"
-    },
-    {
-        "target": "Rajnath Singh",
-        "source": "Bajaj Finance",
-        "costWhereApplicable": 234.0,
-        "relationship": "nopic"
-    },
-    {
-        "target": "Rajnath Singh",
-        "source": "ITC",
-        "costWhereApplicable": 234.0,
-        "relationship": "nopic"
-    },
-    {
-        "target": "Rajnath Singh",
-        "source": "Kotak Mahindra Bank",
-        "costWhereApplicable": 231.0,
-        "relationship": "nopic"
-    },
-    {
-        "target": "Rajnath Singh",
         "source": "Ladakh",
         "costWhereApplicable": 219.0,
         "relationship": "nopic"
     },
     {
         "target": "Rajnath Singh",
-        "source": "Tamil Nadu",
-        "costWhereApplicable": 219.0,
+        "source": "Singh",
+        "costWhereApplicable": 180.0,
         "relationship": "nopic"
     },
     {
         "target": "Rajnath Singh",
-        "source": "Centre",
-        "costWhereApplicable": 217.0,
+        "source": "Sino",
+        "costWhereApplicable": 129.0,
+        "relationship": "nopic"
+    },
+    {
+        "target": "Rajnath Singh",
+        "source": "Galwan Valley",
+        "costWhereApplicable": 128.0,
+        "relationship": "nopic"
+    },
+    {
+        "target": "Rajnath Singh",
+        "source": "AL",
+        "costWhereApplicable": 107.0,
+        "relationship": "nopic"
+    },
+    {
+        "target": "Rajnath Singh",
+        "source": "Amit Shah",
+        "costWhereApplicable": 96.0,
+        "relationship": "nopic"
+    },
+    {
+        "target": "Rajnath Singh",
+        "source": "Rajnath Singh",
+        "costWhereApplicable": 90.0,
+        "relationship": "nopic"
+    },
+    {
+        "target": "Rajnath Singh",
+        "source": "Ajit Doval",
+        "costWhereApplicable": 48.0,
+        "relationship": "nopic"
+    },
+    {
+        "target": "Rajnath Singh",
+        "source": "Bipin Rawat",
+        "costWhereApplicable": 48.0,
+        "relationship": "nopic"
+    },
+    {
+        "target": "Rajnath Singh",
+        "source": "Indian Army",
+        "costWhereApplicable": 48.0,
+        "relationship": "nopic"
+    },
+    {
+        "target": "Rajnath Singh",
+        "source": "Army",
+        "costWhereApplicable": 46.0,
+        "relationship": "nopic"
+    },
+    {
+        "target": "Rajnath Singh",
+        "source": "PLA",
+        "costWhereApplicable": 44.0,
+        "relationship": "nopic"
+    },
+    {
+        "target": "Rajnath Singh",
+        "source": "Pangong Tso",
+        "costWhereApplicable": 38.0,
+        "relationship": "nopic"
+    },
+    {
+        "target": "Rajnath Singh",
+        "source": "IANS",
+        "costWhereApplicable": 37.0,
+        "relationship": "nopic"
+    },
+    {
+        "target": "Rajnath Singh",
+        "source": "Control",
+        "costWhereApplicable": 36.0,
+        "relationship": "nopic"
+    },
+    {
+        "target": "Rajnath Singh",
+        "source": "Uttarakhand",
+        "costWhereApplicable": 33.0,
+        "relationship": "nopic"
+    },
+    {
+        "target": "Rajnath Singh",
+        "source": "People's Liberation Army",
+        "costWhereApplicable": 26.0,
+        "relationship": "nopic"
+    },
+    {
+        "target": "Rajnath Singh",
+        "source": "Indian Air Force",
+        "costWhereApplicable": 18.0,
+        "relationship": "nopic"
+    },
+    {
+        "target": "Rajnath Singh",
+        "source": "Sikkim",
+        "costWhereApplicable": 16.0,
+        "relationship": "nopic"
+    },
+    {
+        "target": "Rajnath Singh",
+        "source": "Demchok",
+        "costWhereApplicable": 12.0,
+        "relationship": "nopic"
+    },
+    {
+        "target": "Rajnath Singh",
+        "source": "Daulat Beg Oldie",
+        "costWhereApplicable": 11.0,
+        "relationship": "nopic"
+    },
+    {
+        "target": "Rajnath Singh",
+        "source": "Daulat Beg Oldi",
+        "costWhereApplicable": 5.0,
+        "relationship": "nopic"
+    },
+    {
+        "target": "Rajnath Singh",
+        "source": "Line of Control",
+        "costWhereApplicable": 3.0,
+        "relationship": "nopic"
+    },
+    {
+        "target": "Rajnath Singh",
+        "source": "Howdy Modi",
+        "costWhereApplicable": 3.0,
+        "relationship": "nopic"
+    },
+    {
+        "target": "Rajnath Singh",
+        "source": "North Si",
+        "costWhereApplicable": 1.0,
         "relationship": "nopic"
     }
 ]}
