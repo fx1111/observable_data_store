@@ -1,300 +1,300 @@
 {"nodes": [
     {
-        "group": "Rajnath Singh",
+        "group": "location",
         "id": "India",
         "tooltip": 6867.0,
         "photo": "nopic"
     },
     {
-        "group": "Rajnath Singh",
+        "group": "location",
         "id": "United States",
         "tooltip": 4915.0,
         "photo": "nopic"
     },
     {
-        "group": "Rajnath Singh",
+        "group": "misc",
         "id": "Indian",
         "tooltip": 3039.0,
         "photo": "nopic"
     },
     {
-        "group": "Rajnath Singh",
+        "group": "location",
         "id": "China",
         "tooltip": 2661.0,
         "photo": "nopic"
     },
     {
-        "group": "Rajnath Singh",
+        "group": "misc",
         "id": "Chinese",
         "tooltip": 1302.0,
         "photo": "nopic"
     },
     {
-        "group": "Rajnath Singh",
+        "group": "person",
         "id": "Narendra Modi",
         "tooltip": 1107.0,
         "photo": "nopic"
     },
     {
-        "group": "Rajnath Singh",
+        "group": "location",
         "id": "New Delhi",
         "tooltip": 876.0,
         "photo": "nopic"
     },
     {
-        "group": "Rajnath Singh",
+        "group": "misc",
         "id": "Covid",
         "tooltip": 830.0,
         "photo": "nopic"
     },
     {
-        "group": "Rajnath Singh",
+        "group": "org",
         "id": "NSE",
         "tooltip": 796.0,
         "photo": "nopic"
     },
     {
-        "group": "Rajnath Singh",
+        "group": "location",
         "id": "Hong Kong",
         "tooltip": 786.0,
         "photo": "nopic"
     },
     {
-        "group": "Rajnath Singh",
+        "group": "location",
         "id": "Asia",
         "tooltip": 761.0,
         "photo": "nopic"
     },
     {
-        "group": "Rajnath Singh",
+        "group": "org",
         "id": "Sensex",
         "tooltip": 738.0,
         "photo": "nopic"
     },
     {
-        "group": "Rajnath Singh",
+        "group": "location",
         "id": "Europe",
         "tooltip": 711.0,
         "photo": "nopic"
     },
     {
-        "group": "Rajnath Singh",
+        "group": "location",
         "id": "Delhi",
         "tooltip": 667.0,
         "photo": "nopic"
     },
     {
-        "group": "Rajnath Singh",
+        "group": "person",
         "id": "Nirmala Sitharaman",
         "tooltip": 582.0,
         "photo": "nopic"
     },
     {
-        "group": "Rajnath Singh",
+        "group": "location",
         "id": "Beijing",
         "tooltip": 554.0,
         "photo": "nopic"
     },
     {
-        "group": "Rajnath Singh",
+        "group": "misc",
         "id": "European",
         "tooltip": 522.0,
         "photo": "nopic"
     },
     {
-        "group": "Rajnath Singh",
+        "group": "location",
         "id": "Russia",
         "tooltip": 502.0,
         "photo": "nopic"
     },
     {
-        "group": "Rajnath Singh",
+        "group": "org",
         "id": "HDFC Bank",
         "tooltip": 461.0,
         "photo": "nopic"
     },
     {
-        "group": "Rajnath Singh",
+        "group": "org",
         "id": "State Bank of India",
         "tooltip": 461.0,
         "photo": "nopic"
     },
     {
-        "group": "Rajnath Singh",
+        "group": "org",
         "id": "ICICI Bank",
         "tooltip": 461.0,
         "photo": "nopic"
     },
     {
-        "group": "Rajnath Singh",
+        "group": "location",
         "id": "Germany",
         "tooltip": 419.0,
         "photo": "nopic"
     },
     {
-        "group": "Rajnath Singh",
+        "group": "org",
         "id": "Axis Bank",
         "tooltip": 406.0,
         "photo": "nopic"
     },
     {
-        "group": "Rajnath Singh",
+        "group": "person",
         "id": "Modi",
         "tooltip": 393.0,
         "photo": "nopic"
     },
     {
-        "group": "Rajnath Singh",
+        "group": "org",
         "id": "Bharti Airtel",
         "tooltip": 380.0,
         "photo": "nopic"
     },
     {
-        "group": "Rajnath Singh",
+        "group": "location",
         "id": "Australia",
         "tooltip": 363.0,
         "photo": "nopic"
     },
     {
-        "group": "Rajnath Singh",
+        "group": "org",
         "id": "S & P BSE Sensex",
         "tooltip": 362.0,
         "photo": "nopic"
     },
     {
-        "group": "Rajnath Singh",
+        "group": "location",
         "id": "Maharashtra",
         "tooltip": 354.0,
         "photo": "nopic"
     },
     {
-        "group": "Rajnath Singh",
+        "group": "location",
         "id": "Singapore",
         "tooltip": 338.0,
         "photo": "nopic"
     },
     {
-        "group": "Rajnath Singh",
+        "group": "location",
         "id": "France",
         "tooltip": 336.0,
         "photo": "nopic"
     },
     {
-        "group": "Rajnath Singh",
+        "group": "org",
         "id": "Infosys",
         "tooltip": 326.0,
         "photo": "nopic"
     },
     {
-        "group": "Rajnath Singh",
+        "group": "misc",
         "id": "Co",
         "tooltip": 319.0,
         "photo": "nopic"
     },
     {
-        "group": "Rajnath Singh",
+        "group": "org",
         "id": "Supreme Court",
         "tooltip": 317.0,
         "photo": "nopic"
     },
     {
-        "group": "Rajnath Singh",
+        "group": "location",
         "id": "South Korea",
         "tooltip": 301.0,
         "photo": "nopic"
     },
     {
-        "group": "Rajnath Singh",
+        "group": "location",
         "id": "Kolkata",
         "tooltip": 300.0,
         "photo": "nopic"
     },
     {
-        "group": "Rajnath Singh",
+        "group": "org",
         "id": "PTI",
         "tooltip": 293.0,
         "photo": "nopic"
     },
     {
-        "group": "Rajnath Singh",
+        "group": "org",
         "id": "TCS",
         "tooltip": 292.0,
         "photo": "nopic"
     },
     {
-        "group": "Rajnath Singh",
+        "group": "location",
         "id": "London",
         "tooltip": 283.0,
         "photo": "nopic"
     },
     {
-        "group": "Rajnath Singh",
+        "group": "org",
         "id": "Bloomberg",
         "tooltip": 282.0,
         "photo": "nopic"
     },
     {
-        "group": "Rajnath Singh",
+        "group": "misc",
         "id": "19",
         "tooltip": 277.0,
         "photo": "nopic"
     },
     {
-        "group": "Rajnath Singh",
+        "group": "location",
         "id": "Gujarat",
         "tooltip": 267.0,
         "photo": "nopic"
     },
     {
-        "group": "Rajnath Singh",
+        "group": "person",
         "id": "George Floyd",
         "tooltip": 261.0,
         "photo": "nopic"
     },
     {
-        "group": "Rajnath Singh",
+        "group": "misc",
         "id": "Indians",
         "tooltip": 242.0,
         "photo": "nopic"
     },
     {
-        "group": "Rajnath Singh",
+        "group": "org",
         "id": "Congress",
         "tooltip": 238.0,
         "photo": "nopic"
     },
     {
-        "group": "Rajnath Singh",
+        "group": "org",
         "id": "Bajaj Finance",
         "tooltip": 234.0,
         "photo": "nopic"
     },
     {
-        "group": "Rajnath Singh",
+        "group": "org",
         "id": "ITC",
         "tooltip": 234.0,
         "photo": "nopic"
     },
     {
-        "group": "Rajnath Singh",
+        "group": "org",
         "id": "Kotak Mahindra Bank",
         "tooltip": 231.0,
         "photo": "nopic"
     },
     {
-        "group": "Rajnath Singh",
+        "group": "location",
         "id": "Ladakh",
         "tooltip": 219.0,
         "photo": "nopic"
     },
     {
-        "group": "Rajnath Singh",
+        "group": "location",
         "id": "Tamil Nadu",
         "tooltip": 219.0,
         "photo": "nopic"
     },
     {
-        "group": "Rajnath Singh",
+        "group": "org",
         "id": "Centre",
         "tooltip": 217.0,
         "photo": "nopic"
