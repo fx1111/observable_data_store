@@ -690,6 +690,29 @@
         "photo": "nopic"
     }
 ],"links": [
+    
+    
+{
+        "target": "Motilal Oswal",
+        "source": "Locations",
+        "costWhereApplicable": "Linkrelay",
+        "relationship": "nopic"
+    },
+{
+        "target": "Motilal Oswal",
+        "source": "Organizations",
+        "costWhereApplicable": "Linkrelay",
+        "relationship": "nopic"
+    },
+
+{
+        "target": "Motilal Oswal",
+        "source": "Miscellaneous",
+        "costWhereApplicable": "Linkrelay",
+        "relationship": "nopic"
+    },
+    
+    
     {
         "target": "Locations",
         "source": "India",
