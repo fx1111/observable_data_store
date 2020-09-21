@@ -1,10 +1,34 @@
-{"nodes": [
-    {
-        "group": "person",
+{
+    "nodes":   
+   [
+      {       "group": "person",
         "id": "Motilal Oswal",
-        "tooltip": "Motilal Oswal::Master Node",
+        "tooltip": "Master Node",
+        "photo": "nopic"
+    },  {
+        "group": "location",
+        "id": "Locations",
+        "tooltip": "Locations::Link relay",
         "photo": "nopic"
     },
+      {
+        "group": "org",
+        "id": "Organizations",
+        "tooltip": "Organizations::Link relay",
+        "photo": "nopic"
+    },
+      {
+        "group": "misc",
+        "id": "Miscellaneous",
+        "tooltip": "Miscellaneous::Link relay",
+        "photo": "nopic"
+    },
+        
+        
+        
+        
+        
+        
     {
         "group": "location",
         "id": "India",
@@ -24,9 +48,27 @@
         "photo": "nopic"
     },
     {
+        "group": "org",
+        "id": "Reuters",
+        "tooltip": "Reuters::2881",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "China",
+        "tooltip": "China::2661",
+        "photo": "nopic"
+    },
+    {
         "group": "misc",
         "id": "Coronavirus",
         "tooltip": "Coronavirus::2224",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "Mumbai",
+        "tooltip": "Mumbai::1691",
         "photo": "nopic"
     },
     {
@@ -42,9 +84,27 @@
         "photo": "nopic"
     },
     {
+        "group": "misc",
+        "id": "BSE",
+        "tooltip": "BSE::703",
+        "photo": "nopic"
+    },
+    {
         "group": "location",
         "id": "Delhi",
         "tooltip": "Delhi::667",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "Corona",
+        "tooltip": "Corona::511",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Narendra Modi",
+        "tooltip": "Narendra Modi::369",
         "photo": "nopic"
     },
     {
@@ -63,6 +123,12 @@
         "group": "misc",
         "id": "Co",
         "tooltip": "Co::319",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "Ni",
+        "tooltip": "Ni::315",
         "photo": "nopic"
     },
     {
@@ -103,14 +169,38 @@
     },
     {
         "group": "location",
+        "id": "United",
+        "tooltip": "United::190",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
         "id": "Uttar Pradesh",
         "tooltip": "Uttar Pradesh::187",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "G",
+        "tooltip": "G::184",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Dalal Street",
+        "tooltip": "Dalal Street::155",
         "photo": "nopic"
     },
     {
         "group": "location",
         "id": "Karnataka",
         "tooltip": "Karnataka::153",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Shaktikanta Das",
+        "tooltip": "Shaktikanta Das::150",
         "photo": "nopic"
     },
     {
@@ -139,8 +229,56 @@
     },
     {
         "group": "org",
+        "id": "SEBI",
+        "tooltip": "SEBI::85",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Reserve Bank",
+        "tooltip": "Reserve Bank::83",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "CBDT",
+        "tooltip": "CBDT::79",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
         "id": "Coal India",
         "tooltip": "Coal India::70",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "Re",
+        "tooltip": "Re::61",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Central Board of Direct Taxes",
+        "tooltip": "Central Board of Direct Taxes::60",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "GST Council",
+        "tooltip": "GST Council::60",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "CII",
+        "tooltip": "CII::57",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "IRDAI",
+        "tooltip": "IRDAI::49",
         "photo": "nopic"
     },
     {
@@ -151,8 +289,68 @@
     },
     {
         "group": "org",
+        "id": "Department",
+        "tooltip": "Department::45",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "K",
+        "tooltip": "K::38",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
         "id": "Railways",
         "tooltip": "Railways::35",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Income Tax Department",
+        "tooltip": "Income Tax Department::32",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Air",
+        "tooltip": "Air::30",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "GST",
+        "tooltip": "GST::29",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "NMDC",
+        "tooltip": "NMDC::26",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "National Statistical Office",
+        "tooltip": "National Statistical Office::25",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Ajay Tyagi",
+        "tooltip": "Ajay Tyagi::22",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Aditi Nayar",
+        "tooltip": "Aditi Nayar::21",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Swiggy",
+        "tooltip": "Swiggy::21",
         "photo": "nopic"
     },
     {
@@ -163,14 +361,68 @@
     },
     {
         "group": "org",
+        "id": "Commerce Ministry",
+        "tooltip": "Commerce Ministry::19",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
         "id": "Research",
         "tooltip": "Research::19",
         "photo": "nopic"
     },
     {
         "group": "misc",
+        "id": "Fi",
+        "tooltip": "Fi::19",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Ajay Bhushan Pandey",
+        "tooltip": "Ajay Bhushan Pandey::19",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Tarun Bajaj",
+        "tooltip": "Tarun Bajaj::15",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Samco Securities",
+        "tooltip": "Samco Securities::15",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
         "id": "Companies Act",
         "tooltip": "Companies Act::14",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "NHPC",
+        "tooltip": "NHPC::14",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Reserve",
+        "tooltip": "Reserve::14",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "NSO",
+        "tooltip": "NSO::14",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "IBBI",
+        "tooltip": "IBBI::10",
         "photo": "nopic"
     },
     {
@@ -186,9 +438,9 @@
         "photo": "nopic"
     },
     {
-        "group": "org",
-        "id": "NCGTC",
-        "tooltip": "NCGTC::8",
+        "group": "misc",
+        "id": "Management Act",
+        "tooltip": "Management Act::8",
         "photo": "nopic"
     },
     {
@@ -199,8 +451,50 @@
     },
     {
         "group": "org",
+        "id": "NCGTC",
+        "tooltip": "NCGTC::8",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Supratim Bandyopadhyay",
+        "tooltip": "Supratim Bandyopadhyay::7",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Insolvency and Bankruptcy Board of India",
+        "tooltip": "Insolvency and Bankruptcy Board of India::7",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Controller General of Accounts",
+        "tooltip": "Controller General of Accounts::6",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
         "id": "Jawaharlal Nehru University",
         "tooltip": "Jawaharlal Nehru University::6",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Debasish Panda",
+        "tooltip": "Debasish Panda::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "and Services",
+        "tooltip": "and Services::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "CGA",
+        "tooltip": "CGA::5",
         "photo": "nopic"
     },
     {
@@ -211,38 +505,116 @@
     },
     {
         "group": "org",
+        "id": "ICRA Ratings",
+        "tooltip": "ICRA Ratings::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Archit Gupta",
+        "tooltip": "Archit Gupta::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "FSDC",
+        "tooltip": "FSDC::4",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Rupa Rege Nitsure",
+        "tooltip": "Rupa Rege Nitsure::4",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Financial Stability and Development Council",
+        "tooltip": "Financial Stability and Development Council::4",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "ITC Hotels",
+        "tooltip": "ITC Hotels::4",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "FRBM Act",
+        "tooltip": "FRBM Act::4",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "NLC India",
+        "tooltip": "NLC India::4",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "L & T Financial Holdings",
+        "tooltip": "L & T Financial Holdings::3",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "ClearTax",
+        "tooltip": "ClearTax::3",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "Section 80C",
+        "tooltip": "Section 80C::3",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "M S Sahoo",
+        "tooltip": "M S Sahoo::3",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Subhash Chandra Khuntia",
+        "tooltip": "Subhash Chandra Khuntia::3",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Bimal Jalan",
+        "tooltip": "Bimal Jalan::2",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "Logistics Performance Index",
+        "tooltip": "Logistics Performance Index::2",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Pawan Agarwal",
+        "tooltip": "Pawan Agarwal::2",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
         "id": "CGTMSE",
         "tooltip": "CGTMSE::2",
         "photo": "nopic"
     },
     {
-        "group": "org",
-        "id": "Centre for Informal Sector & Labour Studies",
-        "tooltip": "Centre for Informal Sector & Labour Studies::1",
+        "group": "person",
+        "id": "Umesh Shah",
+        "tooltip": "Umesh Shah::2",
         "photo": "nopic"
     },
     {
         "group": "org",
-        "id": "National Credit Guarantee Trustee Company Limited",
-        "tooltip": "National Credit Guarantee Trustee Company Limited::1",
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "Credit Guarantee Fund Trust for Micro and Small Enterprises",
-        "tooltip": "Credit Guarantee Fund Trust for Micro and Small Enterprises::1",
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "Finance Ni",
-        "tooltip": "Finance Ni::1",
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "CARES Fund",
-        "tooltip": "CARES Fund::1",
+        "id": "Goldman Sachs Group",
+        "tooltip": "Goldman Sachs Group::1",
         "photo": "nopic"
     },
     {
@@ -253,8 +625,62 @@
     },
     {
         "group": "org",
+        "id": "Centre for Informal Sector & Labour Studies",
+        "tooltip": "Centre for Informal Sector & Labour Studies::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Sugam",
+        "tooltip": "Sugam::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Finance Ni",
+        "tooltip": "Finance Ni::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
         "id": "Citizens Assistance and Relief in Emergency Situations Fund",
         "tooltip": "Citizens Assistance and Relief in Emergency Situations Fund::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "National Credit Guarantee Trustee Company Limited",
+        "tooltip": "National Credit Guarantee Trustee Company Limited::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "CARES Fund",
+        "tooltip": "CARES Fund::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Credit Guarantee Fund Trust for Micro and Small Enterprises",
+        "tooltip": "Credit Guarantee Fund Trust for Micro and Small Enterprises::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "MGNR",
+        "tooltip": "MGNR::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "National Logistics Policy",
+        "tooltip": "National Logistics Policy::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "PFRDAI",
+        "tooltip": "PFRDAI::1",
         "photo": "nopic"
     },
     {
@@ -265,91 +691,133 @@
     }
 ],"links": [
     {
-        "target": "Motilal Oswal",
+        "target": "Locations",
         "source": "India",
         "costWhereApplicable": "India::6867",
         "relationship": "nopic"
     },
     {
-        "target": "Motilal Oswal",
+        "target": "Locations",
         "source": "United States",
         "costWhereApplicable": "United States::4915",
         "relationship": "nopic"
     },
     {
-        "target": "Motilal Oswal",
+        "target": "Miscellaneous",
         "source": "Indian",
         "costWhereApplicable": "Indian::3039",
         "relationship": "nopic"
     },
     {
-        "target": "Motilal Oswal",
+        "target": "Organizations",
+        "source": "Reuters",
+        "costWhereApplicable": "Reuters::2881",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
+        "source": "China",
+        "costWhereApplicable": "China::2661",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
         "source": "Coronavirus",
         "costWhereApplicable": "Coronavirus::2224",
         "relationship": "nopic"
     },
     {
-        "target": "Motilal Oswal",
+        "target": "Locations",
+        "source": "Mumbai",
+        "costWhereApplicable": "Mumbai::1691",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
         "source": "RBI",
         "costWhereApplicable": "RBI::1372",
         "relationship": "nopic"
     },
     {
-        "target": "Motilal Oswal",
+        "target": "Organizations",
         "source": "Reserve Bank of India",
         "costWhereApplicable": "Reserve Bank of India::828",
         "relationship": "nopic"
     },
     {
-        "target": "Motilal Oswal",
+        "target": "Miscellaneous",
+        "source": "BSE",
+        "costWhereApplicable": "BSE::703",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
         "source": "Delhi",
         "costWhereApplicable": "Delhi::667",
         "relationship": "nopic"
     },
     {
+        "target": "Miscellaneous",
+        "source": "Corona",
+        "costWhereApplicable": "Corona::511",
+        "relationship": "nopic"
+    },
+    {
         "target": "Motilal Oswal",
+        "source": "Narendra Modi",
+        "costWhereApplicable": "Narendra Modi::369",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
         "source": "Maharashtra",
         "costWhereApplicable": "Maharashtra::354",
         "relationship": "nopic"
     },
     {
-        "target": "Motilal Oswal",
+        "target": "Locations",
         "source": "France",
         "costWhereApplicable": "France::336",
         "relationship": "nopic"
     },
     {
-        "target": "Motilal Oswal",
+        "target": "Miscellaneous",
         "source": "Co",
         "costWhereApplicable": "Co::319",
         "relationship": "nopic"
     },
     {
-        "target": "Motilal Oswal",
+        "target": "Miscellaneous",
+        "source": "Ni",
+        "costWhereApplicable": "Ni::315",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
         "source": "PTI",
         "costWhereApplicable": "PTI::293",
         "relationship": "nopic"
     },
     {
-        "target": "Motilal Oswal",
+        "target": "Locations",
         "source": "Gujarat",
         "costWhereApplicable": "Gujarat::267",
         "relationship": "nopic"
     },
     {
-        "target": "Motilal Oswal",
+        "target": "Organizations",
         "source": "Congress",
         "costWhereApplicable": "Congress::238",
         "relationship": "nopic"
     },
     {
-        "target": "Motilal Oswal",
+        "target": "Organizations",
         "source": "Business Standard",
         "costWhereApplicable": "Business Standard::231",
         "relationship": "nopic"
     },
     {
-        "target": "Motilal Oswal",
+        "target": "Organizations",
         "source": "Centre",
         "costWhereApplicable": "Centre::217",
         "relationship": "nopic"
@@ -361,57 +829,189 @@
         "relationship": "nopic"
     },
     {
-        "target": "Motilal Oswal",
+        "target": "Locations",
+        "source": "United",
+        "costWhereApplicable": "United::190",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
         "source": "Uttar Pradesh",
         "costWhereApplicable": "Uttar Pradesh::187",
         "relationship": "nopic"
     },
     {
-        "target": "Motilal Oswal",
+        "target": "Miscellaneous",
+        "source": "G",
+        "costWhereApplicable": "G::184",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Dalal Street",
+        "costWhereApplicable": "Dalal Street::155",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
         "source": "Karnataka",
         "costWhereApplicable": "Karnataka::153",
         "relationship": "nopic"
     },
     {
         "target": "Motilal Oswal",
+        "source": "Shaktikanta Das",
+        "costWhereApplicable": "Shaktikanta Das::150",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
         "source": "Rajasthan",
         "costWhereApplicable": "Rajasthan::142",
         "relationship": "nopic"
     },
     {
-        "target": "Motilal Oswal",
+        "target": "Locations",
         "source": "Andhra Pradesh",
         "costWhereApplicable": "Andhra Pradesh::131",
         "relationship": "nopic"
     },
     {
-        "target": "Motilal Oswal",
+        "target": "Locations",
         "source": "Madhya Pradesh",
         "costWhereApplicable": "Madhya Pradesh::120",
         "relationship": "nopic"
     },
     {
-        "target": "Motilal Oswal",
+        "target": "Organizations",
         "source": "Finance Ministry",
         "costWhereApplicable": "Finance Ministry::105",
         "relationship": "nopic"
     },
     {
-        "target": "Motilal Oswal",
+        "target": "Organizations",
+        "source": "SEBI",
+        "costWhereApplicable": "SEBI::85",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Reserve Bank",
+        "costWhereApplicable": "Reserve Bank::83",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "CBDT",
+        "costWhereApplicable": "CBDT::79",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
         "source": "Coal India",
         "costWhereApplicable": "Coal India::70",
         "relationship": "nopic"
     },
     {
-        "target": "Motilal Oswal",
+        "target": "Miscellaneous",
+        "source": "Re",
+        "costWhereApplicable": "Re::61",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Central Board of Direct Taxes",
+        "costWhereApplicable": "Central Board of Direct Taxes::60",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "GST Council",
+        "costWhereApplicable": "GST Council::60",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "CII",
+        "costWhereApplicable": "CII::57",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "IRDAI",
+        "costWhereApplicable": "IRDAI::49",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
         "source": "Corporation",
         "costWhereApplicable": "Corporation::46",
         "relationship": "nopic"
     },
     {
-        "target": "Motilal Oswal",
+        "target": "Organizations",
+        "source": "Department",
+        "costWhereApplicable": "Department::45",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
+        "source": "K",
+        "costWhereApplicable": "K::38",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
         "source": "Railways",
         "costWhereApplicable": "Railways::35",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Income Tax Department",
+        "costWhereApplicable": "Income Tax Department::32",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Air",
+        "costWhereApplicable": "Air::30",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "GST",
+        "costWhereApplicable": "GST::29",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "NMDC",
+        "costWhereApplicable": "NMDC::26",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "National Statistical Office",
+        "costWhereApplicable": "National Statistical Office::25",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Motilal Oswal",
+        "source": "Ajay Tyagi",
+        "costWhereApplicable": "Ajay Tyagi::22",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Motilal Oswal",
+        "source": "Aditi Nayar",
+        "costWhereApplicable": "Aditi Nayar::21",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Swiggy",
+        "costWhereApplicable": "Swiggy::21",
         "relationship": "nopic"
     },
     {
@@ -421,15 +1021,69 @@
         "relationship": "nopic"
     },
     {
-        "target": "Motilal Oswal",
+        "target": "Organizations",
+        "source": "Commerce Ministry",
+        "costWhereApplicable": "Commerce Ministry::19",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
         "source": "Research",
         "costWhereApplicable": "Research::19",
         "relationship": "nopic"
     },
     {
+        "target": "Miscellaneous",
+        "source": "Fi",
+        "costWhereApplicable": "Fi::19",
+        "relationship": "nopic"
+    },
+    {
         "target": "Motilal Oswal",
+        "source": "Ajay Bhushan Pandey",
+        "costWhereApplicable": "Ajay Bhushan Pandey::19",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Motilal Oswal",
+        "source": "Tarun Bajaj",
+        "costWhereApplicable": "Tarun Bajaj::15",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Samco Securities",
+        "costWhereApplicable": "Samco Securities::15",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
         "source": "Companies Act",
         "costWhereApplicable": "Companies Act::14",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "NHPC",
+        "costWhereApplicable": "NHPC::14",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Reserve",
+        "costWhereApplicable": "Reserve::14",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "NSO",
+        "costWhereApplicable": "NSO::14",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "IBBI",
+        "costWhereApplicable": "IBBI::10",
         "relationship": "nopic"
     },
     {
@@ -439,15 +1093,15 @@
         "relationship": "nopic"
     },
     {
-        "target": "Motilal Oswal",
+        "target": "Miscellaneous",
         "source": "PM",
         "costWhereApplicable": "PM::9",
         "relationship": "nopic"
     },
     {
-        "target": "Motilal Oswal",
-        "source": "NCGTC",
-        "costWhereApplicable": "NCGTC::8",
+        "target": "Miscellaneous",
+        "source": "Management Act",
+        "costWhereApplicable": "Management Act::8",
         "relationship": "nopic"
     },
     {
@@ -457,63 +1111,237 @@
         "relationship": "nopic"
     },
     {
+        "target": "Organizations",
+        "source": "NCGTC",
+        "costWhereApplicable": "NCGTC::8",
+        "relationship": "nopic"
+    },
+    {
         "target": "Motilal Oswal",
+        "source": "Supratim Bandyopadhyay",
+        "costWhereApplicable": "Supratim Bandyopadhyay::7",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Insolvency and Bankruptcy Board of India",
+        "costWhereApplicable": "Insolvency and Bankruptcy Board of India::7",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Controller General of Accounts",
+        "costWhereApplicable": "Controller General of Accounts::6",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
         "source": "Jawaharlal Nehru University",
         "costWhereApplicable": "Jawaharlal Nehru University::6",
         "relationship": "nopic"
     },
     {
         "target": "Motilal Oswal",
+        "source": "Debasish Panda",
+        "costWhereApplicable": "Debasish Panda::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "and Services",
+        "costWhereApplicable": "and Services::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "CGA",
+        "costWhereApplicable": "CGA::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
         "source": "GECL",
         "costWhereApplicable": "GECL::5",
         "relationship": "nopic"
     },
     {
+        "target": "Organizations",
+        "source": "ICRA Ratings",
+        "costWhereApplicable": "ICRA Ratings::5",
+        "relationship": "nopic"
+    },
+    {
         "target": "Motilal Oswal",
+        "source": "Archit Gupta",
+        "costWhereApplicable": "Archit Gupta::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "FSDC",
+        "costWhereApplicable": "FSDC::4",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Motilal Oswal",
+        "source": "Rupa Rege Nitsure",
+        "costWhereApplicable": "Rupa Rege Nitsure::4",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Financial Stability and Development Council",
+        "costWhereApplicable": "Financial Stability and Development Council::4",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "ITC Hotels",
+        "costWhereApplicable": "ITC Hotels::4",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "FRBM Act",
+        "costWhereApplicable": "FRBM Act::4",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "NLC India",
+        "costWhereApplicable": "NLC India::4",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "L & T Financial Holdings",
+        "costWhereApplicable": "L & T Financial Holdings::3",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "ClearTax",
+        "costWhereApplicable": "ClearTax::3",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "Section 80C",
+        "costWhereApplicable": "Section 80C::3",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Motilal Oswal",
+        "source": "M S Sahoo",
+        "costWhereApplicable": "M S Sahoo::3",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Motilal Oswal",
+        "source": "Subhash Chandra Khuntia",
+        "costWhereApplicable": "Subhash Chandra Khuntia::3",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Motilal Oswal",
+        "source": "Bimal Jalan",
+        "costWhereApplicable": "Bimal Jalan::2",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "Logistics Performance Index",
+        "costWhereApplicable": "Logistics Performance Index::2",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Motilal Oswal",
+        "source": "Pawan Agarwal",
+        "costWhereApplicable": "Pawan Agarwal::2",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
         "source": "CGTMSE",
         "costWhereApplicable": "CGTMSE::2",
         "relationship": "nopic"
     },
     {
         "target": "Motilal Oswal",
+        "source": "Umesh Shah",
+        "costWhereApplicable": "Umesh Shah::2",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Goldman Sachs Group",
+        "costWhereApplicable": "Goldman Sachs Group::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "National Relief Fund",
+        "costWhereApplicable": "National Relief Fund::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
         "source": "Centre for Informal Sector & Labour Studies",
         "costWhereApplicable": "Centre for Informal Sector & Labour Studies::1",
         "relationship": "nopic"
     },
     {
         "target": "Motilal Oswal",
-        "source": "National Credit Guarantee Trustee Company Limited",
-        "costWhereApplicable": "National Credit Guarantee Trustee Company Limited::1",
+        "source": "Sugam",
+        "costWhereApplicable": "Sugam::1",
         "relationship": "nopic"
     },
     {
-        "target": "Motilal Oswal",
-        "source": "Credit Guarantee Fund Trust for Micro and Small Enterprises",
-        "costWhereApplicable": "Credit Guarantee Fund Trust for Micro and Small Enterprises::1",
-        "relationship": "nopic"
-    },
-    {
-        "target": "Motilal Oswal",
+        "target": "Organizations",
         "source": "Finance Ni",
         "costWhereApplicable": "Finance Ni::1",
         "relationship": "nopic"
     },
     {
-        "target": "Motilal Oswal",
+        "target": "Organizations",
+        "source": "Citizens Assistance and Relief in Emergency Situations Fund",
+        "costWhereApplicable": "Citizens Assistance and Relief in Emergency Situations Fund::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "National Credit Guarantee Trustee Company Limited",
+        "costWhereApplicable": "National Credit Guarantee Trustee Company Limited::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
         "source": "CARES Fund",
         "costWhereApplicable": "CARES Fund::1",
         "relationship": "nopic"
     },
     {
-        "target": "Motilal Oswal",
-        "source": "National Relief Fund",
-        "costWhereApplicable": "National Relief Fund::1",
+        "target": "Organizations",
+        "source": "Credit Guarantee Fund Trust for Micro and Small Enterprises",
+        "costWhereApplicable": "Credit Guarantee Fund Trust for Micro and Small Enterprises::1",
         "relationship": "nopic"
     },
     {
-        "target": "Motilal Oswal",
-        "source": "Citizens Assistance and Relief in Emergency Situations Fund",
-        "costWhereApplicable": "Citizens Assistance and Relief in Emergency Situations Fund::1",
+        "target": "Organizations",
+        "source": "MGNR",
+        "costWhereApplicable": "MGNR::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "National Logistics Policy",
+        "costWhereApplicable": "National Logistics Policy::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "PFRDAI",
+        "costWhereApplicable": "PFRDAI::1",
         "relationship": "nopic"
     },
     {
