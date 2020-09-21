@@ -1,4 +1,22 @@
-{"nodes": [
+{"nodes":   [
+  {
+        "group": "location",
+        "id": "Locations",
+        "tooltip": "Locations::Link relay",
+        "photo": "nopic"
+    },
+      {
+        "group": "org",
+        "id": "Organizations",
+        "tooltip": "Organizations::Link relay",
+        "photo": "nopic"
+    },
+      {
+        "group": "misc",
+        "id": "Miscellaneous",
+        "tooltip": "Miscellaneous::Link relay",
+        "photo": "nopic"
+    },
     {
         "group": "location",
         "id": "India",
@@ -6,9 +24,21 @@
         "photo": "nopic"
     },
     {
+        "group": "location",
+        "id": "United States",
+        "tooltip": "United States::4915",
+        "photo": "nopic"
+    },
+    {
         "group": "misc",
         "id": "Indian",
         "tooltip": "Indian::3039",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Reuters",
+        "tooltip": "Reuters::2881",
         "photo": "nopic"
     },
     {
@@ -19,38 +49,200 @@
     },
     {
         "group": "misc",
-        "id": "Chinese",
-        "tooltip": "Chinese::1302",
-        "photo": "nopic"
-    },
-    {
-        "group": "person",
-        "id": "Narendra Modi",
-        "tooltip": "Narendra Modi::1107",
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "PTI",
-        "tooltip": "PTI::293",
-        "photo": "nopic"
-    },
-    {
-        "group": "person",
-        "id": "George Floyd",
-        "tooltip": "George Floyd::261",
+        "id": "Coronavirus",
+        "tooltip": "Coronavirus::2224",
         "photo": "nopic"
     },
     {
         "group": "location",
-        "id": "Ladakh",
-        "tooltip": "Ladakh::219",
+        "id": "Mumbai",
+        "tooltip": "Mumbai::1691",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "RBI",
+        "tooltip": "RBI::1372",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "Japan",
+        "tooltip": "Japan::946",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "Asian",
+        "tooltip": "Asian::860",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "Covid",
+        "tooltip": "Covid::830",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "Hong Kong",
+        "tooltip": "Hong Kong::786",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "Asia",
+        "tooltip": "Asia::761",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Sensex",
+        "tooltip": "Sensex::738",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "Europe",
+        "tooltip": "Europe::711",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "BSE",
+        "tooltip": "BSE::703",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "Wall Street",
+        "tooltip": "Wall Street::513",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Nifty",
+        "tooltip": "Nifty::467",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "GM",
+        "tooltip": "GM::458",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "S & P BSE Sensex",
+        "tooltip": "S & P BSE Sensex::362",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "Tokyo",
+        "tooltip": "Tokyo::317",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "MSCI",
+        "tooltip": "MSCI::304",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "Kolkata",
+        "tooltip": "Kolkata::300",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Bloomberg",
+        "tooltip": "Bloomberg::282",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Times Syndication Service",
+        "tooltip": "Times Syndication Service::266",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Bennett , Coleman & Co . Ltd",
+        "tooltip": "Bennett , Coleman & Co . Ltd::265",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "ITC",
+        "tooltip": "ITC::234",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "HDFC Securities",
+        "tooltip": "HDFC Securities::233",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Business Standard",
+        "tooltip": "Business Standard::231",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "HDFC",
+        "tooltip": "HDFC::225",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "ICICI Securities",
+        "tooltip": "ICICI Securities::220",
         "photo": "nopic"
     },
     {
         "group": "person",
-        "id": "Singh",
-        "tooltip": "Singh::180",
+        "id": "Motilal Oswal",
+        "tooltip": "Motilal Oswal::189",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "Nifty 50",
+        "tooltip": "Nifty 50::169",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "S",
+        "tooltip": "S::162",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "E",
+        "tooltip": "E::160",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "IS",
+        "tooltip": "IS::156",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "S & P 500",
+        "tooltip": "S & P 500::150",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Ltd",
+        "tooltip": "Ltd::148",
         "photo": "nopic"
     },
     {
@@ -60,328 +252,1100 @@
         "photo": "nopic"
     },
     {
-        "group": "location",
-        "id": "Galwan Valley",
-        "tooltip": "Galwan Valley::128",
-        "photo": "nopic"
-    },
-    {
         "group": "org",
-        "id": "AL",
-        "tooltip": "AL::107",
-        "photo": "nopic"
-    },
-    {
-        "group": "person",
-        "id": "Amit Shah",
-        "tooltip": "Amit Shah::96",
-        "photo": "nopic"
-    },
-    {
-        "group": "person",
-        "id": "Rajnath Singh",
-        "tooltip": "Rajnath Singh::90",
-        "photo": "nopic"
-    },
-    {
-        "group": "person",
-        "id": "Ajit Doval",
-        "tooltip": "Ajit Doval::48",
-        "photo": "nopic"
-    },
-    {
-        "group": "person",
-        "id": "Bipin Rawat",
-        "tooltip": "Bipin Rawat::48",
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "Indian Army",
-        "tooltip": "Indian Army::48",
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "Army",
-        "tooltip": "Army::46",
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "PLA",
-        "tooltip": "PLA::44",
-        "photo": "nopic"
-    },
-    {
-        "group": "location",
-        "id": "Pangong Tso",
-        "tooltip": "Pangong Tso::38",
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "IANS",
-        "tooltip": "IANS::37",
+        "id": "& P",
+        "tooltip": "& P::94",
         "photo": "nopic"
     },
     {
         "group": "misc",
-        "id": "Control",
-        "tooltip": "Control::36",
-        "photo": "nopic"
-    },
-    {
-        "group": "location",
-        "id": "Uttarakhand",
-        "tooltip": "Uttarakhand::33",
+        "id": "Nasda",
+        "tooltip": "Nasda::87",
         "photo": "nopic"
     },
     {
         "group": "org",
-        "id": "People's Liberation Army",
-        "tooltip": "People's Liberation Army::26",
+        "id": "Hindalco",
+        "tooltip": "Hindalco::86",
         "photo": "nopic"
     },
     {
         "group": "org",
-        "id": "Indian Air Force",
-        "tooltip": "Indian Air Force::18",
+        "id": "Motilal Oswal Financial Services",
+        "tooltip": "Motilal Oswal Financial Services::85",
         "photo": "nopic"
     },
     {
-        "group": "location",
-        "id": "Sikkim",
-        "tooltip": "Sikkim::16",
+        "group": "org",
+        "id": "NBFC",
+        "tooltip": "NBFC::82",
         "photo": "nopic"
     },
     {
-        "group": "location",
-        "id": "Demchok",
-        "tooltip": "Demchok::12",
+        "group": "org",
+        "id": "FMCG",
+        "tooltip": "FMCG::81",
         "photo": "nopic"
     },
     {
-        "group": "location",
-        "id": "Daulat Beg Oldie",
-        "tooltip": "Daulat Beg Oldie::11",
+        "group": "misc",
+        "id": "Dow Jones",
+        "tooltip": "Dow Jones::79",
         "photo": "nopic"
     },
     {
-        "group": "location",
-        "id": "Daulat Beg Oldi",
-        "tooltip": "Daulat Beg Oldi::5",
+        "group": "org",
+        "id": "Nomura",
+        "tooltip": "Nomura::71",
         "photo": "nopic"
     },
     {
-        "group": "location",
-        "id": "Line of Control",
-        "tooltip": "Line of Control::3",
+        "group": "org",
+        "id": "CLSA",
+        "tooltip": "CLSA::67",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Bandhan Bank",
+        "tooltip": "Bandhan Bank::66",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Edelweiss",
+        "tooltip": "Edelweiss::60",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Reliance Securities",
+        "tooltip": "Reliance Securities::59",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Bombay Stock Exchange",
+        "tooltip": "Bombay Stock Exchange::58",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Motilal Oswal Securities",
+        "tooltip": "Motilal Oswal Securities::55",
         "photo": "nopic"
     },
     {
         "group": "person",
-        "id": "Howdy Modi",
-        "tooltip": "Howdy Modi::3",
+        "id": "Chandan Taparia",
+        "tooltip": "Chandan Taparia::54",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Kotak Institutional Equities",
+        "tooltip": "Kotak Institutional Equities::50",
         "photo": "nopic"
     },
     {
         "group": "location",
-        "id": "North Si",
-        "tooltip": "North Si::1",
+        "id": "Sydney",
+        "tooltip": "Sydney::47",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "BENGALURU",
+        "tooltip": "BENGALURU::45",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "BS",
+        "tooltip": "BS::40",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Nagaraj Shetti",
+        "tooltip": "Nagaraj Shetti::39",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "MOFSL",
+        "tooltip": "MOFSL::37",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "B",
+        "tooltip": "B::33",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "HDFC Bank Ltd",
+        "tooltip": "HDFC Bank Ltd::30",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Aditya Agarwala",
+        "tooltip": "Aditya Agarwala::28",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "IDBI Capital",
+        "tooltip": "IDBI Capital::27",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "P",
+        "tooltip": "P::25",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "Euro",
+        "tooltip": "Euro::24",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "ACE Equity",
+        "tooltip": "ACE Equity::22",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Avenue Supermarts",
+        "tooltip": "Avenue Supermarts::21",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Jain",
+        "tooltip": "Jain::20",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Siddhartha Khemka",
+        "tooltip": "Siddhartha Khemka::20",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "HFC",
+        "tooltip": "HFC::19",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "AG",
+        "tooltip": "AG::17",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "DMart",
+        "tooltip": "DMart::15",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Phillip Capital",
+        "tooltip": "Phillip Capital::15",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "Memorial Day",
+        "tooltip": "Memorial Day::13",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Zara",
+        "tooltip": "Zara::11",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Havells India",
+        "tooltip": "Havells India::9",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "Ra",
+        "tooltip": "Ra::8",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Star",
+        "tooltip": "Star::8",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "ITC Ltd",
+        "tooltip": "ITC Ltd::7",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Dr Reddy \u2019 s",
+        "tooltip": "Dr Reddy \u2019 s::6",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Trent",
+        "tooltip": "Trent::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "Eastern",
+        "tooltip": "Eastern::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Aashirvaad",
+        "tooltip": "Aashirvaad::4",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "SFPL",
+        "tooltip": "SFPL::4",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Sunrise Foods Private Limited",
+        "tooltip": "Sunrise Foods Private Limited::4",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Sunrise Foods",
+        "tooltip": "Sunrise Foods::4",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Westside",
+        "tooltip": "Westside::3",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "East India",
+        "tooltip": "East India::3",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Gruh Finance",
+        "tooltip": "Gruh Finance::3",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Rajesh Pa",
+        "tooltip": "Rajesh Pa::2",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Savlon",
+        "tooltip": "Savlon::2",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Sunrise \u2019",
+        "tooltip": "Sunrise \u2019::2",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Vikas Jain",
+        "tooltip": "Vikas Jain::2",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "B Natural",
+        "tooltip": "B Natural::2",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "FII Holdings",
+        "tooltip": "FII Holdings::2",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Ruchi",
+        "tooltip": "Ruchi::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Siddharth Khemka",
+        "tooltip": "Siddharth Khemka::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Lloyd ACs",
+        "tooltip": "Lloyd ACs::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Lloyd \u2019 s",
+        "tooltip": "Lloyd \u2019 s::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "MDH",
+        "tooltip": "MDH::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Aachi",
+        "tooltip": "Aachi::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Catch",
+        "tooltip": "Catch::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Nimyle",
+        "tooltip": "Nimyle::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Sakthi",
+        "tooltip": "Sakthi::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Goldiee",
+        "tooltip": "Goldiee::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Everest",
+        "tooltip": "Everest::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Sunrise Foods Private",
+        "tooltip": "Sunrise Foods Private::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Charmis",
+        "tooltip": "Charmis::1",
         "photo": "nopic"
     }
 ],"links": [
+    
+    
+    
     {
-        "target": "Rajnath Singh",
+        "target": "Motilal Oswal",
+        "source": "Locations",
+        "costWhereApplicable": "Linkrelay",
+        "relationship": "nopic"
+    },
+{
+        "target": "Motilal Oswal",
+        "source": "Organizations",
+        "costWhereApplicable": "Linkrelay",
+        "relationship": "nopic"
+    },
+
+{
+        "target": "Motilal Oswal",
+        "source": "Miscellaneous",
+        "costWhereApplicable": "Linkrelay",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
         "source": "India",
         "costWhereApplicable": "India::6867",
         "relationship": "nopic"
     },
     {
-        "target": "Rajnath Singh",
+        "target": "Locations",
+        "source": "United States",
+        "costWhereApplicable": "United States::4915",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
         "source": "Indian",
         "costWhereApplicable": "Indian::3039",
         "relationship": "nopic"
     },
     {
-        "target": "Rajnath Singh",
+        "target": "Organizations",
+        "source": "Reuters",
+        "costWhereApplicable": "Reuters::2881",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
         "source": "China",
         "costWhereApplicable": "China::2661",
         "relationship": "nopic"
     },
     {
-        "target": "Rajnath Singh",
-        "source": "Chinese",
-        "costWhereApplicable": "Chinese::1302",
+        "target": "Miscellaneous",
+        "source": "Coronavirus",
+        "costWhereApplicable": "Coronavirus::2224",
         "relationship": "nopic"
     },
     {
-        "target": "Rajnath Singh",
-        "source": "Narendra Modi",
-        "costWhereApplicable": "Narendra Modi::1107",
+        "target": "Locations",
+        "source": "Mumbai",
+        "costWhereApplicable": "Mumbai::1691",
         "relationship": "nopic"
     },
     {
-        "target": "Rajnath Singh",
-        "source": "PTI",
-        "costWhereApplicable": "PTI::293",
+        "target": "Organizations",
+        "source": "RBI",
+        "costWhereApplicable": "RBI::1372",
         "relationship": "nopic"
     },
     {
-        "target": "Rajnath Singh",
-        "source": "George Floyd",
-        "costWhereApplicable": "George Floyd::261",
+        "target": "Locations",
+        "source": "Japan",
+        "costWhereApplicable": "Japan::946",
         "relationship": "nopic"
     },
     {
-        "target": "Rajnath Singh",
-        "source": "Ladakh",
-        "costWhereApplicable": "Ladakh::219",
+        "target": "Miscellaneous",
+        "source": "Asian",
+        "costWhereApplicable": "Asian::860",
         "relationship": "nopic"
     },
     {
-        "target": "Rajnath Singh",
-        "source": "Singh",
-        "costWhereApplicable": "Singh::180",
+        "target": "Miscellaneous",
+        "source": "Covid",
+        "costWhereApplicable": "Covid::830",
         "relationship": "nopic"
     },
     {
-        "target": "Rajnath Singh",
+        "target": "Locations",
+        "source": "Hong Kong",
+        "costWhereApplicable": "Hong Kong::786",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
+        "source": "Asia",
+        "costWhereApplicable": "Asia::761",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Sensex",
+        "costWhereApplicable": "Sensex::738",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
+        "source": "Europe",
+        "costWhereApplicable": "Europe::711",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "BSE",
+        "costWhereApplicable": "BSE::703",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
+        "source": "Wall Street",
+        "costWhereApplicable": "Wall Street::513",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Nifty",
+        "costWhereApplicable": "Nifty::467",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "GM",
+        "costWhereApplicable": "GM::458",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "S & P BSE Sensex",
+        "costWhereApplicable": "S & P BSE Sensex::362",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
+        "source": "Tokyo",
+        "costWhereApplicable": "Tokyo::317",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "MSCI",
+        "costWhereApplicable": "MSCI::304",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
+        "source": "Kolkata",
+        "costWhereApplicable": "Kolkata::300",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Bloomberg",
+        "costWhereApplicable": "Bloomberg::282",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Times Syndication Service",
+        "costWhereApplicable": "Times Syndication Service::266",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Bennett , Coleman & Co . Ltd",
+        "costWhereApplicable": "Bennett , Coleman & Co . Ltd::265",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "ITC",
+        "costWhereApplicable": "ITC::234",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "HDFC Securities",
+        "costWhereApplicable": "HDFC Securities::233",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Business Standard",
+        "costWhereApplicable": "Business Standard::231",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "HDFC",
+        "costWhereApplicable": "HDFC::225",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "ICICI Securities",
+        "costWhereApplicable": "ICICI Securities::220",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Motilal Oswal",
+        "source": "Motilal Oswal",
+        "costWhereApplicable": "Motilal Oswal::189",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "Nifty 50",
+        "costWhereApplicable": "Nifty 50::169",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "S",
+        "costWhereApplicable": "S::162",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "E",
+        "costWhereApplicable": "E::160",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "IS",
+        "costWhereApplicable": "IS::156",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "S & P 500",
+        "costWhereApplicable": "S & P 500::150",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Ltd",
+        "costWhereApplicable": "Ltd::148",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
         "source": "Sino",
         "costWhereApplicable": "Sino::129",
         "relationship": "nopic"
     },
     {
-        "target": "Rajnath Singh",
-        "source": "Galwan Valley",
-        "costWhereApplicable": "Galwan Valley::128",
+        "target": "Organizations",
+        "source": "& P",
+        "costWhereApplicable": "& P::94",
         "relationship": "nopic"
     },
     {
-        "target": "Rajnath Singh",
-        "source": "AL",
-        "costWhereApplicable": "AL::107",
+        "target": "Miscellaneous",
+        "source": "Nasda",
+        "costWhereApplicable": "Nasda::87",
         "relationship": "nopic"
     },
     {
-        "target": "Rajnath Singh",
-        "source": "Amit Shah",
-        "costWhereApplicable": "Amit Shah::96",
+        "target": "Organizations",
+        "source": "Hindalco",
+        "costWhereApplicable": "Hindalco::86",
         "relationship": "nopic"
     },
     {
-        "target": "Rajnath Singh",
-        "source": "Rajnath Singh",
-        "costWhereApplicable": "Rajnath Singh::90",
+        "target": "Organizations",
+        "source": "Motilal Oswal Financial Services",
+        "costWhereApplicable": "Motilal Oswal Financial Services::85",
         "relationship": "nopic"
     },
     {
-        "target": "Rajnath Singh",
-        "source": "Ajit Doval",
-        "costWhereApplicable": "Ajit Doval::48",
+        "target": "Organizations",
+        "source": "NBFC",
+        "costWhereApplicable": "NBFC::82",
         "relationship": "nopic"
     },
     {
-        "target": "Rajnath Singh",
-        "source": "Bipin Rawat",
-        "costWhereApplicable": "Bipin Rawat::48",
+        "target": "Organizations",
+        "source": "FMCG",
+        "costWhereApplicable": "FMCG::81",
         "relationship": "nopic"
     },
     {
-        "target": "Rajnath Singh",
-        "source": "Indian Army",
-        "costWhereApplicable": "Indian Army::48",
+        "target": "Miscellaneous",
+        "source": "Dow Jones",
+        "costWhereApplicable": "Dow Jones::79",
         "relationship": "nopic"
     },
     {
-        "target": "Rajnath Singh",
-        "source": "Army",
-        "costWhereApplicable": "Army::46",
+        "target": "Organizations",
+        "source": "Nomura",
+        "costWhereApplicable": "Nomura::71",
         "relationship": "nopic"
     },
     {
-        "target": "Rajnath Singh",
-        "source": "PLA",
-        "costWhereApplicable": "PLA::44",
+        "target": "Organizations",
+        "source": "CLSA",
+        "costWhereApplicable": "CLSA::67",
         "relationship": "nopic"
     },
     {
-        "target": "Rajnath Singh",
-        "source": "Pangong Tso",
-        "costWhereApplicable": "Pangong Tso::38",
+        "target": "Organizations",
+        "source": "Bandhan Bank",
+        "costWhereApplicable": "Bandhan Bank::66",
         "relationship": "nopic"
     },
     {
-        "target": "Rajnath Singh",
-        "source": "IANS",
-        "costWhereApplicable": "IANS::37",
+        "target": "Organizations",
+        "source": "Edelweiss",
+        "costWhereApplicable": "Edelweiss::60",
         "relationship": "nopic"
     },
     {
-        "target": "Rajnath Singh",
-        "source": "Control",
-        "costWhereApplicable": "Control::36",
+        "target": "Organizations",
+        "source": "Reliance Securities",
+        "costWhereApplicable": "Reliance Securities::59",
         "relationship": "nopic"
     },
     {
-        "target": "Rajnath Singh",
-        "source": "Uttarakhand",
-        "costWhereApplicable": "Uttarakhand::33",
+        "target": "Organizations",
+        "source": "Bombay Stock Exchange",
+        "costWhereApplicable": "Bombay Stock Exchange::58",
         "relationship": "nopic"
     },
     {
-        "target": "Rajnath Singh",
-        "source": "People's Liberation Army",
-        "costWhereApplicable": "People's Liberation Army::26",
+        "target": "Organizations",
+        "source": "Motilal Oswal Securities",
+        "costWhereApplicable": "Motilal Oswal Securities::55",
         "relationship": "nopic"
     },
     {
-        "target": "Rajnath Singh",
-        "source": "Indian Air Force",
-        "costWhereApplicable": "Indian Air Force::18",
+        "target": "Motilal Oswal",
+        "source": "Chandan Taparia",
+        "costWhereApplicable": "Chandan Taparia::54",
         "relationship": "nopic"
     },
     {
-        "target": "Rajnath Singh",
-        "source": "Sikkim",
-        "costWhereApplicable": "Sikkim::16",
+        "target": "Organizations",
+        "source": "Kotak Institutional Equities",
+        "costWhereApplicable": "Kotak Institutional Equities::50",
         "relationship": "nopic"
     },
     {
-        "target": "Rajnath Singh",
-        "source": "Demchok",
-        "costWhereApplicable": "Demchok::12",
+        "target": "Locations",
+        "source": "Sydney",
+        "costWhereApplicable": "Sydney::47",
         "relationship": "nopic"
     },
     {
-        "target": "Rajnath Singh",
-        "source": "Daulat Beg Oldie",
-        "costWhereApplicable": "Daulat Beg Oldie::11",
+        "target": "Organizations",
+        "source": "BENGALURU",
+        "costWhereApplicable": "BENGALURU::45",
         "relationship": "nopic"
     },
     {
-        "target": "Rajnath Singh",
-        "source": "Daulat Beg Oldi",
-        "costWhereApplicable": "Daulat Beg Oldi::5",
+        "target": "Miscellaneous",
+        "source": "BS",
+        "costWhereApplicable": "BS::40",
         "relationship": "nopic"
     },
     {
-        "target": "Rajnath Singh",
-        "source": "Line of Control",
-        "costWhereApplicable": "Line of Control::3",
+        "target": "Motilal Oswal",
+        "source": "Nagaraj Shetti",
+        "costWhereApplicable": "Nagaraj Shetti::39",
         "relationship": "nopic"
     },
     {
-        "target": "Rajnath Singh",
-        "source": "Howdy Modi",
-        "costWhereApplicable": "Howdy Modi::3",
+        "target": "Organizations",
+        "source": "MOFSL",
+        "costWhereApplicable": "MOFSL::37",
         "relationship": "nopic"
     },
     {
-        "target": "Rajnath Singh",
-        "source": "North Si",
-        "costWhereApplicable": "North Si::1",
+        "target": "Miscellaneous",
+        "source": "B",
+        "costWhereApplicable": "B::33",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "HDFC Bank Ltd",
+        "costWhereApplicable": "HDFC Bank Ltd::30",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Motilal Oswal",
+        "source": "Aditya Agarwala",
+        "costWhereApplicable": "Aditya Agarwala::28",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "IDBI Capital",
+        "costWhereApplicable": "IDBI Capital::27",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "P",
+        "costWhereApplicable": "P::25",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "Euro",
+        "costWhereApplicable": "Euro::24",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "ACE Equity",
+        "costWhereApplicable": "ACE Equity::22",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Avenue Supermarts",
+        "costWhereApplicable": "Avenue Supermarts::21",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Motilal Oswal",
+        "source": "Jain",
+        "costWhereApplicable": "Jain::20",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Motilal Oswal",
+        "source": "Siddhartha Khemka",
+        "costWhereApplicable": "Siddhartha Khemka::20",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "HFC",
+        "costWhereApplicable": "HFC::19",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "AG",
+        "costWhereApplicable": "AG::17",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "DMart",
+        "costWhereApplicable": "DMart::15",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Phillip Capital",
+        "costWhereApplicable": "Phillip Capital::15",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "Memorial Day",
+        "costWhereApplicable": "Memorial Day::13",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Zara",
+        "costWhereApplicable": "Zara::11",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Havells India",
+        "costWhereApplicable": "Havells India::9",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "Ra",
+        "costWhereApplicable": "Ra::8",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Star",
+        "costWhereApplicable": "Star::8",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "ITC Ltd",
+        "costWhereApplicable": "ITC Ltd::7",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Dr Reddy \u2019 s",
+        "costWhereApplicable": "Dr Reddy \u2019 s::6",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Trent",
+        "costWhereApplicable": "Trent::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "Eastern",
+        "costWhereApplicable": "Eastern::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Aashirvaad",
+        "costWhereApplicable": "Aashirvaad::4",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "SFPL",
+        "costWhereApplicable": "SFPL::4",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Sunrise Foods Private Limited",
+        "costWhereApplicable": "Sunrise Foods Private Limited::4",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Sunrise Foods",
+        "costWhereApplicable": "Sunrise Foods::4",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Westside",
+        "costWhereApplicable": "Westside::3",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
+        "source": "East India",
+        "costWhereApplicable": "East India::3",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Gruh Finance",
+        "costWhereApplicable": "Gruh Finance::3",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Motilal Oswal",
+        "source": "Rajesh Pa",
+        "costWhereApplicable": "Rajesh Pa::2",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Savlon",
+        "costWhereApplicable": "Savlon::2",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Sunrise \u2019",
+        "costWhereApplicable": "Sunrise \u2019::2",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Motilal Oswal",
+        "source": "Vikas Jain",
+        "costWhereApplicable": "Vikas Jain::2",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "B Natural",
+        "costWhereApplicable": "B Natural::2",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "FII Holdings",
+        "costWhereApplicable": "FII Holdings::2",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Motilal Oswal",
+        "source": "Ruchi",
+        "costWhereApplicable": "Ruchi::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Motilal Oswal",
+        "source": "Siddharth Khemka",
+        "costWhereApplicable": "Siddharth Khemka::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Lloyd ACs",
+        "costWhereApplicable": "Lloyd ACs::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Lloyd \u2019 s",
+        "costWhereApplicable": "Lloyd \u2019 s::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "MDH",
+        "costWhereApplicable": "MDH::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Aachi",
+        "costWhereApplicable": "Aachi::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Catch",
+        "costWhereApplicable": "Catch::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Nimyle",
+        "costWhereApplicable": "Nimyle::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Sakthi",
+        "costWhereApplicable": "Sakthi::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Goldiee",
+        "costWhereApplicable": "Goldiee::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Everest",
+        "costWhereApplicable": "Everest::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Sunrise Foods Private",
+        "costWhereApplicable": "Sunrise Foods Private::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Charmis",
+        "costWhereApplicable": "Charmis::1",
         "relationship": "nopic"
     }
 ]}
