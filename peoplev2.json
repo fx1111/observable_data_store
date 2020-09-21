@@ -1,10 +1,5 @@
 {"nodes":   [
-    {
-        "group": "person",
-        "id": "Motilal Oswal",
-        "tooltip": "Master Node",
-        "photo": "nopic"
-    },  {
+  {
         "group": "location",
         "id": "Locations",
         "tooltip": "Locations::Link relay",
