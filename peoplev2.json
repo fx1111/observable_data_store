@@ -1,5 +1,11 @@
 {"nodes": [
     {
+        "group": "person",
+        "id": "Motilal Oswal",
+        "tooltip": "Motilal Oswal::Master Node",
+        "photo": "nopic"
+    },
+    {
         "group": "location",
         "id": "India",
         "tooltip": "India::6867",
