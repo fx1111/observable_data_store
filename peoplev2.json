@@ -1,5 +1,5 @@
 {"nodes":   [
-  {
+    {
         "group": "location",
         "id": "Locations",
         "tooltip": "Locations::Link relay",
@@ -60,9 +60,9 @@
         "photo": "nopic"
     },
     {
-        "group": "org",
-        "id": "RBI",
-        "tooltip": "RBI::1372",
+        "group": "misc",
+        "id": "Chinese",
+        "tooltip": "Chinese::1302",
         "photo": "nopic"
     },
     {
@@ -84,6 +84,12 @@
         "photo": "nopic"
     },
     {
+        "group": "org",
+        "id": "NSE",
+        "tooltip": "NSE::796",
+        "photo": "nopic"
+    },
+    {
         "group": "location",
         "id": "Hong Kong",
         "tooltip": "Hong Kong::786",
@@ -102,6 +108,12 @@
         "photo": "nopic"
     },
     {
+        "group": "org",
+        "id": "Brent",
+        "tooltip": "Brent::736",
+        "photo": "nopic"
+    },
+    {
         "group": "location",
         "id": "Europe",
         "tooltip": "Europe::711",
@@ -114,15 +126,45 @@
         "photo": "nopic"
     },
     {
+        "group": "org",
+        "id": "Reliance Industries",
+        "tooltip": "Reliance Industries::647",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "European",
+        "tooltip": "European::522",
+        "photo": "nopic"
+    },
+    {
         "group": "location",
         "id": "Wall Street",
         "tooltip": "Wall Street::513",
         "photo": "nopic"
     },
     {
+        "group": "misc",
+        "id": "Corona",
+        "tooltip": "Corona::511",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Donald Trump",
+        "tooltip": "Donald Trump::479",
+        "photo": "nopic"
+    },
+    {
         "group": "org",
         "id": "Nifty",
         "tooltip": "Nifty::467",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "HDFC Bank",
+        "tooltip": "HDFC Bank::461",
         "photo": "nopic"
     },
     {
@@ -133,14 +175,134 @@
     },
     {
         "group": "org",
+        "id": "RIL",
+        "tooltip": "RIL::452",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "Washington",
+        "tooltip": "Washington::434",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "Germany",
+        "tooltip": "Germany::419",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Axis Bank",
+        "tooltip": "Axis Bank::406",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "UK",
+        "tooltip": "UK::397",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "S & P",
+        "tooltip": "S & P::393",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "American",
+        "tooltip": "American::374",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Narendra Modi",
+        "tooltip": "Narendra Modi::369",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "Australia",
+        "tooltip": "Australia::363",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
         "id": "S & P BSE Sensex",
         "tooltip": "S & P BSE Sensex::362",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Google",
+        "tooltip": "Google::344",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "Singapore",
+        "tooltip": "Singapore::338",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Federal Reserve",
+        "tooltip": "Federal Reserve::336",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "France",
+        "tooltip": "France::336",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Sebi",
+        "tooltip": "Sebi::322",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "Co",
+        "tooltip": "Co::319",
         "photo": "nopic"
     },
     {
         "group": "location",
         "id": "Tokyo",
         "tooltip": "Tokyo::317",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "Ni",
+        "tooltip": "Ni::315",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "500",
+        "tooltip": "500::315",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Securities and Exchange Board of India",
+        "tooltip": "Securities and Exchange Board of India::308",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "Japanese",
+        "tooltip": "Japanese::308",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Facebook",
+        "tooltip": "Facebook::306",
         "photo": "nopic"
     },
     {
@@ -151,8 +313,32 @@
     },
     {
         "group": "location",
+        "id": "South Korea",
+        "tooltip": "South Korea::301",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
         "id": "Kolkata",
         "tooltip": "Kolkata::300",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "New York",
+        "tooltip": "New York::298",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "TCS",
+        "tooltip": "TCS::292",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "London",
+        "tooltip": "London::283",
         "photo": "nopic"
     },
     {
@@ -162,21 +348,33 @@
         "photo": "nopic"
     },
     {
-        "group": "org",
-        "id": "Times Syndication Service",
-        "tooltip": "Times Syndication Service::266",
+        "group": "location",
+        "id": "Shanghai",
+        "tooltip": "Shanghai::255",
         "photo": "nopic"
     },
     {
-        "group": "org",
-        "id": "Bennett , Coleman & Co . Ltd",
-        "tooltip": "Bennett , Coleman & Co . Ltd::265",
+        "group": "misc",
+        "id": "German",
+        "tooltip": "German::254",
         "photo": "nopic"
     },
     {
-        "group": "org",
-        "id": "ITC",
-        "tooltip": "ITC::234",
+        "group": "misc",
+        "id": "Indians",
+        "tooltip": "Indians::242",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "Americans",
+        "tooltip": "Americans::241",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Mukesh Ambani",
+        "tooltip": "Mukesh Ambani::238",
         "photo": "nopic"
     },
     {
@@ -187,20 +385,74 @@
     },
     {
         "group": "org",
-        "id": "Business Standard",
-        "tooltip": "Business Standard::231",
+        "id": "Amazon",
+        "tooltip": "Amazon::230",
         "photo": "nopic"
     },
     {
         "group": "org",
-        "id": "HDFC",
-        "tooltip": "HDFC::225",
+        "id": "BSE Sensex",
+        "tooltip": "BSE Sensex::226",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "Nikkei",
+        "tooltip": "Nikkei::221",
         "photo": "nopic"
     },
     {
         "group": "org",
         "id": "ICICI Securities",
         "tooltip": "ICICI Securities::220",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Jio Platforms",
+        "tooltip": "Jio Platforms::213",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "Nasdaq",
+        "tooltip": "Nasdaq::207",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "United States Federal Reserve",
+        "tooltip": "United States Federal Reserve::204",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Trump",
+        "tooltip": "Trump::198",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "Bengaluru",
+        "tooltip": "Bengaluru::197",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "Canada",
+        "tooltip": "Canada::197",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Singapore Exchange",
+        "tooltip": "Singapore Exchange::195",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "United",
+        "tooltip": "United::190",
         "photo": "nopic"
     },
     {
@@ -211,14 +463,56 @@
     },
     {
         "group": "misc",
-        "id": "Nifty 50",
-        "tooltip": "Nifty 50::169",
+        "id": "Dow Jones Industrial Average",
+        "tooltip": "Dow Jones Industrial Average::187",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "California",
+        "tooltip": "California::187",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Sun Pharma",
+        "tooltip": "Sun Pharma::185",
         "photo": "nopic"
     },
     {
         "group": "misc",
-        "id": "S",
-        "tooltip": "S::162",
+        "id": "G",
+        "tooltip": "G::184",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "French",
+        "tooltip": "French::181",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "Italy",
+        "tooltip": "Italy::179",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Apple",
+        "tooltip": "Apple::176",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "ONGC",
+        "tooltip": "ONGC::172",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "White House",
+        "tooltip": "White House::161",
         "photo": "nopic"
     },
     {
@@ -228,9 +522,33 @@
         "photo": "nopic"
     },
     {
+        "group": "org",
+        "id": "Dalal Street",
+        "tooltip": "Dalal Street::155",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Titan",
+        "tooltip": "Titan::153",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "America",
+        "tooltip": "America::153",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Facebook Inc",
+        "tooltip": "Facebook Inc::153",
+        "photo": "nopic"
+    },
+    {
         "group": "misc",
-        "id": "IS",
-        "tooltip": "IS::156",
+        "id": "Dow",
+        "tooltip": "Dow::151",
         "photo": "nopic"
     },
     {
@@ -240,15 +558,111 @@
         "photo": "nopic"
     },
     {
+        "group": "person",
+        "id": "Jerome Powell",
+        "tooltip": "Jerome Powell::149",
+        "photo": "nopic"
+    },
+    {
         "group": "org",
         "id": "Ltd",
         "tooltip": "Ltd::148",
         "photo": "nopic"
     },
     {
+        "group": "org",
+        "id": "Reliance Industries Ltd",
+        "tooltip": "Reliance Industries Ltd::143",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Goldman Sachs",
+        "tooltip": "Goldman Sachs::138",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Morgan Stanley",
+        "tooltip": "Morgan Stanley::130",
+        "photo": "nopic"
+    },
+    {
         "group": "misc",
-        "id": "Sino",
-        "tooltip": "Sino::129",
+        "id": "Saudi",
+        "tooltip": "Saudi::127",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Microsoft",
+        "tooltip": "Microsoft::118",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Amazon . com Inc",
+        "tooltip": "Amazon . com Inc::113",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Treasury",
+        "tooltip": "Treasury::113",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "Hang Seng",
+        "tooltip": "Hang Seng::112",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "Iraq",
+        "tooltip": "Iraq::112",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "New Zealand",
+        "tooltip": "New Zealand::110",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Tata Consultancy Services",
+        "tooltip": "Tata Consultancy Services::109",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Apple Inc",
+        "tooltip": "Apple Inc::104",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "States",
+        "tooltip": "States::102",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Alphabet Inc",
+        "tooltip": "Alphabet Inc::99",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "Switzerland",
+        "tooltip": "Switzerland::98",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "Nasdaq Composite",
+        "tooltip": "Nasdaq Composite::97",
         "photo": "nopic"
     },
     {
@@ -259,32 +673,68 @@
     },
     {
         "group": "misc",
-        "id": "Nasda",
-        "tooltip": "Nasda::87",
+        "id": "MS",
+        "tooltip": "MS::93",
         "photo": "nopic"
     },
     {
         "group": "org",
-        "id": "Hindalco",
-        "tooltip": "Hindalco::86",
+        "id": "European Central Bank",
+        "tooltip": "European Central Bank::92",
         "photo": "nopic"
     },
     {
         "group": "org",
-        "id": "Motilal Oswal Financial Services",
-        "tooltip": "Motilal Oswal Financial Services::85",
+        "id": "Silver Lake",
+        "tooltip": "Silver Lake::92",
         "photo": "nopic"
     },
     {
         "group": "org",
-        "id": "NBFC",
-        "tooltip": "NBFC::82",
+        "id": "KKR",
+        "tooltip": "KKR::89",
         "photo": "nopic"
     },
     {
         "group": "org",
-        "id": "FMCG",
-        "tooltip": "FMCG::81",
+        "id": "Future Group",
+        "tooltip": "Future Group::86",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Reliance Retail",
+        "tooltip": "Reliance Retail::84",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Group",
+        "tooltip": "Group::82",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "General Atlantic",
+        "tooltip": "General Atlantic::81",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "England",
+        "tooltip": "England::80",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "Canadian",
+        "tooltip": "Canadian::79",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Jio",
+        "tooltip": "Jio::79",
         "photo": "nopic"
     },
     {
@@ -295,68 +745,272 @@
     },
     {
         "group": "org",
-        "id": "Nomura",
-        "tooltip": "Nomura::71",
+        "id": "Saudi Aramco",
+        "tooltip": "Saudi Aramco::78",
         "photo": "nopic"
     },
     {
         "group": "org",
-        "id": "CLSA",
-        "tooltip": "CLSA::67",
+        "id": "Fed",
+        "tooltip": "Fed::75",
         "photo": "nopic"
     },
     {
         "group": "org",
-        "id": "Bandhan Bank",
-        "tooltip": "Bandhan Bank::66",
+        "id": "Axis Securities",
+        "tooltip": "Axis Securities::73",
         "photo": "nopic"
     },
     {
         "group": "org",
-        "id": "Edelweiss",
-        "tooltip": "Edelweiss::60",
+        "id": "UltraTech Cement",
+        "tooltip": "UltraTech Cement::72",
         "photo": "nopic"
     },
     {
         "group": "org",
-        "id": "Reliance Securities",
-        "tooltip": "Reliance Securities::59",
+        "id": "United States Fed",
+        "tooltip": "United States Fed::71",
         "photo": "nopic"
     },
     {
         "group": "org",
-        "id": "Bombay Stock Exchange",
-        "tooltip": "Bombay Stock Exchange::58",
+        "id": "Twitter",
+        "tooltip": "Twitter::67",
         "photo": "nopic"
     },
     {
         "group": "org",
-        "id": "Motilal Oswal Securities",
-        "tooltip": "Motilal Oswal Securities::55",
+        "id": "India Inc",
+        "tooltip": "India Inc::62",
         "photo": "nopic"
     },
     {
         "group": "person",
-        "id": "Chandan Taparia",
-        "tooltip": "Chandan Taparia::54",
+        "id": "Elon Musk",
+        "tooltip": "Elon Musk::62",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Se",
+        "tooltip": "Se::62",
         "photo": "nopic"
     },
     {
         "group": "org",
-        "id": "Kotak Institutional Equities",
-        "tooltip": "Kotak Institutional Equities::50",
+        "id": "Mint",
+        "tooltip": "Mint::61",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Ajit Mishra",
+        "tooltip": "Ajit Mishra::61",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Lupin",
+        "tooltip": "Lupin::58",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "iPhone",
+        "tooltip": "iPhone::57",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Walmart",
+        "tooltip": "Walmart::56",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "com",
+        "tooltip": "com::56",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "English",
+        "tooltip": "English::55",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "Android",
+        "tooltip": "Android::55",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Mindtree",
+        "tooltip": "Mindtree::54",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Future Retail",
+        "tooltip": "Future Retail::54",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "PowerGrid",
+        "tooltip": "PowerGrid::54",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "United States Treasury",
+        "tooltip": "United States Treasury::54",
         "photo": "nopic"
     },
     {
         "group": "location",
-        "id": "Sydney",
-        "tooltip": "Sydney::47",
+        "id": "Silicon Valley",
+        "tooltip": "Silicon Valley::54",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Jeff Bezos",
+        "tooltip": "Jeff Bezos::53",
         "photo": "nopic"
     },
     {
         "group": "org",
-        "id": "BENGALURU",
-        "tooltip": "BENGALURU::45",
+        "id": "Topix",
+        "tooltip": "Topix::53",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Warren Buffett",
+        "tooltip": "Warren Buffett::53",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Corp",
+        "tooltip": "Corp::52",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Singapore Stock Exchange",
+        "tooltip": "Singapore Stock Exchange::51",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Alphabet",
+        "tooltip": "Alphabet::51",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Netflix",
+        "tooltip": "Netflix::51",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Microsoft Corp",
+        "tooltip": "Microsoft Corp::50",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Bank of Japan",
+        "tooltip": "Bank of Japan::50",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Bank",
+        "tooltip": "Bank::48",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Tesla Inc",
+        "tooltip": "Tesla Inc::47",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Tesla",
+        "tooltip": "Tesla::47",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "Great Depression",
+        "tooltip": "Great Depression::46",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Mubadala",
+        "tooltip": "Mubadala::46",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Reliance Industries Limited",
+        "tooltip": "Reliance Industries Limited::45",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "HDFC Life",
+        "tooltip": "HDFC Life::45",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Mark Zuckerberg",
+        "tooltip": "Mark Zuckerberg::43",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Aramco",
+        "tooltip": "Aramco::42",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "Brazilian",
+        "tooltip": "Brazilian::42",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "United States West Texas",
+        "tooltip": "United States West Texas::42",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "ET Now",
+        "tooltip": "ET Now::42",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Bloomberg News",
+        "tooltip": "Bloomberg News::41",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Crisil",
+        "tooltip": "Crisil::40",
         "photo": "nopic"
     },
     {
@@ -366,9 +1020,15 @@
         "photo": "nopic"
     },
     {
+        "group": "location",
+        "id": "Arabia",
+        "tooltip": "Arabia::39",
+        "photo": "nopic"
+    },
+    {
         "group": "person",
-        "id": "Nagaraj Shetti",
-        "tooltip": "Nagaraj Shetti::39",
+        "id": "Joe Biden",
+        "tooltip": "Joe Biden::39",
         "photo": "nopic"
     },
     {
@@ -379,321 +1039,2319 @@
     },
     {
         "group": "misc",
-        "id": "B",
-        "tooltip": "B::33",
+        "id": "RS",
+        "tooltip": "RS::37",
         "photo": "nopic"
     },
     {
         "group": "org",
-        "id": "HDFC Bank Ltd",
-        "tooltip": "HDFC Bank Ltd::30",
+        "id": "CNBC",
+        "tooltip": "CNBC::37",
         "photo": "nopic"
     },
     {
         "group": "person",
-        "id": "Aditya Agarwala",
-        "tooltip": "Aditya Agarwala::28",
+        "id": "Shinzo Abe",
+        "tooltip": "Shinzo Abe::36",
         "photo": "nopic"
     },
     {
         "group": "org",
-        "id": "IDBI Capital",
-        "tooltip": "IDBI Capital::27",
+        "id": "IIFL Securities",
+        "tooltip": "IIFL Securities::36",
         "photo": "nopic"
     },
     {
         "group": "misc",
-        "id": "P",
-        "tooltip": "P::25",
-        "photo": "nopic"
-    },
-    {
-        "group": "misc",
-        "id": "Euro",
-        "tooltip": "Euro::24",
+        "id": "IN",
+        "tooltip": "IN::36",
         "photo": "nopic"
     },
     {
         "group": "org",
-        "id": "ACE Equity",
-        "tooltip": "ACE Equity::22",
+        "id": "Financial Times",
+        "tooltip": "Financial Times::35",
         "photo": "nopic"
     },
     {
         "group": "org",
-        "id": "Avenue Supermarts",
-        "tooltip": "Avenue Supermarts::21",
+        "id": "Am",
+        "tooltip": "Am::35",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Amazon . com",
+        "tooltip": "Amazon . com::35",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Authority",
+        "tooltip": "Authority::34",
         "photo": "nopic"
     },
     {
         "group": "person",
-        "id": "Jain",
-        "tooltip": "Jain::20",
+        "id": "Deepak Jasani",
+        "tooltip": "Deepak Jasani::34",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "In",
+        "tooltip": "In::34",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Jio Platforms Ltd",
+        "tooltip": "Jio Platforms Ltd::33",
         "photo": "nopic"
     },
     {
         "group": "person",
-        "id": "Siddhartha Khemka",
-        "tooltip": "Siddhartha Khemka::20",
+        "id": "Sundar Pichai",
+        "tooltip": "Sundar Pichai::33",
         "photo": "nopic"
     },
     {
         "group": "org",
-        "id": "HFC",
-        "tooltip": "HFC::19",
+        "id": "JioMart",
+        "tooltip": "JioMart::32",
         "photo": "nopic"
     },
     {
         "group": "org",
-        "id": "AG",
-        "tooltip": "AG::17",
+        "id": "IT",
+        "tooltip": "IT::32",
         "photo": "nopic"
     },
     {
         "group": "org",
-        "id": "DMart",
-        "tooltip": "DMart::15",
+        "id": "Bank of America",
+        "tooltip": "Bank of America::32",
         "photo": "nopic"
     },
     {
         "group": "org",
-        "id": "Phillip Capital",
-        "tooltip": "Phillip Capital::15",
-        "photo": "nopic"
-    },
-    {
-        "group": "misc",
-        "id": "Memorial Day",
-        "tooltip": "Memorial Day::13",
+        "id": "Twitter Inc",
+        "tooltip": "Twitter Inc::31",
         "photo": "nopic"
     },
     {
         "group": "org",
-        "id": "Zara",
-        "tooltip": "Zara::11",
+        "id": "TPG",
+        "tooltip": "TPG::30",
         "photo": "nopic"
     },
     {
         "group": "org",
-        "id": "Havells India",
-        "tooltip": "Havells India::9",
-        "photo": "nopic"
-    },
-    {
-        "group": "misc",
-        "id": "Ra",
-        "tooltip": "Ra::8",
+        "id": "Gilead Sciences",
+        "tooltip": "Gilead Sciences::30",
         "photo": "nopic"
     },
     {
         "group": "org",
-        "id": "Star",
-        "tooltip": "Star::8",
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "ITC Ltd",
-        "tooltip": "ITC Ltd::7",
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "Dr Reddy \u2019 s",
-        "tooltip": "Dr Reddy \u2019 s::6",
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "Trent",
-        "tooltip": "Trent::5",
-        "photo": "nopic"
-    },
-    {
-        "group": "misc",
-        "id": "Eastern",
-        "tooltip": "Eastern::5",
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "Aashirvaad",
-        "tooltip": "Aashirvaad::4",
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "SFPL",
-        "tooltip": "SFPL::4",
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "Sunrise Foods Private Limited",
-        "tooltip": "Sunrise Foods Private Limited::4",
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "Sunrise Foods",
-        "tooltip": "Sunrise Foods::4",
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "Westside",
-        "tooltip": "Westside::3",
+        "id": "El",
+        "tooltip": "El::30",
         "photo": "nopic"
     },
     {
         "group": "location",
-        "id": "East India",
-        "tooltip": "East India::3",
-        "photo": "nopic"
-    },
-    {
-        "group": "org",
-        "id": "Gruh Finance",
-        "tooltip": "Gruh Finance::3",
+        "id": "Israel",
+        "tooltip": "Israel::30",
         "photo": "nopic"
     },
     {
         "group": "person",
-        "id": "Rajesh Pa",
-        "tooltip": "Rajesh Pa::2",
+        "id": "Barack Obama",
+        "tooltip": "Barack Obama::30",
         "photo": "nopic"
     },
     {
         "group": "org",
-        "id": "Savlon",
-        "tooltip": "Savlon::2",
+        "id": "Silver Lake Partners",
+        "tooltip": "Silver Lake Partners::30",
         "photo": "nopic"
     },
     {
         "group": "org",
-        "id": "Sunrise \u2019",
-        "tooltip": "Sunrise \u2019::2",
+        "id": "Kota",
+        "tooltip": "Kota::30",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "Eastern Ladakh",
+        "tooltip": "Eastern Ladakh::29",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Serum Institute of India",
+        "tooltip": "Serum Institute of India::28",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Escorts",
+        "tooltip": "Escorts::28",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "U",
+        "tooltip": "U::28",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Goldman Sachs Group Inc",
+        "tooltip": "Goldman Sachs Group Inc::28",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "House",
+        "tooltip": "House::27",
         "photo": "nopic"
     },
     {
         "group": "person",
-        "id": "Vikas Jain",
-        "tooltip": "Vikas Jain::2",
+        "id": "Mukesh Amban",
+        "tooltip": "Mukesh Amban::27",
         "photo": "nopic"
     },
     {
         "group": "org",
-        "id": "B Natural",
-        "tooltip": "B Natural::2",
+        "id": "NSDL",
+        "tooltip": "NSDL::27",
         "photo": "nopic"
     },
     {
         "group": "org",
-        "id": "FII Holdings",
-        "tooltip": "FII Holdings::2",
+        "id": "Ford Motor Co",
+        "tooltip": "Ford Motor Co::26",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Wall Street Journal",
+        "tooltip": "Wall Street Journal::26",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Tencent Holdings Ltd",
+        "tooltip": "Tencent Holdings Ltd::26",
         "photo": "nopic"
     },
     {
         "group": "person",
-        "id": "Ruchi",
-        "tooltip": "Ruchi::1",
+        "id": "Ambani",
+        "tooltip": "Ambani::25",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "PVR",
+        "tooltip": "PVR::25",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Johnson & Johnson",
+        "tooltip": "Johnson & Johnson::25",
         "photo": "nopic"
     },
     {
         "group": "person",
-        "id": "Siddharth Khemka",
-        "tooltip": "Siddharth Khemka::1",
+        "id": "Rakesh Jhunjhunwala",
+        "tooltip": "Rakesh Jhunjhunwala::24",
         "photo": "nopic"
     },
     {
         "group": "org",
-        "id": "Lloyd ACs",
-        "tooltip": "Lloyd ACs::1",
+        "id": "Nifty Pharma",
+        "tooltip": "Nifty Pharma::24",
         "photo": "nopic"
     },
     {
         "group": "org",
-        "id": "Lloyd \u2019 s",
-        "tooltip": "Lloyd \u2019 s::1",
+        "id": "Titan Company",
+        "tooltip": "Titan Company::23",
         "photo": "nopic"
     },
     {
         "group": "org",
-        "id": "MDH",
-        "tooltip": "MDH::1",
+        "id": "ETNow",
+        "tooltip": "ETNow::23",
         "photo": "nopic"
     },
     {
         "group": "org",
-        "id": "Aachi",
-        "tooltip": "Aachi::1",
+        "id": "Zerodha",
+        "tooltip": "Zerodha::23",
         "photo": "nopic"
     },
     {
         "group": "org",
-        "id": "Catch",
-        "tooltip": "Catch::1",
+        "id": "Composite",
+        "tooltip": "Composite::23",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Bill Gates",
+        "tooltip": "Bill Gates::22",
         "photo": "nopic"
     },
     {
         "group": "org",
-        "id": "Nimyle",
-        "tooltip": "Nimyle::1",
+        "id": "Mo",
+        "tooltip": "Mo::22",
         "photo": "nopic"
     },
     {
         "group": "org",
-        "id": "Sakthi",
-        "tooltip": "Sakthi::1",
+        "id": "SpaceX",
+        "tooltip": "SpaceX::22",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "Mexican",
+        "tooltip": "Mexican::22",
         "photo": "nopic"
     },
     {
         "group": "org",
-        "id": "Goldiee",
-        "tooltip": "Goldiee::1",
+        "id": "Berkshire Hathaway",
+        "tooltip": "Berkshire Hathaway::22",
         "photo": "nopic"
     },
     {
         "group": "org",
-        "id": "Everest",
-        "tooltip": "Everest::1",
+        "id": "CDSL",
+        "tooltip": "CDSL::21",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "Toronto",
+        "tooltip": "Toronto::21",
         "photo": "nopic"
     },
     {
         "group": "org",
-        "id": "Sunrise Foods Private",
-        "tooltip": "Sunrise Foods Private::1",
+        "id": "Nifty Media",
+        "tooltip": "Nifty Media::21",
         "photo": "nopic"
     },
     {
         "group": "org",
-        "id": "Charmis",
-        "tooltip": "Charmis::1",
+        "id": "Adani Green",
+        "tooltip": "Adani Green::21",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Tokyo Stock Exchange",
+        "tooltip": "Tokyo Stock Exchange::20",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Gautam Adani",
+        "tooltip": "Gautam Adani::20",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "San Francisco",
+        "tooltip": "San Francisco::20",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Toyota",
+        "tooltip": "Toyota::20",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "BP Plc",
+        "tooltip": "BP Plc::20",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Bank of America Corp",
+        "tooltip": "Bank of America Corp::20",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "SoftBank",
+        "tooltip": "SoftBank::19",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "Bloomberg Bill",
+        "tooltip": "Bloomberg Bill::19",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "Bali",
+        "tooltip": "Bali::19",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "American Airlines Group Inc",
+        "tooltip": "American Airlines Group Inc::18",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Uber Technologies Inc",
+        "tooltip": "Uber Technologies Inc::18",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Forbes",
+        "tooltip": "Forbes::18",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "Israeli",
+        "tooltip": "Israeli::18",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Bernard Arnault",
+        "tooltip": "Bernard Arnault::18",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Tim Cook",
+        "tooltip": "Tim Cook::18",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Future Lifestyle Fashions",
+        "tooltip": "Future Lifestyle Fashions::18",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "BFSI",
+        "tooltip": "BFSI::17",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "World",
+        "tooltip": "World::17",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "ICICI Prudential Mutual Fund",
+        "tooltip": "ICICI Prudential Mutual Fund::17",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Brand Factory",
+        "tooltip": "Brand Factory::16",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "JPMorgan Chase & Co",
+        "tooltip": "JPMorgan Chase & Co::16",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "Bloomberg Billionaires Index",
+        "tooltip": "Bloomberg Billionaires Index::16",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "Saudi Arabian",
+        "tooltip": "Saudi Arabian::16",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Shyam Sekhar",
+        "tooltip": "Shyam Sekhar::15",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Mu",
+        "tooltip": "Mu::15",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "BEML",
+        "tooltip": "BEML::15",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "com Inc",
+        "tooltip": "com Inc::15",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Ambareesh Baliga",
+        "tooltip": "Ambareesh Baliga::15",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "FOMC",
+        "tooltip": "FOMC::15",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Vanguard",
+        "tooltip": "Vanguard::14",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Berkshire Hathaway Inc",
+        "tooltip": "Berkshire Hathaway Inc::14",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Ka",
+        "tooltip": "Ka::14",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Masayoshi Son",
+        "tooltip": "Masayoshi Son::14",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Jack Ma",
+        "tooltip": "Jack Ma::13",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "Global Financial Crisis",
+        "tooltip": "Global Financial Crisis::13",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Baja",
+        "tooltip": "Baja::13",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Sanjiv Bhasin",
+        "tooltip": "Sanjiv Bhasin::13",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Fund",
+        "tooltip": "Fund::12",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "Zurich",
+        "tooltip": "Zurich::12",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "11",
+        "tooltip": "11::12",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "Alto",
+        "tooltip": "Alto::12",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Yoshihide Suga",
+        "tooltip": "Yoshihide Suga::12",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Wells Fargo & Co",
+        "tooltip": "Wells Fargo & Co::12",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "New",
+        "tooltip": "New::12",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "BEL",
+        "tooltip": "BEL::12",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Tata Communications",
+        "tooltip": "Tata Communications::12",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Shiv Nadar",
+        "tooltip": "Shiv Nadar::12",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Brien",
+        "tooltip": "Brien::11",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Jack Dorsey",
+        "tooltip": "Jack Dorsey::11",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "Bit",
+        "tooltip": "Bit::10",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Nithin Kamath",
+        "tooltip": "Nithin Kamath::10",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Sergey Brin",
+        "tooltip": "Sergey Brin::10",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Intel Corporation",
+        "tooltip": "Intel Corporation::10",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Basant Maheshwari",
+        "tooltip": "Basant Maheshwari::10",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Manish Hathiramani",
+        "tooltip": "Manish Hathiramani::10",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "ETNOW",
+        "tooltip": "ETNOW::10",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Services",
+        "tooltip": "Services::9",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Delta Air Lines Inc",
+        "tooltip": "Delta Air Lines Inc::9",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "SBI Card",
+        "tooltip": "SBI Card::9",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Exxon Mobil Corp",
+        "tooltip": "Exxon Mobil Corp::9",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Byju \u2019 s",
+        "tooltip": "Byju \u2019 s::9",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Bloomberg Businessweek",
+        "tooltip": "Bloomberg Businessweek::9",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Berkshire",
+        "tooltip": "Berkshire::9",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "FBI",
+        "tooltip": "FBI::9",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Deen Dayal Investments",
+        "tooltip": "Deen Dayal Investments::9",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Chevron Corp",
+        "tooltip": "Chevron Corp::8",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Elliott Management",
+        "tooltip": "Elliott Management::8",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "Plan",
+        "tooltip": "Plan::8",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Ex",
+        "tooltip": "Ex::8",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Tiger Global Management",
+        "tooltip": "Tiger Global Management::8",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Te",
+        "tooltip": "Te::8",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "M & A",
+        "tooltip": "M & A::8",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "GFC",
+        "tooltip": "GFC::8",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "PwC India",
+        "tooltip": "PwC India::8",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Lake",
+        "tooltip": "Lake::8",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Naveen Kulkarni",
+        "tooltip": "Naveen Kulkarni::7",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Oracle of Omaha",
+        "tooltip": "Oracle of Omaha::7",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "JPL",
+        "tooltip": "JPL::7",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "It",
+        "tooltip": "It::7",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Ratan Tata",
+        "tooltip": "Ratan Tata::7",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Apollo Hospitals",
+        "tooltip": "Apollo Hospitals::7",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "JPMorgan Chase & Co .",
+        "tooltip": "JPMorgan Chase & Co .::7",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Barrick Gold Corp",
+        "tooltip": "Barrick Gold Corp::7",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "Apple Watch",
+        "tooltip": "Apple Watch::7",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Columbia",
+        "tooltip": "Columbia::7",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "United Airlines Holdings Inc",
+        "tooltip": "United Airlines Holdings Inc::7",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "9",
+        "tooltip": "9::7",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Kanye West",
+        "tooltip": "Kanye West::6",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Paytm Money",
+        "tooltip": "Paytm Money::6",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Nifty PSU Bank",
+        "tooltip": "Nifty PSU Bank::6",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Kim Kardashian",
+        "tooltip": "Kim Kardashian::6",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Reliance Retail Ltd",
+        "tooltip": "Reliance Retail Ltd::6",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Raamdeo Agrawal",
+        "tooltip": "Raamdeo Agrawal::6",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Buffett",
+        "tooltip": "Buffett::6",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Bloomberg Bloomberg Bloomberg Bloomberg",
+        "tooltip": "Bloomberg Bloomberg Bloomberg Bloomberg::6",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Total SA",
+        "tooltip": "Total SA::6",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Larry Page",
+        "tooltip": "Larry Page::6",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "Montreal",
+        "tooltip": "Montreal::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Astrazeneca",
+        "tooltip": "Astrazeneca::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Equitas",
+        "tooltip": "Equitas::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Jeff",
+        "tooltip": "Jeff::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "SCI",
+        "tooltip": "SCI::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Mukesh Am",
+        "tooltip": "Mukesh Am::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Be",
+        "tooltip": "Be::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Warren Buffet",
+        "tooltip": "Warren Buffet::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Barrick Gold",
+        "tooltip": "Barrick Gold::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Warren",
+        "tooltip": "Warren::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Abu",
+        "tooltip": "Abu::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "HCL",
+        "tooltip": "HCL::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "PE",
+        "tooltip": "PE::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "Model 3",
+        "tooltip": "Model 3::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Itochu Corp",
+        "tooltip": "Itochu Corp::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Yale",
+        "tooltip": "Yale::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Sumitomo Corp",
+        "tooltip": "Sumitomo Corp::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "Oregon",
+        "tooltip": "Oregon::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "BigBazaar",
+        "tooltip": "BigBazaar::4",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Richard Branson",
+        "tooltip": "Richard Branson::4",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "Louis",
+        "tooltip": "Louis::4",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Precision Castparts",
+        "tooltip": "Precision Castparts::4",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Carl Icahn",
+        "tooltip": "Carl Icahn::4",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Harvard Business School",
+        "tooltip": "Harvard Business School::4",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "Nebraska",
+        "tooltip": "Nebraska::4",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "Algerian",
+        "tooltip": "Algerian::4",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Mitsubishi Corp",
+        "tooltip": "Mitsubishi Corp::4",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Andrew",
+        "tooltip": "Andrew::4",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "exchange",
+        "tooltip": "exchange::4",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Paytm Mall",
+        "tooltip": "Paytm Mall::4",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Cyble",
+        "tooltip": "Cyble::4",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "Depression",
+        "tooltip": "Depression::4",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Rallis",
+        "tooltip": "Rallis::4",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Aveek Mitra",
+        "tooltip": "Aveek Mitra::4",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "American Express",
+        "tooltip": "American Express::4",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "DST Global",
+        "tooltip": "DST Global::4",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Steve Ballmer",
+        "tooltip": "Steve Ballmer::3",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Delta",
+        "tooltip": "Delta::3",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Geico",
+        "tooltip": "Geico::3",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Francois",
+        "tooltip": "Francois::3",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Charlie Munger",
+        "tooltip": "Charlie Munger::3",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "Calendar 2020",
+        "tooltip": "Calendar 2020::3",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Warren B",
+        "tooltip": "Warren B::3",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "NYU",
+        "tooltip": "NYU::3",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Kingfisher",
+        "tooltip": "Kingfisher::3",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Praj Industries",
+        "tooltip": "Praj Industries::3",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "General Electric",
+        "tooltip": "General Electric::3",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Larry Ellison",
+        "tooltip": "Larry Ellison::3",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Bata",
+        "tooltip": "Bata::3",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Bull",
+        "tooltip": "Bull::3",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Occidental Petroleum Corp",
+        "tooltip": "Occidental Petroleum Corp::3",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "VMart",
+        "tooltip": "VMart::3",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Pony Ma",
+        "tooltip": "Pony Ma::3",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Steve",
+        "tooltip": "Steve::3",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Inox",
+        "tooltip": "Inox::3",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Dai",
+        "tooltip": "Dai::3",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "George",
+        "tooltip": "George::3",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Anupam Gupta",
+        "tooltip": "Anupam Gupta::3",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "\u201d Buffett",
+        "tooltip": "\u201d Buffett::3",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Dominion Energy",
+        "tooltip": "Dominion Energy::3",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Big Bull",
+        "tooltip": "Big Bull::3",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Derek",
+        "tooltip": "Derek::3",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Southern",
+        "tooltip": "Southern::3",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Burger King",
+        "tooltip": "Burger King::3",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Visa Inc",
+        "tooltip": "Visa Inc::3",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Congressional",
+        "tooltip": "Congressional::3",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Group Corp .",
+        "tooltip": "Group Corp .::3",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Southwest Airlines Co .",
+        "tooltip": "Southwest Airlines Co .::3",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Telsa Inc",
+        "tooltip": "Telsa Inc::3",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Mark Z",
+        "tooltip": "Mark Z::3",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Marubeni Corp",
+        "tooltip": "Marubeni Corp::2",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Mitsui & Co",
+        "tooltip": "Mitsui & Co::2",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "John Wick",
+        "tooltip": "John Wick::2",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Richard Clarida",
+        "tooltip": "Richard Clarida::2",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Rare Enterprises",
+        "tooltip": "Rare Enterprises::2",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Solutions",
+        "tooltip": "Solutions::2",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Timken",
+        "tooltip": "Timken::2",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Tokio Marine Holdings",
+        "tooltip": "Tokio Marine Holdings::2",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Marubeni",
+        "tooltip": "Marubeni::2",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Jim Paul",
+        "tooltip": "Jim Paul::2",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Mitsui & Co Ltd",
+        "tooltip": "Mitsui & Co Ltd::2",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Mark Matthews",
+        "tooltip": "Mark Matthews::2",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "PM Relief Fund",
+        "tooltip": "PM Relief Fund::2",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "Ghanaian",
+        "tooltip": "Ghanaian::2",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Bloomberg Opinion",
+        "tooltip": "Bloomberg Opinion::2",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "StoneC",
+        "tooltip": "StoneC::2",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Snowflake Inc",
+        "tooltip": "Snowflake Inc::2",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Lo",
+        "tooltip": "Lo::2",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "Omaha",
+        "tooltip": "Omaha::2",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "Bloomberg Index",
+        "tooltip": "Bloomberg Index::2",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "University of Minnesota",
+        "tooltip": "University of Minnesota::2",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Bitcoin",
+        "tooltip": "Bitcoin::2",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Oswal Group",
+        "tooltip": "Oswal Group::2",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "GT",
+        "tooltip": "GT::2",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "S Naren",
+        "tooltip": "S Naren::2",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Dairy Queen",
+        "tooltip": "Dairy Queen::2",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Ted Weschler",
+        "tooltip": "Ted Weschler::2",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "Forbes Real",
+        "tooltip": "Forbes Real::2",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Guy Spier",
+        "tooltip": "Guy Spier::2",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Bill Ackman",
+        "tooltip": "Bill Ackman::2",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Restaurant Brands International Inc",
+        "tooltip": "Restaurant Brands International Inc::2",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "Jan",
+        "tooltip": "Jan::2",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "MFS",
+        "tooltip": "MFS::2",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Coca",
+        "tooltip": "Coca::2",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "BNSF",
+        "tooltip": "BNSF::2",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "FactSet",
+        "tooltip": "FactSet::2",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "One97 Communications",
+        "tooltip": "One97 Communications::2",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Pension",
+        "tooltip": "Pension::2",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "LVMH Moet Hennessy Louis Vuitton SE",
+        "tooltip": "LVMH Moet Hennessy Louis Vuitton SE::2",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Bernard",
+        "tooltip": "Bernard::2",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Todd Combs",
+        "tooltip": "Todd Combs::2",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Cyrus Poonawalla",
+        "tooltip": "Cyrus Poonawalla::2",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Miller Tabak + Co",
+        "tooltip": "Miller Tabak + Co::2",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Ali",
+        "tooltip": "Ali::2",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Matt Maley",
+        "tooltip": "Matt Maley::2",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Edward",
+        "tooltip": "Edward::2",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "AT & T",
+        "tooltip": "AT & T::2",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Gardner Russo & Gardner",
+        "tooltip": "Gardner Russo & Gardner::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Gaurav Sud",
+        "tooltip": "Gaurav Sud::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Mutual",
+        "tooltip": "Mutual::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Nir Kaissar",
+        "tooltip": "Nir Kaissar::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Buff",
+        "tooltip": "Buff::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Michael Borohovski",
+        "tooltip": "Michael Borohovski::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Handel",
+        "tooltip": "Handel::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Rob Almeida",
+        "tooltip": "Rob Almeida::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "HCKINDIA",
+        "tooltip": "HCKINDIA::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Dmitri Alperovitch",
+        "tooltip": "Dmitri Alperovitch::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Wilhelm Schulz",
+        "tooltip": "Wilhelm Schulz::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "narendramodi",
+        "tooltip": "narendramodi::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Qualcom",
+        "tooltip": "Qualcom::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Jack Bogle",
+        "tooltip": "Jack Bogle::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Jack Do",
+        "tooltip": "Jack Do::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Airbn",
+        "tooltip": "Airbn::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "John W",
+        "tooltip": "John W::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "AGM Reliance Industries Ltd",
+        "tooltip": "AGM Reliance Industries Ltd::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Phoolan Devi",
+        "tooltip": "Phoolan Devi::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Gardner Russo & Gardner LLC",
+        "tooltip": "Gardner Russo & Gardner LLC::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Henry H . Armstrong Associates",
+        "tooltip": "Henry H . Armstrong Associates::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Tom Russo",
+        "tooltip": "Tom Russo::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Nooresh Merani",
+        "tooltip": "Nooresh Merani::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "\u201c Buffett",
+        "tooltip": "\u201c Buffett::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Carhart",
+        "tooltip": "Carhart::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "CrowdStrike",
+        "tooltip": "CrowdStrike::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Stanford Business and Law Schools",
+        "tooltip": "Stanford Business and Law Schools::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "James Armstrong",
+        "tooltip": "James Armstrong::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Thomas Russo",
+        "tooltip": "Thomas Russo::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "William Green",
+        "tooltip": "William Green::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Sanjeev Krishan",
+        "tooltip": "Sanjeev Krishan::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Vicki Hollub",
+        "tooltip": "Vicki Hollub::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "Southwest",
+        "tooltip": "Southwest::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Larry Elison",
+        "tooltip": "Larry Elison::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Jezz Bezos",
+        "tooltip": "Jezz Bezos::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "& Family",
+        "tooltip": "& Family::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Semper Vic",
+        "tooltip": "Semper Vic::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Mark Zukerberg",
+        "tooltip": "Mark Zukerberg::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Egon",
+        "tooltip": "Egon::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "University of Chicago Booth School of Business",
+        "tooltip": "University of Chicago Booth School of Business::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Snowflake",
+        "tooltip": "Snowflake::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Coinbase Inc .",
+        "tooltip": "Coinbase Inc .::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Aquamarine Investment Funds",
+        "tooltip": "Aquamarine Investment Funds::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Anadarko Petroleum",
+        "tooltip": "Anadarko Petroleum::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Abhishek Basumullick",
+        "tooltip": "Abhishek Basumullick::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "The Boring Company",
+        "tooltip": "The Boring Company::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Mohnish Pabrai",
+        "tooltip": "Mohnish Pabrai::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Synopsys",
+        "tooltip": "Synopsys::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Intelsense",
+        "tooltip": "Intelsense::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Luigi Zingales",
+        "tooltip": "Luigi Zingales::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Pershing Square Capital",
+        "tooltip": "Pershing Square Capital::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Giverny Capital",
+        "tooltip": "Giverny Capital::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Mitsui & Co .",
+        "tooltip": "Mitsui & Co .::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Reliance Platforms",
+        "tooltip": "Reliance Platforms::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Paulson & Co .",
+        "tooltip": "Paulson & Co .::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Newmont Corp",
+        "tooltip": "Newmont Corp::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Buffet",
+        "tooltip": "Buffet::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Abhishek Basumal",
+        "tooltip": "Abhishek Basumal::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Gilt Fund",
+        "tooltip": "Gilt Fund::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Central Statistical Organization",
+        "tooltip": "Central Statistical Organization::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Warren Buff",
+        "tooltip": "Warren Buff::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "- 50",
+        "tooltip": "- 50::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Fran\u00e7ois Rochon",
+        "tooltip": "Fran\u00e7ois Rochon::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Nikola Tesla",
+        "tooltip": "Nikola Tesla::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "Forbes Real Time Bill",
+        "tooltip": "Forbes Real Time Bill::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "Buffett Indicator",
+        "tooltip": "Buffett Indicator::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Technology",
+        "tooltip": "Technology::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "Dow Jones Industrials",
+        "tooltip": "Dow Jones Industrials::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "John Paulson",
+        "tooltip": "John Paulson::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "American Express Co",
+        "tooltip": "American Express Co::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "National Indemnity Co",
+        "tooltip": "National Indemnity Co::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "IMC International Metal",
+        "tooltip": "IMC International Metal::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "Buffalo Theory",
+        "tooltip": "Buffalo Theory::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Vandana Bharti",
+        "tooltip": "Vandana Bharti::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "IDFC Nifty Fund",
+        "tooltip": "IDFC Nifty Fund::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "IDFC Government Securities Fund",
+        "tooltip": "IDFC Government Securities Fund::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Ben Graham",
+        "tooltip": "Ben Graham::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Saudi Arabian Oil Company",
+        "tooltip": "Saudi Arabian Oil Company::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Oracle Of Omaha",
+        "tooltip": "Oracle Of Omaha::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Howard",
+        "tooltip": "Howard::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Leila Buffett",
+        "tooltip": "Leila Buffett::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "SMC Comtrade",
+        "tooltip": "SMC Comtrade::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Aquamarine Fund",
+        "tooltip": "Aquamarine Fund::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Tim Horton",
+        "tooltip": "Tim Horton::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Smead Capital Management",
+        "tooltip": "Smead Capital Management::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Hurun",
+        "tooltip": "Hurun::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Joel Greenblatt",
+        "tooltip": "Joel Greenblatt::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Bill Smead",
+        "tooltip": "Bill Smead::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "James O'Shaughnessy",
+        "tooltip": "James O'Shaughnessy::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Gowtham Capital",
+        "tooltip": "Gowtham Capital::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "Magic Formula",
+        "tooltip": "Magic Formula::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Cola",
+        "tooltip": "Cola::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "United Health Group",
+        "tooltip": "United Health Group::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Philip Morris International Inc",
+        "tooltip": "Philip Morris International Inc::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Faux Pas",
+        "tooltip": "Faux Pas::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "KEC China",
+        "tooltip": "KEC China::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Next Ratan Tata",
+        "tooltip": "Next Ratan Tata::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Cambridge Analy",
+        "tooltip": "Cambridge Analy::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "Hanging Man",
+        "tooltip": "Hanging Man::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "The Victory Project",
+        "tooltip": "The Victory Project::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "International Inc",
+        "tooltip": "International Inc::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "Six",
+        "tooltip": "Six::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "All Future Group",
+        "tooltip": "All Future Group::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "\u201d Jhunjhunwala",
+        "tooltip": "\u201d Jhunjhunwala::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "PNC Financial Services Group Inc",
+        "tooltip": "PNC Financial Services Group Inc::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Bank of New York Mellon Corp",
+        "tooltip": "Bank of New York Mellon Corp::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "M & T Bank Corp",
+        "tooltip": "M & T Bank Corp::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Mastercard Inc",
+        "tooltip": "Mastercard Inc::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Huang Zheng",
+        "tooltip": "Huang Zheng::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Anas Rahman",
+        "tooltip": "Anas Rahman::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Bill Nygren",
+        "tooltip": "Bill Nygren::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Oakmark Global Select Fund",
+        "tooltip": "Oakmark Global Select Fund::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "The Oakmark Select Fund",
+        "tooltip": "The Oakmark Select Fund::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "The Oakmark Fund",
+        "tooltip": "The Oakmark Fund::1",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Market",
+        "tooltip": "Market::1",
         "photo": "nopic"
     }
 ],"links": [
     
-    
-    
-    {
-        "target": "Motilal Oswal",
+{
+        "target": "Warren Buffet",
         "source": "Locations",
         "costWhereApplicable": "Linkrelay",
         "relationship": "nopic"
     },
 {
-        "target": "Motilal Oswal",
+        "target": "Warren Buffet",
         "source": "Organizations",
         "costWhereApplicable": "Linkrelay",
         "relationship": "nopic"
     },
 
 {
-        "target": "Motilal Oswal",
+        "target": "Warren Buffet",
         "source": "Miscellaneous",
         "costWhereApplicable": "Linkrelay",
         "relationship": "nopic"
     },
+    
+    
     {
         "target": "Locations",
         "source": "India",
@@ -737,9 +3395,9 @@
         "relationship": "nopic"
     },
     {
-        "target": "Organizations",
-        "source": "RBI",
-        "costWhereApplicable": "RBI::1372",
+        "target": "Miscellaneous",
+        "source": "Chinese",
+        "costWhereApplicable": "Chinese::1302",
         "relationship": "nopic"
     },
     {
@@ -761,6 +3419,12 @@
         "relationship": "nopic"
     },
     {
+        "target": "Organizations",
+        "source": "NSE",
+        "costWhereApplicable": "NSE::796",
+        "relationship": "nopic"
+    },
+    {
         "target": "Locations",
         "source": "Hong Kong",
         "costWhereApplicable": "Hong Kong::786",
@@ -779,6 +3443,12 @@
         "relationship": "nopic"
     },
     {
+        "target": "Organizations",
+        "source": "Brent",
+        "costWhereApplicable": "Brent::736",
+        "relationship": "nopic"
+    },
+    {
         "target": "Locations",
         "source": "Europe",
         "costWhereApplicable": "Europe::711",
@@ -791,15 +3461,45 @@
         "relationship": "nopic"
     },
     {
+        "target": "Organizations",
+        "source": "Reliance Industries",
+        "costWhereApplicable": "Reliance Industries::647",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "European",
+        "costWhereApplicable": "European::522",
+        "relationship": "nopic"
+    },
+    {
         "target": "Locations",
         "source": "Wall Street",
         "costWhereApplicable": "Wall Street::513",
         "relationship": "nopic"
     },
     {
+        "target": "Miscellaneous",
+        "source": "Corona",
+        "costWhereApplicable": "Corona::511",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Donald Trump",
+        "costWhereApplicable": "Donald Trump::479",
+        "relationship": "nopic"
+    },
+    {
         "target": "Organizations",
         "source": "Nifty",
         "costWhereApplicable": "Nifty::467",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "HDFC Bank",
+        "costWhereApplicable": "HDFC Bank::461",
         "relationship": "nopic"
     },
     {
@@ -810,14 +3510,134 @@
     },
     {
         "target": "Organizations",
+        "source": "RIL",
+        "costWhereApplicable": "RIL::452",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
+        "source": "Washington",
+        "costWhereApplicable": "Washington::434",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
+        "source": "Germany",
+        "costWhereApplicable": "Germany::419",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Axis Bank",
+        "costWhereApplicable": "Axis Bank::406",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
+        "source": "UK",
+        "costWhereApplicable": "UK::397",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "S & P",
+        "costWhereApplicable": "S & P::393",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "American",
+        "costWhereApplicable": "American::374",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Narendra Modi",
+        "costWhereApplicable": "Narendra Modi::369",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
+        "source": "Australia",
+        "costWhereApplicable": "Australia::363",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
         "source": "S & P BSE Sensex",
         "costWhereApplicable": "S & P BSE Sensex::362",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Google",
+        "costWhereApplicable": "Google::344",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
+        "source": "Singapore",
+        "costWhereApplicable": "Singapore::338",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Federal Reserve",
+        "costWhereApplicable": "Federal Reserve::336",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
+        "source": "France",
+        "costWhereApplicable": "France::336",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Sebi",
+        "costWhereApplicable": "Sebi::322",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "Co",
+        "costWhereApplicable": "Co::319",
         "relationship": "nopic"
     },
     {
         "target": "Locations",
         "source": "Tokyo",
         "costWhereApplicable": "Tokyo::317",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "Ni",
+        "costWhereApplicable": "Ni::315",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "500",
+        "costWhereApplicable": "500::315",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Securities and Exchange Board of India",
+        "costWhereApplicable": "Securities and Exchange Board of India::308",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "Japanese",
+        "costWhereApplicable": "Japanese::308",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Facebook",
+        "costWhereApplicable": "Facebook::306",
         "relationship": "nopic"
     },
     {
@@ -828,8 +3648,32 @@
     },
     {
         "target": "Locations",
+        "source": "South Korea",
+        "costWhereApplicable": "South Korea::301",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
         "source": "Kolkata",
         "costWhereApplicable": "Kolkata::300",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
+        "source": "New York",
+        "costWhereApplicable": "New York::298",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "TCS",
+        "costWhereApplicable": "TCS::292",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
+        "source": "London",
+        "costWhereApplicable": "London::283",
         "relationship": "nopic"
     },
     {
@@ -839,21 +3683,33 @@
         "relationship": "nopic"
     },
     {
-        "target": "Organizations",
-        "source": "Times Syndication Service",
-        "costWhereApplicable": "Times Syndication Service::266",
+        "target": "Locations",
+        "source": "Shanghai",
+        "costWhereApplicable": "Shanghai::255",
         "relationship": "nopic"
     },
     {
-        "target": "Organizations",
-        "source": "Bennett , Coleman & Co . Ltd",
-        "costWhereApplicable": "Bennett , Coleman & Co . Ltd::265",
+        "target": "Miscellaneous",
+        "source": "German",
+        "costWhereApplicable": "German::254",
         "relationship": "nopic"
     },
     {
-        "target": "Organizations",
-        "source": "ITC",
-        "costWhereApplicable": "ITC::234",
+        "target": "Miscellaneous",
+        "source": "Indians",
+        "costWhereApplicable": "Indians::242",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "Americans",
+        "costWhereApplicable": "Americans::241",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Mukesh Ambani",
+        "costWhereApplicable": "Mukesh Ambani::238",
         "relationship": "nopic"
     },
     {
@@ -864,14 +3720,20 @@
     },
     {
         "target": "Organizations",
-        "source": "Business Standard",
-        "costWhereApplicable": "Business Standard::231",
+        "source": "Amazon",
+        "costWhereApplicable": "Amazon::230",
         "relationship": "nopic"
     },
     {
         "target": "Organizations",
-        "source": "HDFC",
-        "costWhereApplicable": "HDFC::225",
+        "source": "BSE Sensex",
+        "costWhereApplicable": "BSE Sensex::226",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "Nikkei",
+        "costWhereApplicable": "Nikkei::221",
         "relationship": "nopic"
     },
     {
@@ -881,21 +3743,111 @@
         "relationship": "nopic"
     },
     {
-        "target": "Motilal Oswal",
+        "target": "Organizations",
+        "source": "Jio Platforms",
+        "costWhereApplicable": "Jio Platforms::213",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "Nasdaq",
+        "costWhereApplicable": "Nasdaq::207",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "United States Federal Reserve",
+        "costWhereApplicable": "United States Federal Reserve::204",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Trump",
+        "costWhereApplicable": "Trump::198",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
+        "source": "Bengaluru",
+        "costWhereApplicable": "Bengaluru::197",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
+        "source": "Canada",
+        "costWhereApplicable": "Canada::197",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Singapore Exchange",
+        "costWhereApplicable": "Singapore Exchange::195",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
+        "source": "United",
+        "costWhereApplicable": "United::190",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
         "source": "Motilal Oswal",
         "costWhereApplicable": "Motilal Oswal::189",
         "relationship": "nopic"
     },
     {
         "target": "Miscellaneous",
-        "source": "Nifty 50",
-        "costWhereApplicable": "Nifty 50::169",
+        "source": "Dow Jones Industrial Average",
+        "costWhereApplicable": "Dow Jones Industrial Average::187",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
+        "source": "California",
+        "costWhereApplicable": "California::187",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Sun Pharma",
+        "costWhereApplicable": "Sun Pharma::185",
         "relationship": "nopic"
     },
     {
         "target": "Miscellaneous",
-        "source": "S",
-        "costWhereApplicable": "S::162",
+        "source": "G",
+        "costWhereApplicable": "G::184",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "French",
+        "costWhereApplicable": "French::181",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
+        "source": "Italy",
+        "costWhereApplicable": "Italy::179",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Apple",
+        "costWhereApplicable": "Apple::176",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "ONGC",
+        "costWhereApplicable": "ONGC::172",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
+        "source": "White House",
+        "costWhereApplicable": "White House::161",
         "relationship": "nopic"
     },
     {
@@ -905,9 +3857,33 @@
         "relationship": "nopic"
     },
     {
+        "target": "Organizations",
+        "source": "Dalal Street",
+        "costWhereApplicable": "Dalal Street::155",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Titan",
+        "costWhereApplicable": "Titan::153",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
+        "source": "America",
+        "costWhereApplicable": "America::153",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Facebook Inc",
+        "costWhereApplicable": "Facebook Inc::153",
+        "relationship": "nopic"
+    },
+    {
         "target": "Miscellaneous",
-        "source": "IS",
-        "costWhereApplicable": "IS::156",
+        "source": "Dow",
+        "costWhereApplicable": "Dow::151",
         "relationship": "nopic"
     },
     {
@@ -917,15 +3893,111 @@
         "relationship": "nopic"
     },
     {
+        "target": "Warren Buffet",
+        "source": "Jerome Powell",
+        "costWhereApplicable": "Jerome Powell::149",
+        "relationship": "nopic"
+    },
+    {
         "target": "Organizations",
         "source": "Ltd",
         "costWhereApplicable": "Ltd::148",
         "relationship": "nopic"
     },
     {
+        "target": "Organizations",
+        "source": "Reliance Industries Ltd",
+        "costWhereApplicable": "Reliance Industries Ltd::143",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Goldman Sachs",
+        "costWhereApplicable": "Goldman Sachs::138",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Morgan Stanley",
+        "costWhereApplicable": "Morgan Stanley::130",
+        "relationship": "nopic"
+    },
+    {
         "target": "Miscellaneous",
-        "source": "Sino",
-        "costWhereApplicable": "Sino::129",
+        "source": "Saudi",
+        "costWhereApplicable": "Saudi::127",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Microsoft",
+        "costWhereApplicable": "Microsoft::118",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Amazon . com Inc",
+        "costWhereApplicable": "Amazon . com Inc::113",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Treasury",
+        "costWhereApplicable": "Treasury::113",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "Hang Seng",
+        "costWhereApplicable": "Hang Seng::112",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
+        "source": "Iraq",
+        "costWhereApplicable": "Iraq::112",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
+        "source": "New Zealand",
+        "costWhereApplicable": "New Zealand::110",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Tata Consultancy Services",
+        "costWhereApplicable": "Tata Consultancy Services::109",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Apple Inc",
+        "costWhereApplicable": "Apple Inc::104",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "States",
+        "costWhereApplicable": "States::102",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Alphabet Inc",
+        "costWhereApplicable": "Alphabet Inc::99",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
+        "source": "Switzerland",
+        "costWhereApplicable": "Switzerland::98",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "Nasdaq Composite",
+        "costWhereApplicable": "Nasdaq Composite::97",
         "relationship": "nopic"
     },
     {
@@ -936,32 +4008,68 @@
     },
     {
         "target": "Miscellaneous",
-        "source": "Nasda",
-        "costWhereApplicable": "Nasda::87",
+        "source": "MS",
+        "costWhereApplicable": "MS::93",
         "relationship": "nopic"
     },
     {
         "target": "Organizations",
-        "source": "Hindalco",
-        "costWhereApplicable": "Hindalco::86",
+        "source": "European Central Bank",
+        "costWhereApplicable": "European Central Bank::92",
         "relationship": "nopic"
     },
     {
         "target": "Organizations",
-        "source": "Motilal Oswal Financial Services",
-        "costWhereApplicable": "Motilal Oswal Financial Services::85",
+        "source": "Silver Lake",
+        "costWhereApplicable": "Silver Lake::92",
         "relationship": "nopic"
     },
     {
         "target": "Organizations",
-        "source": "NBFC",
-        "costWhereApplicable": "NBFC::82",
+        "source": "KKR",
+        "costWhereApplicable": "KKR::89",
         "relationship": "nopic"
     },
     {
         "target": "Organizations",
-        "source": "FMCG",
-        "costWhereApplicable": "FMCG::81",
+        "source": "Future Group",
+        "costWhereApplicable": "Future Group::86",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Reliance Retail",
+        "costWhereApplicable": "Reliance Retail::84",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Group",
+        "costWhereApplicable": "Group::82",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "General Atlantic",
+        "costWhereApplicable": "General Atlantic::81",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
+        "source": "England",
+        "costWhereApplicable": "England::80",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "Canadian",
+        "costWhereApplicable": "Canadian::79",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Jio",
+        "costWhereApplicable": "Jio::79",
         "relationship": "nopic"
     },
     {
@@ -972,68 +4080,272 @@
     },
     {
         "target": "Organizations",
-        "source": "Nomura",
-        "costWhereApplicable": "Nomura::71",
+        "source": "Saudi Aramco",
+        "costWhereApplicable": "Saudi Aramco::78",
         "relationship": "nopic"
     },
     {
         "target": "Organizations",
-        "source": "CLSA",
-        "costWhereApplicable": "CLSA::67",
+        "source": "Fed",
+        "costWhereApplicable": "Fed::75",
         "relationship": "nopic"
     },
     {
         "target": "Organizations",
-        "source": "Bandhan Bank",
-        "costWhereApplicable": "Bandhan Bank::66",
+        "source": "Axis Securities",
+        "costWhereApplicable": "Axis Securities::73",
         "relationship": "nopic"
     },
     {
         "target": "Organizations",
-        "source": "Edelweiss",
-        "costWhereApplicable": "Edelweiss::60",
+        "source": "UltraTech Cement",
+        "costWhereApplicable": "UltraTech Cement::72",
         "relationship": "nopic"
     },
     {
         "target": "Organizations",
-        "source": "Reliance Securities",
-        "costWhereApplicable": "Reliance Securities::59",
+        "source": "United States Fed",
+        "costWhereApplicable": "United States Fed::71",
         "relationship": "nopic"
     },
     {
         "target": "Organizations",
-        "source": "Bombay Stock Exchange",
-        "costWhereApplicable": "Bombay Stock Exchange::58",
+        "source": "Twitter",
+        "costWhereApplicable": "Twitter::67",
         "relationship": "nopic"
     },
     {
         "target": "Organizations",
-        "source": "Motilal Oswal Securities",
-        "costWhereApplicable": "Motilal Oswal Securities::55",
+        "source": "India Inc",
+        "costWhereApplicable": "India Inc::62",
         "relationship": "nopic"
     },
     {
-        "target": "Motilal Oswal",
-        "source": "Chandan Taparia",
-        "costWhereApplicable": "Chandan Taparia::54",
+        "target": "Warren Buffet",
+        "source": "Elon Musk",
+        "costWhereApplicable": "Elon Musk::62",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Se",
+        "costWhereApplicable": "Se::62",
         "relationship": "nopic"
     },
     {
         "target": "Organizations",
-        "source": "Kotak Institutional Equities",
-        "costWhereApplicable": "Kotak Institutional Equities::50",
+        "source": "Mint",
+        "costWhereApplicable": "Mint::61",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Ajit Mishra",
+        "costWhereApplicable": "Ajit Mishra::61",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Lupin",
+        "costWhereApplicable": "Lupin::58",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "iPhone",
+        "costWhereApplicable": "iPhone::57",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Walmart",
+        "costWhereApplicable": "Walmart::56",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "com",
+        "costWhereApplicable": "com::56",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "English",
+        "costWhereApplicable": "English::55",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "Android",
+        "costWhereApplicable": "Android::55",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Mindtree",
+        "costWhereApplicable": "Mindtree::54",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Future Retail",
+        "costWhereApplicable": "Future Retail::54",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "PowerGrid",
+        "costWhereApplicable": "PowerGrid::54",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "United States Treasury",
+        "costWhereApplicable": "United States Treasury::54",
         "relationship": "nopic"
     },
     {
         "target": "Locations",
-        "source": "Sydney",
-        "costWhereApplicable": "Sydney::47",
+        "source": "Silicon Valley",
+        "costWhereApplicable": "Silicon Valley::54",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Jeff Bezos",
+        "costWhereApplicable": "Jeff Bezos::53",
         "relationship": "nopic"
     },
     {
         "target": "Organizations",
-        "source": "BENGALURU",
-        "costWhereApplicable": "BENGALURU::45",
+        "source": "Topix",
+        "costWhereApplicable": "Topix::53",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Warren Buffett",
+        "costWhereApplicable": "Warren Buffett::53",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Corp",
+        "costWhereApplicable": "Corp::52",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Singapore Stock Exchange",
+        "costWhereApplicable": "Singapore Stock Exchange::51",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Alphabet",
+        "costWhereApplicable": "Alphabet::51",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Netflix",
+        "costWhereApplicable": "Netflix::51",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Microsoft Corp",
+        "costWhereApplicable": "Microsoft Corp::50",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Bank of Japan",
+        "costWhereApplicable": "Bank of Japan::50",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Bank",
+        "costWhereApplicable": "Bank::48",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Tesla Inc",
+        "costWhereApplicable": "Tesla Inc::47",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Tesla",
+        "costWhereApplicable": "Tesla::47",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "Great Depression",
+        "costWhereApplicable": "Great Depression::46",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Mubadala",
+        "costWhereApplicable": "Mubadala::46",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Reliance Industries Limited",
+        "costWhereApplicable": "Reliance Industries Limited::45",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "HDFC Life",
+        "costWhereApplicable": "HDFC Life::45",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Mark Zuckerberg",
+        "costWhereApplicable": "Mark Zuckerberg::43",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Aramco",
+        "costWhereApplicable": "Aramco::42",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "Brazilian",
+        "costWhereApplicable": "Brazilian::42",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
+        "source": "United States West Texas",
+        "costWhereApplicable": "United States West Texas::42",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "ET Now",
+        "costWhereApplicable": "ET Now::42",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Bloomberg News",
+        "costWhereApplicable": "Bloomberg News::41",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Crisil",
+        "costWhereApplicable": "Crisil::40",
         "relationship": "nopic"
     },
     {
@@ -1043,9 +4355,15 @@
         "relationship": "nopic"
     },
     {
-        "target": "Motilal Oswal",
-        "source": "Nagaraj Shetti",
-        "costWhereApplicable": "Nagaraj Shetti::39",
+        "target": "Locations",
+        "source": "Arabia",
+        "costWhereApplicable": "Arabia::39",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Joe Biden",
+        "costWhereApplicable": "Joe Biden::39",
         "relationship": "nopic"
     },
     {
@@ -1056,296 +4374,2294 @@
     },
     {
         "target": "Miscellaneous",
-        "source": "B",
-        "costWhereApplicable": "B::33",
+        "source": "RS",
+        "costWhereApplicable": "RS::37",
         "relationship": "nopic"
     },
     {
         "target": "Organizations",
-        "source": "HDFC Bank Ltd",
-        "costWhereApplicable": "HDFC Bank Ltd::30",
+        "source": "CNBC",
+        "costWhereApplicable": "CNBC::37",
         "relationship": "nopic"
     },
     {
-        "target": "Motilal Oswal",
-        "source": "Aditya Agarwala",
-        "costWhereApplicable": "Aditya Agarwala::28",
+        "target": "Warren Buffet",
+        "source": "Shinzo Abe",
+        "costWhereApplicable": "Shinzo Abe::36",
         "relationship": "nopic"
     },
     {
         "target": "Organizations",
-        "source": "IDBI Capital",
-        "costWhereApplicable": "IDBI Capital::27",
+        "source": "IIFL Securities",
+        "costWhereApplicable": "IIFL Securities::36",
         "relationship": "nopic"
     },
     {
         "target": "Miscellaneous",
-        "source": "P",
-        "costWhereApplicable": "P::25",
+        "source": "IN",
+        "costWhereApplicable": "IN::36",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Financial Times",
+        "costWhereApplicable": "Financial Times::35",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Am",
+        "costWhereApplicable": "Am::35",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Amazon . com",
+        "costWhereApplicable": "Amazon . com::35",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Authority",
+        "costWhereApplicable": "Authority::34",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Deepak Jasani",
+        "costWhereApplicable": "Deepak Jasani::34",
         "relationship": "nopic"
     },
     {
         "target": "Miscellaneous",
-        "source": "Euro",
-        "costWhereApplicable": "Euro::24",
+        "source": "In",
+        "costWhereApplicable": "In::34",
         "relationship": "nopic"
     },
     {
         "target": "Organizations",
-        "source": "ACE Equity",
-        "costWhereApplicable": "ACE Equity::22",
+        "source": "Jio Platforms Ltd",
+        "costWhereApplicable": "Jio Platforms Ltd::33",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Sundar Pichai",
+        "costWhereApplicable": "Sundar Pichai::33",
         "relationship": "nopic"
     },
     {
         "target": "Organizations",
-        "source": "Avenue Supermarts",
-        "costWhereApplicable": "Avenue Supermarts::21",
-        "relationship": "nopic"
-    },
-    {
-        "target": "Motilal Oswal",
-        "source": "Jain",
-        "costWhereApplicable": "Jain::20",
-        "relationship": "nopic"
-    },
-    {
-        "target": "Motilal Oswal",
-        "source": "Siddhartha Khemka",
-        "costWhereApplicable": "Siddhartha Khemka::20",
+        "source": "JioMart",
+        "costWhereApplicable": "JioMart::32",
         "relationship": "nopic"
     },
     {
         "target": "Organizations",
-        "source": "HFC",
-        "costWhereApplicable": "HFC::19",
+        "source": "IT",
+        "costWhereApplicable": "IT::32",
         "relationship": "nopic"
     },
     {
         "target": "Organizations",
-        "source": "AG",
-        "costWhereApplicable": "AG::17",
+        "source": "Bank of America",
+        "costWhereApplicable": "Bank of America::32",
         "relationship": "nopic"
     },
     {
         "target": "Organizations",
-        "source": "DMart",
-        "costWhereApplicable": "DMart::15",
+        "source": "Twitter Inc",
+        "costWhereApplicable": "Twitter Inc::31",
         "relationship": "nopic"
     },
     {
         "target": "Organizations",
-        "source": "Phillip Capital",
-        "costWhereApplicable": "Phillip Capital::15",
-        "relationship": "nopic"
-    },
-    {
-        "target": "Miscellaneous",
-        "source": "Memorial Day",
-        "costWhereApplicable": "Memorial Day::13",
+        "source": "TPG",
+        "costWhereApplicable": "TPG::30",
         "relationship": "nopic"
     },
     {
         "target": "Organizations",
-        "source": "Zara",
-        "costWhereApplicable": "Zara::11",
+        "source": "Gilead Sciences",
+        "costWhereApplicable": "Gilead Sciences::30",
         "relationship": "nopic"
     },
     {
         "target": "Organizations",
-        "source": "Havells India",
-        "costWhereApplicable": "Havells India::9",
-        "relationship": "nopic"
-    },
-    {
-        "target": "Miscellaneous",
-        "source": "Ra",
-        "costWhereApplicable": "Ra::8",
-        "relationship": "nopic"
-    },
-    {
-        "target": "Organizations",
-        "source": "Star",
-        "costWhereApplicable": "Star::8",
-        "relationship": "nopic"
-    },
-    {
-        "target": "Organizations",
-        "source": "ITC Ltd",
-        "costWhereApplicable": "ITC Ltd::7",
-        "relationship": "nopic"
-    },
-    {
-        "target": "Organizations",
-        "source": "Dr Reddy \u2019 s",
-        "costWhereApplicable": "Dr Reddy \u2019 s::6",
-        "relationship": "nopic"
-    },
-    {
-        "target": "Organizations",
-        "source": "Trent",
-        "costWhereApplicable": "Trent::5",
-        "relationship": "nopic"
-    },
-    {
-        "target": "Miscellaneous",
-        "source": "Eastern",
-        "costWhereApplicable": "Eastern::5",
-        "relationship": "nopic"
-    },
-    {
-        "target": "Organizations",
-        "source": "Aashirvaad",
-        "costWhereApplicable": "Aashirvaad::4",
-        "relationship": "nopic"
-    },
-    {
-        "target": "Organizations",
-        "source": "SFPL",
-        "costWhereApplicable": "SFPL::4",
-        "relationship": "nopic"
-    },
-    {
-        "target": "Organizations",
-        "source": "Sunrise Foods Private Limited",
-        "costWhereApplicable": "Sunrise Foods Private Limited::4",
-        "relationship": "nopic"
-    },
-    {
-        "target": "Organizations",
-        "source": "Sunrise Foods",
-        "costWhereApplicable": "Sunrise Foods::4",
-        "relationship": "nopic"
-    },
-    {
-        "target": "Organizations",
-        "source": "Westside",
-        "costWhereApplicable": "Westside::3",
+        "source": "El",
+        "costWhereApplicable": "El::30",
         "relationship": "nopic"
     },
     {
         "target": "Locations",
-        "source": "East India",
-        "costWhereApplicable": "East India::3",
+        "source": "Israel",
+        "costWhereApplicable": "Israel::30",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Barack Obama",
+        "costWhereApplicable": "Barack Obama::30",
         "relationship": "nopic"
     },
     {
         "target": "Organizations",
-        "source": "Gruh Finance",
-        "costWhereApplicable": "Gruh Finance::3",
-        "relationship": "nopic"
-    },
-    {
-        "target": "Motilal Oswal",
-        "source": "Rajesh Pa",
-        "costWhereApplicable": "Rajesh Pa::2",
+        "source": "Silver Lake Partners",
+        "costWhereApplicable": "Silver Lake Partners::30",
         "relationship": "nopic"
     },
     {
         "target": "Organizations",
-        "source": "Savlon",
-        "costWhereApplicable": "Savlon::2",
+        "source": "Kota",
+        "costWhereApplicable": "Kota::30",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
+        "source": "Eastern Ladakh",
+        "costWhereApplicable": "Eastern Ladakh::29",
         "relationship": "nopic"
     },
     {
         "target": "Organizations",
-        "source": "Sunrise \u2019",
-        "costWhereApplicable": "Sunrise \u2019::2",
-        "relationship": "nopic"
-    },
-    {
-        "target": "Motilal Oswal",
-        "source": "Vikas Jain",
-        "costWhereApplicable": "Vikas Jain::2",
+        "source": "Serum Institute of India",
+        "costWhereApplicable": "Serum Institute of India::28",
         "relationship": "nopic"
     },
     {
         "target": "Organizations",
-        "source": "B Natural",
-        "costWhereApplicable": "B Natural::2",
+        "source": "Escorts",
+        "costWhereApplicable": "Escorts::28",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
+        "source": "U",
+        "costWhereApplicable": "U::28",
         "relationship": "nopic"
     },
     {
         "target": "Organizations",
-        "source": "FII Holdings",
-        "costWhereApplicable": "FII Holdings::2",
-        "relationship": "nopic"
-    },
-    {
-        "target": "Motilal Oswal",
-        "source": "Ruchi",
-        "costWhereApplicable": "Ruchi::1",
-        "relationship": "nopic"
-    },
-    {
-        "target": "Motilal Oswal",
-        "source": "Siddharth Khemka",
-        "costWhereApplicable": "Siddharth Khemka::1",
+        "source": "Goldman Sachs Group Inc",
+        "costWhereApplicable": "Goldman Sachs Group Inc::28",
         "relationship": "nopic"
     },
     {
         "target": "Organizations",
-        "source": "Lloyd ACs",
-        "costWhereApplicable": "Lloyd ACs::1",
+        "source": "House",
+        "costWhereApplicable": "House::27",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Mukesh Amban",
+        "costWhereApplicable": "Mukesh Amban::27",
         "relationship": "nopic"
     },
     {
         "target": "Organizations",
-        "source": "Lloyd \u2019 s",
-        "costWhereApplicable": "Lloyd \u2019 s::1",
+        "source": "NSDL",
+        "costWhereApplicable": "NSDL::27",
         "relationship": "nopic"
     },
     {
         "target": "Organizations",
-        "source": "MDH",
-        "costWhereApplicable": "MDH::1",
+        "source": "Ford Motor Co",
+        "costWhereApplicable": "Ford Motor Co::26",
         "relationship": "nopic"
     },
     {
         "target": "Organizations",
-        "source": "Aachi",
-        "costWhereApplicable": "Aachi::1",
+        "source": "Wall Street Journal",
+        "costWhereApplicable": "Wall Street Journal::26",
         "relationship": "nopic"
     },
     {
         "target": "Organizations",
-        "source": "Catch",
-        "costWhereApplicable": "Catch::1",
+        "source": "Tencent Holdings Ltd",
+        "costWhereApplicable": "Tencent Holdings Ltd::26",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Ambani",
+        "costWhereApplicable": "Ambani::25",
         "relationship": "nopic"
     },
     {
         "target": "Organizations",
-        "source": "Nimyle",
-        "costWhereApplicable": "Nimyle::1",
+        "source": "PVR",
+        "costWhereApplicable": "PVR::25",
         "relationship": "nopic"
     },
     {
         "target": "Organizations",
-        "source": "Sakthi",
-        "costWhereApplicable": "Sakthi::1",
+        "source": "Johnson & Johnson",
+        "costWhereApplicable": "Johnson & Johnson::25",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Rakesh Jhunjhunwala",
+        "costWhereApplicable": "Rakesh Jhunjhunwala::24",
         "relationship": "nopic"
     },
     {
         "target": "Organizations",
-        "source": "Goldiee",
-        "costWhereApplicable": "Goldiee::1",
+        "source": "Nifty Pharma",
+        "costWhereApplicable": "Nifty Pharma::24",
         "relationship": "nopic"
     },
     {
         "target": "Organizations",
-        "source": "Everest",
-        "costWhereApplicable": "Everest::1",
+        "source": "Titan Company",
+        "costWhereApplicable": "Titan Company::23",
         "relationship": "nopic"
     },
     {
         "target": "Organizations",
-        "source": "Sunrise Foods Private",
-        "costWhereApplicable": "Sunrise Foods Private::1",
+        "source": "ETNow",
+        "costWhereApplicable": "ETNow::23",
         "relationship": "nopic"
     },
     {
         "target": "Organizations",
-        "source": "Charmis",
-        "costWhereApplicable": "Charmis::1",
+        "source": "Zerodha",
+        "costWhereApplicable": "Zerodha::23",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Composite",
+        "costWhereApplicable": "Composite::23",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Bill Gates",
+        "costWhereApplicable": "Bill Gates::22",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Mo",
+        "costWhereApplicable": "Mo::22",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "SpaceX",
+        "costWhereApplicable": "SpaceX::22",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "Mexican",
+        "costWhereApplicable": "Mexican::22",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Berkshire Hathaway",
+        "costWhereApplicable": "Berkshire Hathaway::22",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "CDSL",
+        "costWhereApplicable": "CDSL::21",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
+        "source": "Toronto",
+        "costWhereApplicable": "Toronto::21",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Nifty Media",
+        "costWhereApplicable": "Nifty Media::21",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Adani Green",
+        "costWhereApplicable": "Adani Green::21",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Tokyo Stock Exchange",
+        "costWhereApplicable": "Tokyo Stock Exchange::20",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Gautam Adani",
+        "costWhereApplicable": "Gautam Adani::20",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
+        "source": "San Francisco",
+        "costWhereApplicable": "San Francisco::20",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Toyota",
+        "costWhereApplicable": "Toyota::20",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "BP Plc",
+        "costWhereApplicable": "BP Plc::20",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Bank of America Corp",
+        "costWhereApplicable": "Bank of America Corp::20",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "SoftBank",
+        "costWhereApplicable": "SoftBank::19",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "Bloomberg Bill",
+        "costWhereApplicable": "Bloomberg Bill::19",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
+        "source": "Bali",
+        "costWhereApplicable": "Bali::19",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "American Airlines Group Inc",
+        "costWhereApplicable": "American Airlines Group Inc::18",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Uber Technologies Inc",
+        "costWhereApplicable": "Uber Technologies Inc::18",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Forbes",
+        "costWhereApplicable": "Forbes::18",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "Israeli",
+        "costWhereApplicable": "Israeli::18",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Bernard Arnault",
+        "costWhereApplicable": "Bernard Arnault::18",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Tim Cook",
+        "costWhereApplicable": "Tim Cook::18",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Future Lifestyle Fashions",
+        "costWhereApplicable": "Future Lifestyle Fashions::18",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "BFSI",
+        "costWhereApplicable": "BFSI::17",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "World",
+        "costWhereApplicable": "World::17",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "ICICI Prudential Mutual Fund",
+        "costWhereApplicable": "ICICI Prudential Mutual Fund::17",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Brand Factory",
+        "costWhereApplicable": "Brand Factory::16",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "JPMorgan Chase & Co",
+        "costWhereApplicable": "JPMorgan Chase & Co::16",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "Bloomberg Billionaires Index",
+        "costWhereApplicable": "Bloomberg Billionaires Index::16",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "Saudi Arabian",
+        "costWhereApplicable": "Saudi Arabian::16",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Shyam Sekhar",
+        "costWhereApplicable": "Shyam Sekhar::15",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Mu",
+        "costWhereApplicable": "Mu::15",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "BEML",
+        "costWhereApplicable": "BEML::15",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "com Inc",
+        "costWhereApplicable": "com Inc::15",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Ambareesh Baliga",
+        "costWhereApplicable": "Ambareesh Baliga::15",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "FOMC",
+        "costWhereApplicable": "FOMC::15",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Vanguard",
+        "costWhereApplicable": "Vanguard::14",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Berkshire Hathaway Inc",
+        "costWhereApplicable": "Berkshire Hathaway Inc::14",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Ka",
+        "costWhereApplicable": "Ka::14",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Masayoshi Son",
+        "costWhereApplicable": "Masayoshi Son::14",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Jack Ma",
+        "costWhereApplicable": "Jack Ma::13",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "Global Financial Crisis",
+        "costWhereApplicable": "Global Financial Crisis::13",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Baja",
+        "costWhereApplicable": "Baja::13",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Sanjiv Bhasin",
+        "costWhereApplicable": "Sanjiv Bhasin::13",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Fund",
+        "costWhereApplicable": "Fund::12",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
+        "source": "Zurich",
+        "costWhereApplicable": "Zurich::12",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "11",
+        "costWhereApplicable": "11::12",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "Alto",
+        "costWhereApplicable": "Alto::12",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Yoshihide Suga",
+        "costWhereApplicable": "Yoshihide Suga::12",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Wells Fargo & Co",
+        "costWhereApplicable": "Wells Fargo & Co::12",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "New",
+        "costWhereApplicable": "New::12",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "BEL",
+        "costWhereApplicable": "BEL::12",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Tata Communications",
+        "costWhereApplicable": "Tata Communications::12",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Shiv Nadar",
+        "costWhereApplicable": "Shiv Nadar::12",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Brien",
+        "costWhereApplicable": "Brien::11",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Jack Dorsey",
+        "costWhereApplicable": "Jack Dorsey::11",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "Bit",
+        "costWhereApplicable": "Bit::10",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Nithin Kamath",
+        "costWhereApplicable": "Nithin Kamath::10",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Sergey Brin",
+        "costWhereApplicable": "Sergey Brin::10",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Intel Corporation",
+        "costWhereApplicable": "Intel Corporation::10",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Basant Maheshwari",
+        "costWhereApplicable": "Basant Maheshwari::10",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Manish Hathiramani",
+        "costWhereApplicable": "Manish Hathiramani::10",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "ETNOW",
+        "costWhereApplicable": "ETNOW::10",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Services",
+        "costWhereApplicable": "Services::9",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Delta Air Lines Inc",
+        "costWhereApplicable": "Delta Air Lines Inc::9",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "SBI Card",
+        "costWhereApplicable": "SBI Card::9",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Exxon Mobil Corp",
+        "costWhereApplicable": "Exxon Mobil Corp::9",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Byju \u2019 s",
+        "costWhereApplicable": "Byju \u2019 s::9",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Bloomberg Businessweek",
+        "costWhereApplicable": "Bloomberg Businessweek::9",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Berkshire",
+        "costWhereApplicable": "Berkshire::9",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "FBI",
+        "costWhereApplicable": "FBI::9",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Deen Dayal Investments",
+        "costWhereApplicable": "Deen Dayal Investments::9",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Chevron Corp",
+        "costWhereApplicable": "Chevron Corp::8",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Elliott Management",
+        "costWhereApplicable": "Elliott Management::8",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "Plan",
+        "costWhereApplicable": "Plan::8",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Ex",
+        "costWhereApplicable": "Ex::8",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Tiger Global Management",
+        "costWhereApplicable": "Tiger Global Management::8",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Te",
+        "costWhereApplicable": "Te::8",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "M & A",
+        "costWhereApplicable": "M & A::8",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "GFC",
+        "costWhereApplicable": "GFC::8",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "PwC India",
+        "costWhereApplicable": "PwC India::8",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Lake",
+        "costWhereApplicable": "Lake::8",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Naveen Kulkarni",
+        "costWhereApplicable": "Naveen Kulkarni::7",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Oracle of Omaha",
+        "costWhereApplicable": "Oracle of Omaha::7",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "JPL",
+        "costWhereApplicable": "JPL::7",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "It",
+        "costWhereApplicable": "It::7",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Ratan Tata",
+        "costWhereApplicable": "Ratan Tata::7",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Apollo Hospitals",
+        "costWhereApplicable": "Apollo Hospitals::7",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "JPMorgan Chase & Co .",
+        "costWhereApplicable": "JPMorgan Chase & Co .::7",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Barrick Gold Corp",
+        "costWhereApplicable": "Barrick Gold Corp::7",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "Apple Watch",
+        "costWhereApplicable": "Apple Watch::7",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Columbia",
+        "costWhereApplicable": "Columbia::7",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "United Airlines Holdings Inc",
+        "costWhereApplicable": "United Airlines Holdings Inc::7",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "9",
+        "costWhereApplicable": "9::7",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Kanye West",
+        "costWhereApplicable": "Kanye West::6",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Paytm Money",
+        "costWhereApplicable": "Paytm Money::6",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Nifty PSU Bank",
+        "costWhereApplicable": "Nifty PSU Bank::6",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Kim Kardashian",
+        "costWhereApplicable": "Kim Kardashian::6",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Reliance Retail Ltd",
+        "costWhereApplicable": "Reliance Retail Ltd::6",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Raamdeo Agrawal",
+        "costWhereApplicable": "Raamdeo Agrawal::6",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Buffett",
+        "costWhereApplicable": "Buffett::6",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Bloomberg Bloomberg Bloomberg Bloomberg",
+        "costWhereApplicable": "Bloomberg Bloomberg Bloomberg Bloomberg::6",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Total SA",
+        "costWhereApplicable": "Total SA::6",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Larry Page",
+        "costWhereApplicable": "Larry Page::6",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
+        "source": "Montreal",
+        "costWhereApplicable": "Montreal::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Astrazeneca",
+        "costWhereApplicable": "Astrazeneca::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Equitas",
+        "costWhereApplicable": "Equitas::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Jeff",
+        "costWhereApplicable": "Jeff::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "SCI",
+        "costWhereApplicable": "SCI::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Mukesh Am",
+        "costWhereApplicable": "Mukesh Am::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Be",
+        "costWhereApplicable": "Be::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Warren Buffet",
+        "costWhereApplicable": "Warren Buffet::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Barrick Gold",
+        "costWhereApplicable": "Barrick Gold::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Warren",
+        "costWhereApplicable": "Warren::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Abu",
+        "costWhereApplicable": "Abu::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "HCL",
+        "costWhereApplicable": "HCL::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "PE",
+        "costWhereApplicable": "PE::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "Model 3",
+        "costWhereApplicable": "Model 3::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Itochu Corp",
+        "costWhereApplicable": "Itochu Corp::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Yale",
+        "costWhereApplicable": "Yale::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Sumitomo Corp",
+        "costWhereApplicable": "Sumitomo Corp::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
+        "source": "Oregon",
+        "costWhereApplicable": "Oregon::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "BigBazaar",
+        "costWhereApplicable": "BigBazaar::4",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Richard Branson",
+        "costWhereApplicable": "Richard Branson::4",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
+        "source": "Louis",
+        "costWhereApplicable": "Louis::4",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Precision Castparts",
+        "costWhereApplicable": "Precision Castparts::4",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Carl Icahn",
+        "costWhereApplicable": "Carl Icahn::4",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Harvard Business School",
+        "costWhereApplicable": "Harvard Business School::4",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
+        "source": "Nebraska",
+        "costWhereApplicable": "Nebraska::4",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "Algerian",
+        "costWhereApplicable": "Algerian::4",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Mitsubishi Corp",
+        "costWhereApplicable": "Mitsubishi Corp::4",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Andrew",
+        "costWhereApplicable": "Andrew::4",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "exchange",
+        "costWhereApplicable": "exchange::4",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Paytm Mall",
+        "costWhereApplicable": "Paytm Mall::4",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Cyble",
+        "costWhereApplicable": "Cyble::4",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "Depression",
+        "costWhereApplicable": "Depression::4",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Rallis",
+        "costWhereApplicable": "Rallis::4",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Aveek Mitra",
+        "costWhereApplicable": "Aveek Mitra::4",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "American Express",
+        "costWhereApplicable": "American Express::4",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "DST Global",
+        "costWhereApplicable": "DST Global::4",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Steve Ballmer",
+        "costWhereApplicable": "Steve Ballmer::3",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Delta",
+        "costWhereApplicable": "Delta::3",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Geico",
+        "costWhereApplicable": "Geico::3",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Francois",
+        "costWhereApplicable": "Francois::3",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Charlie Munger",
+        "costWhereApplicable": "Charlie Munger::3",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "Calendar 2020",
+        "costWhereApplicable": "Calendar 2020::3",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Warren B",
+        "costWhereApplicable": "Warren B::3",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "NYU",
+        "costWhereApplicable": "NYU::3",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Kingfisher",
+        "costWhereApplicable": "Kingfisher::3",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Praj Industries",
+        "costWhereApplicable": "Praj Industries::3",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "General Electric",
+        "costWhereApplicable": "General Electric::3",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Larry Ellison",
+        "costWhereApplicable": "Larry Ellison::3",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Bata",
+        "costWhereApplicable": "Bata::3",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Bull",
+        "costWhereApplicable": "Bull::3",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Occidental Petroleum Corp",
+        "costWhereApplicable": "Occidental Petroleum Corp::3",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "VMart",
+        "costWhereApplicable": "VMart::3",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Pony Ma",
+        "costWhereApplicable": "Pony Ma::3",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Steve",
+        "costWhereApplicable": "Steve::3",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Inox",
+        "costWhereApplicable": "Inox::3",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Dai",
+        "costWhereApplicable": "Dai::3",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "George",
+        "costWhereApplicable": "George::3",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Anupam Gupta",
+        "costWhereApplicable": "Anupam Gupta::3",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "\u201d Buffett",
+        "costWhereApplicable": "\u201d Buffett::3",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Dominion Energy",
+        "costWhereApplicable": "Dominion Energy::3",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Big Bull",
+        "costWhereApplicable": "Big Bull::3",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Derek",
+        "costWhereApplicable": "Derek::3",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Southern",
+        "costWhereApplicable": "Southern::3",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Burger King",
+        "costWhereApplicable": "Burger King::3",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Visa Inc",
+        "costWhereApplicable": "Visa Inc::3",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Congressional",
+        "costWhereApplicable": "Congressional::3",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Group Corp .",
+        "costWhereApplicable": "Group Corp .::3",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Southwest Airlines Co .",
+        "costWhereApplicable": "Southwest Airlines Co .::3",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Telsa Inc",
+        "costWhereApplicable": "Telsa Inc::3",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Mark Z",
+        "costWhereApplicable": "Mark Z::3",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Marubeni Corp",
+        "costWhereApplicable": "Marubeni Corp::2",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Mitsui & Co",
+        "costWhereApplicable": "Mitsui & Co::2",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "John Wick",
+        "costWhereApplicable": "John Wick::2",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Richard Clarida",
+        "costWhereApplicable": "Richard Clarida::2",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Rare Enterprises",
+        "costWhereApplicable": "Rare Enterprises::2",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Solutions",
+        "costWhereApplicable": "Solutions::2",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Timken",
+        "costWhereApplicable": "Timken::2",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Tokio Marine Holdings",
+        "costWhereApplicable": "Tokio Marine Holdings::2",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Marubeni",
+        "costWhereApplicable": "Marubeni::2",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Jim Paul",
+        "costWhereApplicable": "Jim Paul::2",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Mitsui & Co Ltd",
+        "costWhereApplicable": "Mitsui & Co Ltd::2",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Mark Matthews",
+        "costWhereApplicable": "Mark Matthews::2",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "PM Relief Fund",
+        "costWhereApplicable": "PM Relief Fund::2",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "Ghanaian",
+        "costWhereApplicable": "Ghanaian::2",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Bloomberg Opinion",
+        "costWhereApplicable": "Bloomberg Opinion::2",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "StoneC",
+        "costWhereApplicable": "StoneC::2",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Snowflake Inc",
+        "costWhereApplicable": "Snowflake Inc::2",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Lo",
+        "costWhereApplicable": "Lo::2",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
+        "source": "Omaha",
+        "costWhereApplicable": "Omaha::2",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "Bloomberg Index",
+        "costWhereApplicable": "Bloomberg Index::2",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "University of Minnesota",
+        "costWhereApplicable": "University of Minnesota::2",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Bitcoin",
+        "costWhereApplicable": "Bitcoin::2",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Oswal Group",
+        "costWhereApplicable": "Oswal Group::2",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "GT",
+        "costWhereApplicable": "GT::2",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "S Naren",
+        "costWhereApplicable": "S Naren::2",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Dairy Queen",
+        "costWhereApplicable": "Dairy Queen::2",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Ted Weschler",
+        "costWhereApplicable": "Ted Weschler::2",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "Forbes Real",
+        "costWhereApplicable": "Forbes Real::2",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Guy Spier",
+        "costWhereApplicable": "Guy Spier::2",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Bill Ackman",
+        "costWhereApplicable": "Bill Ackman::2",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Restaurant Brands International Inc",
+        "costWhereApplicable": "Restaurant Brands International Inc::2",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "Jan",
+        "costWhereApplicable": "Jan::2",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "MFS",
+        "costWhereApplicable": "MFS::2",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Coca",
+        "costWhereApplicable": "Coca::2",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "BNSF",
+        "costWhereApplicable": "BNSF::2",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "FactSet",
+        "costWhereApplicable": "FactSet::2",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "One97 Communications",
+        "costWhereApplicable": "One97 Communications::2",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Pension",
+        "costWhereApplicable": "Pension::2",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "LVMH Moet Hennessy Louis Vuitton SE",
+        "costWhereApplicable": "LVMH Moet Hennessy Louis Vuitton SE::2",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Bernard",
+        "costWhereApplicable": "Bernard::2",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Todd Combs",
+        "costWhereApplicable": "Todd Combs::2",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Cyrus Poonawalla",
+        "costWhereApplicable": "Cyrus Poonawalla::2",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Miller Tabak + Co",
+        "costWhereApplicable": "Miller Tabak + Co::2",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Ali",
+        "costWhereApplicable": "Ali::2",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Matt Maley",
+        "costWhereApplicable": "Matt Maley::2",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Edward",
+        "costWhereApplicable": "Edward::2",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "AT & T",
+        "costWhereApplicable": "AT & T::2",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Gardner Russo & Gardner",
+        "costWhereApplicable": "Gardner Russo & Gardner::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Gaurav Sud",
+        "costWhereApplicable": "Gaurav Sud::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Mutual",
+        "costWhereApplicable": "Mutual::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Nir Kaissar",
+        "costWhereApplicable": "Nir Kaissar::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Buff",
+        "costWhereApplicable": "Buff::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Michael Borohovski",
+        "costWhereApplicable": "Michael Borohovski::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Handel",
+        "costWhereApplicable": "Handel::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Rob Almeida",
+        "costWhereApplicable": "Rob Almeida::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "HCKINDIA",
+        "costWhereApplicable": "HCKINDIA::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Dmitri Alperovitch",
+        "costWhereApplicable": "Dmitri Alperovitch::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Wilhelm Schulz",
+        "costWhereApplicable": "Wilhelm Schulz::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "narendramodi",
+        "costWhereApplicable": "narendramodi::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Qualcom",
+        "costWhereApplicable": "Qualcom::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Jack Bogle",
+        "costWhereApplicable": "Jack Bogle::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Jack Do",
+        "costWhereApplicable": "Jack Do::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Airbn",
+        "costWhereApplicable": "Airbn::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "John W",
+        "costWhereApplicable": "John W::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "AGM Reliance Industries Ltd",
+        "costWhereApplicable": "AGM Reliance Industries Ltd::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Phoolan Devi",
+        "costWhereApplicable": "Phoolan Devi::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Gardner Russo & Gardner LLC",
+        "costWhereApplicable": "Gardner Russo & Gardner LLC::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Henry H . Armstrong Associates",
+        "costWhereApplicable": "Henry H . Armstrong Associates::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Tom Russo",
+        "costWhereApplicable": "Tom Russo::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Nooresh Merani",
+        "costWhereApplicable": "Nooresh Merani::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "\u201c Buffett",
+        "costWhereApplicable": "\u201c Buffett::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Carhart",
+        "costWhereApplicable": "Carhart::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "CrowdStrike",
+        "costWhereApplicable": "CrowdStrike::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Stanford Business and Law Schools",
+        "costWhereApplicable": "Stanford Business and Law Schools::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "James Armstrong",
+        "costWhereApplicable": "James Armstrong::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Thomas Russo",
+        "costWhereApplicable": "Thomas Russo::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "William Green",
+        "costWhereApplicable": "William Green::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Sanjeev Krishan",
+        "costWhereApplicable": "Sanjeev Krishan::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Vicki Hollub",
+        "costWhereApplicable": "Vicki Hollub::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
+        "source": "Southwest",
+        "costWhereApplicable": "Southwest::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Larry Elison",
+        "costWhereApplicable": "Larry Elison::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Jezz Bezos",
+        "costWhereApplicable": "Jezz Bezos::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "& Family",
+        "costWhereApplicable": "& Family::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Semper Vic",
+        "costWhereApplicable": "Semper Vic::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Mark Zukerberg",
+        "costWhereApplicable": "Mark Zukerberg::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Egon",
+        "costWhereApplicable": "Egon::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "University of Chicago Booth School of Business",
+        "costWhereApplicable": "University of Chicago Booth School of Business::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Snowflake",
+        "costWhereApplicable": "Snowflake::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Coinbase Inc .",
+        "costWhereApplicable": "Coinbase Inc .::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Aquamarine Investment Funds",
+        "costWhereApplicable": "Aquamarine Investment Funds::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Anadarko Petroleum",
+        "costWhereApplicable": "Anadarko Petroleum::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Abhishek Basumullick",
+        "costWhereApplicable": "Abhishek Basumullick::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "The Boring Company",
+        "costWhereApplicable": "The Boring Company::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Mohnish Pabrai",
+        "costWhereApplicable": "Mohnish Pabrai::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Synopsys",
+        "costWhereApplicable": "Synopsys::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Intelsense",
+        "costWhereApplicable": "Intelsense::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Luigi Zingales",
+        "costWhereApplicable": "Luigi Zingales::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Pershing Square Capital",
+        "costWhereApplicable": "Pershing Square Capital::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Giverny Capital",
+        "costWhereApplicable": "Giverny Capital::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Mitsui & Co .",
+        "costWhereApplicable": "Mitsui & Co .::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Reliance Platforms",
+        "costWhereApplicable": "Reliance Platforms::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Paulson & Co .",
+        "costWhereApplicable": "Paulson & Co .::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Newmont Corp",
+        "costWhereApplicable": "Newmont Corp::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Buffet",
+        "costWhereApplicable": "Buffet::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Abhishek Basumal",
+        "costWhereApplicable": "Abhishek Basumal::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Gilt Fund",
+        "costWhereApplicable": "Gilt Fund::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Central Statistical Organization",
+        "costWhereApplicable": "Central Statistical Organization::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Warren Buff",
+        "costWhereApplicable": "Warren Buff::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "- 50",
+        "costWhereApplicable": "- 50::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Fran\u00e7ois Rochon",
+        "costWhereApplicable": "Fran\u00e7ois Rochon::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Nikola Tesla",
+        "costWhereApplicable": "Nikola Tesla::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "Forbes Real Time Bill",
+        "costWhereApplicable": "Forbes Real Time Bill::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "Buffett Indicator",
+        "costWhereApplicable": "Buffett Indicator::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Technology",
+        "costWhereApplicable": "Technology::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "Dow Jones Industrials",
+        "costWhereApplicable": "Dow Jones Industrials::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "John Paulson",
+        "costWhereApplicable": "John Paulson::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "American Express Co",
+        "costWhereApplicable": "American Express Co::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "National Indemnity Co",
+        "costWhereApplicable": "National Indemnity Co::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "IMC International Metal",
+        "costWhereApplicable": "IMC International Metal::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "Buffalo Theory",
+        "costWhereApplicable": "Buffalo Theory::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Vandana Bharti",
+        "costWhereApplicable": "Vandana Bharti::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "IDFC Nifty Fund",
+        "costWhereApplicable": "IDFC Nifty Fund::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "IDFC Government Securities Fund",
+        "costWhereApplicable": "IDFC Government Securities Fund::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Ben Graham",
+        "costWhereApplicable": "Ben Graham::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Saudi Arabian Oil Company",
+        "costWhereApplicable": "Saudi Arabian Oil Company::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Oracle Of Omaha",
+        "costWhereApplicable": "Oracle Of Omaha::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Howard",
+        "costWhereApplicable": "Howard::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Leila Buffett",
+        "costWhereApplicable": "Leila Buffett::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "SMC Comtrade",
+        "costWhereApplicable": "SMC Comtrade::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Aquamarine Fund",
+        "costWhereApplicable": "Aquamarine Fund::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Tim Horton",
+        "costWhereApplicable": "Tim Horton::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Smead Capital Management",
+        "costWhereApplicable": "Smead Capital Management::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Hurun",
+        "costWhereApplicable": "Hurun::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Joel Greenblatt",
+        "costWhereApplicable": "Joel Greenblatt::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Bill Smead",
+        "costWhereApplicable": "Bill Smead::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "James O'Shaughnessy",
+        "costWhereApplicable": "James O'Shaughnessy::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Gowtham Capital",
+        "costWhereApplicable": "Gowtham Capital::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "Magic Formula",
+        "costWhereApplicable": "Magic Formula::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Cola",
+        "costWhereApplicable": "Cola::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "United Health Group",
+        "costWhereApplicable": "United Health Group::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Philip Morris International Inc",
+        "costWhereApplicable": "Philip Morris International Inc::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Faux Pas",
+        "costWhereApplicable": "Faux Pas::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "KEC China",
+        "costWhereApplicable": "KEC China::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Next Ratan Tata",
+        "costWhereApplicable": "Next Ratan Tata::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Cambridge Analy",
+        "costWhereApplicable": "Cambridge Analy::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "Hanging Man",
+        "costWhereApplicable": "Hanging Man::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "The Victory Project",
+        "costWhereApplicable": "The Victory Project::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "International Inc",
+        "costWhereApplicable": "International Inc::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "Six",
+        "costWhereApplicable": "Six::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "All Future Group",
+        "costWhereApplicable": "All Future Group::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "\u201d Jhunjhunwala",
+        "costWhereApplicable": "\u201d Jhunjhunwala::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "PNC Financial Services Group Inc",
+        "costWhereApplicable": "PNC Financial Services Group Inc::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Bank of New York Mellon Corp",
+        "costWhereApplicable": "Bank of New York Mellon Corp::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "M & T Bank Corp",
+        "costWhereApplicable": "M & T Bank Corp::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Mastercard Inc",
+        "costWhereApplicable": "Mastercard Inc::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Huang Zheng",
+        "costWhereApplicable": "Huang Zheng::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Anas Rahman",
+        "costWhereApplicable": "Anas Rahman::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Bill Nygren",
+        "costWhereApplicable": "Bill Nygren::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Oakmark Global Select Fund",
+        "costWhereApplicable": "Oakmark Global Select Fund::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "The Oakmark Select Fund",
+        "costWhereApplicable": "The Oakmark Select Fund::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "The Oakmark Fund",
+        "costWhereApplicable": "The Oakmark Fund::1",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Market",
+        "costWhereApplicable": "Market::1",
         "relationship": "nopic"
     }
 ]}
