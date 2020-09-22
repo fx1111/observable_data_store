@@ -1941,6 +1941,30 @@
         "photo": "nopic"
     }
 ],"links": [
+ 
+ 
+ 
+ {
+        "target": "Warren Buffet",
+        "source": "Locations",
+        "costWhereApplicable": "Linkrelay",
+        "relationship": "nopic"
+    },
+{
+        "target": "Warren Buffet",
+        "source": "Organizations",
+        "costWhereApplicable": "Linkrelay",
+        "relationship": "nopic"
+    },
+
+{
+        "target": "Warren Buffet",
+        "source": "Miscellaneous",
+        "costWhereApplicable": "Linkrelay",
+        "relationship": "nopic"
+    },
+
+    
     {
         "target": "Locations",
         "source": "India",
