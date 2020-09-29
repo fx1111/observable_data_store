@@ -1,0 +1,505 @@
+{"nodes":   {
+        "group": "person",
+        "id": "Warren Buffet",
+        "tooltip": "Master Node",
+        "photo": "nopic"
+    },  {
+        "group": "location",
+        "id": "Locations",
+        "tooltip": "Locations::Link relay",
+        "photo": "nopic"
+    },
+      {
+        "group": "org",
+        "id": "Organizations",
+        "tooltip": "Organizations::Link relay",
+        "photo": "nopic"
+    },
+      {
+        "group": "misc",
+        "id": "Miscellaneous",
+        "tooltip": "Miscellaneous::Link relay",
+        "photo": "nopic"
+    },[
+    {
+        "group": "location",
+        "id": "India",
+        "tooltip": "India::6867",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "United States",
+        "tooltip": "United States::4915",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "Indian",
+        "tooltip": "Indian::3039",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Reuters",
+        "tooltip": "Reuters::2881",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "China",
+        "tooltip": "China::2661",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "Coronavirus",
+        "tooltip": "Coronavirus::2224",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "Mumbai",
+        "tooltip": "Mumbai::1691",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "Chinese",
+        "tooltip": "Chinese::1302",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "Japan",
+        "tooltip": "Japan::946",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "Asian",
+        "tooltip": "Asian::860",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "Covid",
+        "tooltip": "Covid::830",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "NSE",
+        "tooltip": "NSE::796",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "Hong Kong",
+        "tooltip": "Hong Kong::786",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "Asia",
+        "tooltip": "Asia::761",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Sensex",
+        "tooltip": "Sensex::738",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Brent",
+        "tooltip": "Brent::736",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "Europe",
+        "tooltip": "Europe::711",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "BSE",
+        "tooltip": "BSE::703",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Reliance Industries",
+        "tooltip": "Reliance Industries::647",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "European",
+        "tooltip": "European::522",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "Wall Street",
+        "tooltip": "Wall Street::513",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "Corona",
+        "tooltip": "Corona::511",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Donald Trump",
+        "tooltip": "Donald Trump::479",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Nifty",
+        "tooltip": "Nifty::467",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "HDFC Bank",
+        "tooltip": "HDFC Bank::461",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "GM",
+        "tooltip": "GM::458",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "RIL",
+        "tooltip": "RIL::452",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "Washington",
+        "tooltip": "Washington::434",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Axis Bank",
+        "tooltip": "Axis Bank::406",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "S & P",
+        "tooltip": "S & P::393",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "American",
+        "tooltip": "American::374",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Narendra Modi",
+        "tooltip": "Narendra Modi::369",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Mukesh Ambani",
+        "tooltip": "Mukesh Ambani::238",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Trump",
+        "tooltip": "Trump::198",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Motilal Oswal",
+        "tooltip": "Motilal Oswal::189",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Jerome Powell",
+        "tooltip": "Jerome Powell::149",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Elon Musk",
+        "tooltip": "Elon Musk::62",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Se",
+        "tooltip": "Se::62",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Ajit Mishra",
+        "tooltip": "Ajit Mishra::61",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Warren Buffett",
+        "tooltip": "Warren Buffett::53",
+        "photo": "nopic"
+    }
+],"links": [
+    {
+        "target": "Locations",
+        "source": "India",
+        "costWhereApplicable": "India::6867",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
+        "source": "United States",
+        "costWhereApplicable": "United States::4915",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "Indian",
+        "costWhereApplicable": "Indian::3039",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Reuters",
+        "costWhereApplicable": "Reuters::2881",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
+        "source": "China",
+        "costWhereApplicable": "China::2661",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "Coronavirus",
+        "costWhereApplicable": "Coronavirus::2224",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
+        "source": "Mumbai",
+        "costWhereApplicable": "Mumbai::1691",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "Chinese",
+        "costWhereApplicable": "Chinese::1302",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
+        "source": "Japan",
+        "costWhereApplicable": "Japan::946",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "Asian",
+        "costWhereApplicable": "Asian::860",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "Covid",
+        "costWhereApplicable": "Covid::830",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "NSE",
+        "costWhereApplicable": "NSE::796",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
+        "source": "Hong Kong",
+        "costWhereApplicable": "Hong Kong::786",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
+        "source": "Asia",
+        "costWhereApplicable": "Asia::761",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Sensex",
+        "costWhereApplicable": "Sensex::738",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Brent",
+        "costWhereApplicable": "Brent::736",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
+        "source": "Europe",
+        "costWhereApplicable": "Europe::711",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "BSE",
+        "costWhereApplicable": "BSE::703",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Reliance Industries",
+        "costWhereApplicable": "Reliance Industries::647",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "European",
+        "costWhereApplicable": "European::522",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
+        "source": "Wall Street",
+        "costWhereApplicable": "Wall Street::513",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "Corona",
+        "costWhereApplicable": "Corona::511",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Donald Trump",
+        "costWhereApplicable": "Donald Trump::479",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Nifty",
+        "costWhereApplicable": "Nifty::467",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "HDFC Bank",
+        "costWhereApplicable": "HDFC Bank::461",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "GM",
+        "costWhereApplicable": "GM::458",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "RIL",
+        "costWhereApplicable": "RIL::452",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
+        "source": "Washington",
+        "costWhereApplicable": "Washington::434",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Axis Bank",
+        "costWhereApplicable": "Axis Bank::406",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "S & P",
+        "costWhereApplicable": "S & P::393",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "American",
+        "costWhereApplicable": "American::374",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Narendra Modi",
+        "costWhereApplicable": "Narendra Modi::369",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Mukesh Ambani",
+        "costWhereApplicable": "Mukesh Ambani::238",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Trump",
+        "costWhereApplicable": "Trump::198",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Motilal Oswal",
+        "costWhereApplicable": "Motilal Oswal::189",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Jerome Powell",
+        "costWhereApplicable": "Jerome Powell::149",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Elon Musk",
+        "costWhereApplicable": "Elon Musk::62",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Se",
+        "costWhereApplicable": "Se::62",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Ajit Mishra",
+        "costWhereApplicable": "Ajit Mishra::61",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Warren Buffett",
+        "costWhereApplicable": "Warren Buffett::53",
+        "relationship": "nopic"
+    }
+]}
