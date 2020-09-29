@@ -1,0 +1,387 @@
+{"nodes": [
+    {
+        "group": "location",
+        "id": "India",
+        "tooltip": "India::6867",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "Indian",
+        "tooltip": "Indian::3039",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "China",
+        "tooltip": "China::2661",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "Chinese",
+        "tooltip": "Chinese::1302",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Narendra Modi",
+        "tooltip": "Narendra Modi::1107",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "PTI",
+        "tooltip": "PTI::293",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "George Floyd",
+        "tooltip": "George Floyd::261",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "Ladakh",
+        "tooltip": "Ladakh::219",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Singh",
+        "tooltip": "Singh::180",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "Sino",
+        "tooltip": "Sino::129",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "Galwan Valley",
+        "tooltip": "Galwan Valley::128",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "AL",
+        "tooltip": "AL::107",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Amit Shah",
+        "tooltip": "Amit Shah::96",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Rajnath Singh",
+        "tooltip": "Rajnath Singh::90",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Ajit Doval",
+        "tooltip": "Ajit Doval::48",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Bipin Rawat",
+        "tooltip": "Bipin Rawat::48",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Indian Army",
+        "tooltip": "Indian Army::48",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Army",
+        "tooltip": "Army::46",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "PLA",
+        "tooltip": "PLA::44",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "Pangong Tso",
+        "tooltip": "Pangong Tso::38",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "IANS",
+        "tooltip": "IANS::37",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "Control",
+        "tooltip": "Control::36",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "Uttarakhand",
+        "tooltip": "Uttarakhand::33",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "People's Liberation Army",
+        "tooltip": "People's Liberation Army::26",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Indian Air Force",
+        "tooltip": "Indian Air Force::18",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "Sikkim",
+        "tooltip": "Sikkim::16",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "Demchok",
+        "tooltip": "Demchok::12",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "Daulat Beg Oldie",
+        "tooltip": "Daulat Beg Oldie::11",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "Daulat Beg Oldi",
+        "tooltip": "Daulat Beg Oldi::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "Line of Control",
+        "tooltip": "Line of Control::3",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Howdy Modi",
+        "tooltip": "Howdy Modi::3",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "North Si",
+        "tooltip": "North Si::1",
+        "photo": "nopic"
+    }
+],"links": [
+    {
+        "target": "Rajnath Singh",
+        "source": "India",
+        "costWhereApplicable": "India::6867",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Rajnath Singh",
+        "source": "Indian",
+        "costWhereApplicable": "Indian::3039",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Rajnath Singh",
+        "source": "China",
+        "costWhereApplicable": "China::2661",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Rajnath Singh",
+        "source": "Chinese",
+        "costWhereApplicable": "Chinese::1302",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Rajnath Singh",
+        "source": "Narendra Modi",
+        "costWhereApplicable": "Narendra Modi::1107",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Rajnath Singh",
+        "source": "PTI",
+        "costWhereApplicable": "PTI::293",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Rajnath Singh",
+        "source": "George Floyd",
+        "costWhereApplicable": "George Floyd::261",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Rajnath Singh",
+        "source": "Ladakh",
+        "costWhereApplicable": "Ladakh::219",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Rajnath Singh",
+        "source": "Singh",
+        "costWhereApplicable": "Singh::180",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Rajnath Singh",
+        "source": "Sino",
+        "costWhereApplicable": "Sino::129",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Rajnath Singh",
+        "source": "Galwan Valley",
+        "costWhereApplicable": "Galwan Valley::128",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Rajnath Singh",
+        "source": "AL",
+        "costWhereApplicable": "AL::107",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Rajnath Singh",
+        "source": "Amit Shah",
+        "costWhereApplicable": "Amit Shah::96",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Rajnath Singh",
+        "source": "Rajnath Singh",
+        "costWhereApplicable": "Rajnath Singh::90",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Rajnath Singh",
+        "source": "Ajit Doval",
+        "costWhereApplicable": "Ajit Doval::48",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Rajnath Singh",
+        "source": "Bipin Rawat",
+        "costWhereApplicable": "Bipin Rawat::48",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Rajnath Singh",
+        "source": "Indian Army",
+        "costWhereApplicable": "Indian Army::48",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Rajnath Singh",
+        "source": "Army",
+        "costWhereApplicable": "Army::46",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Rajnath Singh",
+        "source": "PLA",
+        "costWhereApplicable": "PLA::44",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Rajnath Singh",
+        "source": "Pangong Tso",
+        "costWhereApplicable": "Pangong Tso::38",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Rajnath Singh",
+        "source": "IANS",
+        "costWhereApplicable": "IANS::37",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Rajnath Singh",
+        "source": "Control",
+        "costWhereApplicable": "Control::36",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Rajnath Singh",
+        "source": "Uttarakhand",
+        "costWhereApplicable": "Uttarakhand::33",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Rajnath Singh",
+        "source": "People's Liberation Army",
+        "costWhereApplicable": "People's Liberation Army::26",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Rajnath Singh",
+        "source": "Indian Air Force",
+        "costWhereApplicable": "Indian Air Force::18",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Rajnath Singh",
+        "source": "Sikkim",
+        "costWhereApplicable": "Sikkim::16",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Rajnath Singh",
+        "source": "Demchok",
+        "costWhereApplicable": "Demchok::12",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Rajnath Singh",
+        "source": "Daulat Beg Oldie",
+        "costWhereApplicable": "Daulat Beg Oldie::11",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Rajnath Singh",
+        "source": "Daulat Beg Oldi",
+        "costWhereApplicable": "Daulat Beg Oldi::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Rajnath Singh",
+        "source": "Line of Control",
+        "costWhereApplicable": "Line of Control::3",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Rajnath Singh",
+        "source": "Howdy Modi",
+        "costWhereApplicable": "Howdy Modi::3",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Rajnath Singh",
+        "source": "North Si",
+        "costWhereApplicable": "North Si::1",
+        "relationship": "nopic"
+    }
+]}
