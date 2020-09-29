@@ -1,4 +1,4 @@
-{"nodes":   {
+{"nodes": [  {
         "group": "person",
         "id": "Warren Buffet",
         "tooltip": "Master Node",
@@ -21,7 +21,7 @@
         "id": "Miscellaneous",
         "tooltip": "Miscellaneous::Link relay",
         "photo": "nopic"
-    },[
+    },
     {
         "group": "location",
         "id": "India",
