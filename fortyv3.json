@@ -3,7 +3,8 @@
         "id": "Warren Buffet",
         "tooltip": "Master Node",
         "photo": "nopic"
-    },  {
+    },  
+ {
         "group": "location",
         "id": "Locations",
         "tooltip": "Locations::Link relay",
@@ -262,6 +263,26 @@
         "photo": "nopic"
     }
 ],"links": [
+        {
+        "target": "Warren Buffet",
+        "source": "Locations",
+        "costWhereApplicable": "Linkrelay",
+        "relationship": "nopic"
+    },
+{
+        "target": "Warren Buffet",
+        "source": "Organizations",
+        "costWhereApplicable": "Linkrelay",
+        "relationship": "nopic"
+    },
+
+{
+        "target": "Warren Buffet",
+        "source": "Miscellaneous",
+        "costWhereApplicable": "Linkrelay",
+        "relationship": "nopic"
+    },
+        
     {
         "target": "Locations",
         "source": "India",
