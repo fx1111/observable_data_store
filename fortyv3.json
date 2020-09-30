@@ -9,14 +9,14 @@
         "id": "Locations",
         "tooltip": "Locations::Link relay",
         "photo": "nopic",
-         "mentions":"10"
+         "mentions":10
     },
       {
         "group": "org",
         "id": "Organizations",
         "tooltip": "Organizations::Link relay",
         "photo": "nopic",
-              "mentions":"50"
+              "mentions":50
     },
       {
         "group": "misc",
@@ -29,7 +29,7 @@
         "id": "India",
         "tooltip": "India::6867",
         "photo": "nopic",
-            "mentions":"100"
+            "mentions":100
     },
     {
         "group": "location",
