@@ -8,14 +8,14 @@
         "group": "location",
         "id": "Locations",
         "tooltip": "Locations::Link relay",
-        "photo": "nopic"
+        "photo": "nopic",
          "mentions":"10"
     },
       {
         "group": "org",
         "id": "Organizations",
         "tooltip": "Organizations::Link relay",
-        "photo": "nopic"
+        "photo": "nopic",
               "mentions":"50"
     },
       {
@@ -28,7 +28,7 @@
         "group": "location",
         "id": "India",
         "tooltip": "India::6867",
-        "photo": "nopic"
+        "photo": "nopic",
             "mentions":"100"
     },
     {
