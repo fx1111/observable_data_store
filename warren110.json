@@ -1,24 +1,24 @@
 {"nodes":  [ {
         "group": "person",
         "id": "Warren Buffet",
-        "tooltip": "Master Node",
+        "tooltip": "Main Entity::25",
         "photo": "nopic"
     },  {
         "group": "location",
         "id": "Locations",
-        "tooltip": "Locations::Link relay",
+        "tooltip": "Locations::10",
         "photo": "nopic"
     },
       {
         "group": "org",
         "id": "Organizations",
-        "tooltip": "Organizations::Link relay",
+        "tooltip": "Organizations::10",
         "photo": "nopic"
     },
       {
         "group": "misc",
         "id": "Miscellaneous",
-        "tooltip": "Miscellaneous::Link relay",
+        "tooltip": "Miscellaneous::10",
         "photo": "nopic"
     },
     {
