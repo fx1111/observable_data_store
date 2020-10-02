@@ -1,0 +1,2401 @@
+{"nodes":   {
+        "group": "person",
+        "id": "Warren Buffet",
+        "tooltip": "Master Node",
+        "photo": "nopic"
+    },  {
+        "group": "location",
+        "id": "Locations",
+        "tooltip": "Locations::Link relay",
+        "photo": "nopic"
+    },
+      {
+        "group": "org",
+        "id": "Organizations",
+        "tooltip": "Organizations::Link relay",
+        "photo": "nopic"
+    },
+      {
+        "group": "misc",
+        "id": "Miscellaneous",
+        "tooltip": "Miscellaneous::Link relay",
+        "photo": "nopic"
+    },[
+    {
+        "group": "location",
+        "id": "India",
+        "tooltip": "India::25",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "United States",
+        "tooltip": "United States::25",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "Indian",
+        "tooltip": "Indian::25",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Reuters",
+        "tooltip": "Reuters::25",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "China",
+        "tooltip": "China::25",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "Coronavirus",
+        "tooltip": "Coronavirus::25",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "Mumbai",
+        "tooltip": "Mumbai::25",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "Chinese",
+        "tooltip": "Chinese::25",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "Japan",
+        "tooltip": "Japan::18",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "Asian",
+        "tooltip": "Asian::17",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "Covid",
+        "tooltip": "Covid::16",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "NSE",
+        "tooltip": "NSE::15",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "Hong Kong",
+        "tooltip": "Hong Kong::15",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "Asia",
+        "tooltip": "Asia::15",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Sensex",
+        "tooltip": "Sensex::14",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Brent",
+        "tooltip": "Brent::14",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "Europe",
+        "tooltip": "Europe::14",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "BSE",
+        "tooltip": "BSE::14",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Reliance Industries",
+        "tooltip": "Reliance Industries::12",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "European",
+        "tooltip": "European::10",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "Wall Street",
+        "tooltip": "Wall Street::10",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "Corona",
+        "tooltip": "Corona::10",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Donald Trump",
+        "tooltip": "Donald Trump::9",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Nifty",
+        "tooltip": "Nifty::9",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "HDFC Bank",
+        "tooltip": "HDFC Bank::9",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "GM",
+        "tooltip": "GM::9",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "RIL",
+        "tooltip": "RIL::9",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "Washington",
+        "tooltip": "Washington::8",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "Germany",
+        "tooltip": "Germany::8",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Axis Bank",
+        "tooltip": "Axis Bank::8",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "UK",
+        "tooltip": "UK::7",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "S & P",
+        "tooltip": "S & P::7",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "American",
+        "tooltip": "American::7",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Narendra Modi",
+        "tooltip": "Narendra Modi::7",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "Australia",
+        "tooltip": "Australia::7",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "S & P BSE Sensex",
+        "tooltip": "S & P BSE Sensex::7",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Google",
+        "tooltip": "Google::6",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "Singapore",
+        "tooltip": "Singapore::6",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Federal Reserve",
+        "tooltip": "Federal Reserve::6",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "France",
+        "tooltip": "France::6",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Sebi",
+        "tooltip": "Sebi::6",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "Co",
+        "tooltip": "Co::6",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "Tokyo",
+        "tooltip": "Tokyo::6",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "Ni",
+        "tooltip": "Ni::6",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "500",
+        "tooltip": "500::6",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "Japanese",
+        "tooltip": "Japanese::6",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Securities and Exchange Board of India",
+        "tooltip": "Securities and Exchange Board of India::6",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Facebook",
+        "tooltip": "Facebook::6",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "MSCI",
+        "tooltip": "MSCI::6",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "South Korea",
+        "tooltip": "South Korea::6",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "Kolkata",
+        "tooltip": "Kolkata::6",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "Indians",
+        "tooltip": "Indians::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "BSE Sensex",
+        "tooltip": "BSE Sensex::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Amazon",
+        "tooltip": "Amazon::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "HDFC Securities",
+        "tooltip": "HDFC Securities::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Mukesh Ambani",
+        "tooltip": "Mukesh Ambani::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "Americans",
+        "tooltip": "Americans::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Bloomberg",
+        "tooltip": "Bloomberg::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "Italy",
+        "tooltip": "Italy::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "German",
+        "tooltip": "German::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "Shanghai",
+        "tooltip": "Shanghai::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Silver Lake",
+        "tooltip": "Silver Lake::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "London",
+        "tooltip": "London::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "TCS",
+        "tooltip": "TCS::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "Nikkei",
+        "tooltip": "Nikkei::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "Canada",
+        "tooltip": "Canada::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "ICICI Securities",
+        "tooltip": "ICICI Securities::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "Nasdaq",
+        "tooltip": "Nasdaq::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "United States Federal Reserve",
+        "tooltip": "United States Federal Reserve::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Trump",
+        "tooltip": "Trump::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "Bengaluru",
+        "tooltip": "Bengaluru::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Singapore Exchange",
+        "tooltip": "Singapore Exchange::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "United",
+        "tooltip": "United::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Motilal Oswal",
+        "tooltip": "Motilal Oswal::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "California",
+        "tooltip": "California::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "Dow Jones Industrial Average",
+        "tooltip": "Dow Jones Industrial Average::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Sun Pharma",
+        "tooltip": "Sun Pharma::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "G",
+        "tooltip": "G::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "French",
+        "tooltip": "French::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Jio Platforms",
+        "tooltip": "Jio Platforms::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "New York",
+        "tooltip": "New York::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "S & P 500",
+        "tooltip": "S & P 500::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Apple",
+        "tooltip": "Apple::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "ONGC",
+        "tooltip": "ONGC::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Dalal Street",
+        "tooltip": "Dalal Street::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Facebook Inc",
+        "tooltip": "Facebook Inc::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "America",
+        "tooltip": "America::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Titan",
+        "tooltip": "Titan::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "Dow",
+        "tooltip": "Dow::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "European Central Bank",
+        "tooltip": "European Central Bank::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Jerome Powell",
+        "tooltip": "Jerome Powell::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Ltd",
+        "tooltip": "Ltd::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Reliance Industries Ltd",
+        "tooltip": "Reliance Industries Ltd::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Goldman Sachs",
+        "tooltip": "Goldman Sachs::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Morgan Stanley",
+        "tooltip": "Morgan Stanley::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "Saudi",
+        "tooltip": "Saudi::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Microsoft",
+        "tooltip": "Microsoft::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Amazon . com Inc",
+        "tooltip": "Amazon . com Inc::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Treasury",
+        "tooltip": "Treasury::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "Hang Seng",
+        "tooltip": "Hang Seng::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "Iraq",
+        "tooltip": "Iraq::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "New Zealand",
+        "tooltip": "New Zealand::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Tata Consultancy Services",
+        "tooltip": "Tata Consultancy Services::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Apple Inc",
+        "tooltip": "Apple Inc::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "States",
+        "tooltip": "States::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Alphabet Inc",
+        "tooltip": "Alphabet Inc::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "Switzerland",
+        "tooltip": "Switzerland::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "Nasdaq Composite",
+        "tooltip": "Nasdaq Composite::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "& P",
+        "tooltip": "& P::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "MS",
+        "tooltip": "MS::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "White House",
+        "tooltip": "White House::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "JPL",
+        "tooltip": "JPL::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "MOFSL",
+        "tooltip": "MOFSL::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Future Group",
+        "tooltip": "Future Group::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Elon Musk",
+        "tooltip": "Elon Musk::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "Group",
+        "tooltip": "Group::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "org",
+        "id": "General Atlantic",
+        "tooltip": "General Atlantic::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "England",
+        "tooltip": "England::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "Canadian",
+        "tooltip": "Canadian::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "Dow Jones",
+        "tooltip": "Dow Jones::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Se",
+        "tooltip": "Se::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Ajit Mishra",
+        "tooltip": "Ajit Mishra::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "iPhone",
+        "tooltip": "iPhone::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "Android",
+        "tooltip": "Android::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "English",
+        "tooltip": "English::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "Silicon Valley",
+        "tooltip": "Silicon Valley::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Warren Buffett",
+        "tooltip": "Warren Buffett::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Jeff Bezos",
+        "tooltip": "Jeff Bezos::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "Great Depression",
+        "tooltip": "Great Depression::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Mark Zuckerberg",
+        "tooltip": "Mark Zuckerberg::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "Brazilian",
+        "tooltip": "Brazilian::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "United States West Texas",
+        "tooltip": "United States West Texas::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "BS",
+        "tooltip": "BS::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Joe Biden",
+        "tooltip": "Joe Biden::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "Arabia",
+        "tooltip": "Arabia::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "RS",
+        "tooltip": "RS::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "IN",
+        "tooltip": "IN::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "E",
+        "tooltip": "E::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Shinzo Abe",
+        "tooltip": "Shinzo Abe::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Deepak Jasani",
+        "tooltip": "Deepak Jasani::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "In",
+        "tooltip": "In::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Sundar Pichai",
+        "tooltip": "Sundar Pichai::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Barack Obama",
+        "tooltip": "Barack Obama::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "Israeli",
+        "tooltip": "Israeli::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "Israel",
+        "tooltip": "Israel::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "Eastern Ladakh",
+        "tooltip": "Eastern Ladakh::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "U",
+        "tooltip": "U::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Mukesh Amban",
+        "tooltip": "Mukesh Amban::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Ambani",
+        "tooltip": "Ambani::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Rakesh Jhunjhunwala",
+        "tooltip": "Rakesh Jhunjhunwala::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Bill Gates",
+        "tooltip": "Bill Gates::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "Mexican",
+        "tooltip": "Mexican::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "Toronto",
+        "tooltip": "Toronto::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Gautam Adani",
+        "tooltip": "Gautam Adani::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "San Francisco",
+        "tooltip": "San Francisco::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "Bloomberg Bill",
+        "tooltip": "Bloomberg Bill::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "Bali",
+        "tooltip": "Bali::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Bernard Arnault",
+        "tooltip": "Bernard Arnault::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Tim Cook",
+        "tooltip": "Tim Cook::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "World",
+        "tooltip": "World::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "Bloomberg Billionaires Index",
+        "tooltip": "Bloomberg Billionaires Index::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "Saudi Arabian",
+        "tooltip": "Saudi Arabian::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Nithin Kamath",
+        "tooltip": "Nithin Kamath::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Shyam Sekhar",
+        "tooltip": "Shyam Sekhar::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Ambareesh Baliga",
+        "tooltip": "Ambareesh Baliga::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Masayoshi Son",
+        "tooltip": "Masayoshi Son::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Brien",
+        "tooltip": "Brien::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Jack Ma",
+        "tooltip": "Jack Ma::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Sanjiv Bhasin",
+        "tooltip": "Sanjiv Bhasin::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "Global Financial Crisis",
+        "tooltip": "Global Financial Crisis::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Yoshihide Suga",
+        "tooltip": "Yoshihide Suga::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "11",
+        "tooltip": "11::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "Zurich",
+        "tooltip": "Zurich::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Ka",
+        "tooltip": "Ka::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Shiv Nadar",
+        "tooltip": "Shiv Nadar::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "misc",
+        "id": "Alto",
+        "tooltip": "Alto::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Sergey Brin",
+        "tooltip": "Sergey Brin::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Basant Maheshwari",
+        "tooltip": "Basant Maheshwari::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Manish Hathiramani",
+        "tooltip": "Manish Hathiramani::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Jack Dorsey",
+        "tooltip": "Jack Dorsey::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Raamdeo Agrawal",
+        "tooltip": "Raamdeo Agrawal::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Naveen Kulkarni",
+        "tooltip": "Naveen Kulkarni::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Kim Kardashian",
+        "tooltip": "Kim Kardashian::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Kanye West",
+        "tooltip": "Kanye West::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Larry Page",
+        "tooltip": "Larry Page::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Buffett",
+        "tooltip": "Buffett::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "Nebraska",
+        "tooltip": "Nebraska::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Warren",
+        "tooltip": "Warren::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Mukesh Am",
+        "tooltip": "Mukesh Am::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Jeff",
+        "tooltip": "Jeff::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Warren Buffet",
+        "tooltip": "Warren Buffet::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "Oregon",
+        "tooltip": "Oregon::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "Montreal",
+        "tooltip": "Montreal::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "Louis",
+        "tooltip": "Louis::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Aveek Mitra",
+        "tooltip": "Aveek Mitra::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "person",
+        "id": "Andrew",
+        "tooltip": "Andrew::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "Omaha",
+        "tooltip": "Omaha::5",
+        "photo": "nopic"
+    },
+    {
+        "group": "location",
+        "id": "Southwest",
+        "tooltip": "Southwest::5",
+        "photo": "nopic"
+    }
+],"links": [
+    {
+        "target": "Locations",
+        "source": "India",
+        "costWhereApplicable": "India::25",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
+        "source": "United States",
+        "costWhereApplicable": "United States::25",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "Indian",
+        "costWhereApplicable": "Indian::25",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Reuters",
+        "costWhereApplicable": "Reuters::25",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
+        "source": "China",
+        "costWhereApplicable": "China::25",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "Coronavirus",
+        "costWhereApplicable": "Coronavirus::25",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
+        "source": "Mumbai",
+        "costWhereApplicable": "Mumbai::25",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "Chinese",
+        "costWhereApplicable": "Chinese::25",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
+        "source": "Japan",
+        "costWhereApplicable": "Japan::18",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "Asian",
+        "costWhereApplicable": "Asian::17",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "Covid",
+        "costWhereApplicable": "Covid::16",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "NSE",
+        "costWhereApplicable": "NSE::15",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
+        "source": "Hong Kong",
+        "costWhereApplicable": "Hong Kong::15",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
+        "source": "Asia",
+        "costWhereApplicable": "Asia::15",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Sensex",
+        "costWhereApplicable": "Sensex::14",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Brent",
+        "costWhereApplicable": "Brent::14",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
+        "source": "Europe",
+        "costWhereApplicable": "Europe::14",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "BSE",
+        "costWhereApplicable": "BSE::14",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Reliance Industries",
+        "costWhereApplicable": "Reliance Industries::12",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "European",
+        "costWhereApplicable": "European::10",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
+        "source": "Wall Street",
+        "costWhereApplicable": "Wall Street::10",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "Corona",
+        "costWhereApplicable": "Corona::10",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Donald Trump",
+        "costWhereApplicable": "Donald Trump::9",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Nifty",
+        "costWhereApplicable": "Nifty::9",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "HDFC Bank",
+        "costWhereApplicable": "HDFC Bank::9",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "GM",
+        "costWhereApplicable": "GM::9",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "RIL",
+        "costWhereApplicable": "RIL::9",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
+        "source": "Washington",
+        "costWhereApplicable": "Washington::8",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
+        "source": "Germany",
+        "costWhereApplicable": "Germany::8",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Axis Bank",
+        "costWhereApplicable": "Axis Bank::8",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
+        "source": "UK",
+        "costWhereApplicable": "UK::7",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "S & P",
+        "costWhereApplicable": "S & P::7",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "American",
+        "costWhereApplicable": "American::7",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Narendra Modi",
+        "costWhereApplicable": "Narendra Modi::7",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
+        "source": "Australia",
+        "costWhereApplicable": "Australia::7",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "S & P BSE Sensex",
+        "costWhereApplicable": "S & P BSE Sensex::7",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Google",
+        "costWhereApplicable": "Google::6",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
+        "source": "Singapore",
+        "costWhereApplicable": "Singapore::6",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Federal Reserve",
+        "costWhereApplicable": "Federal Reserve::6",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
+        "source": "France",
+        "costWhereApplicable": "France::6",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Sebi",
+        "costWhereApplicable": "Sebi::6",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "Co",
+        "costWhereApplicable": "Co::6",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
+        "source": "Tokyo",
+        "costWhereApplicable": "Tokyo::6",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "Ni",
+        "costWhereApplicable": "Ni::6",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "500",
+        "costWhereApplicable": "500::6",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "Japanese",
+        "costWhereApplicable": "Japanese::6",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Securities and Exchange Board of India",
+        "costWhereApplicable": "Securities and Exchange Board of India::6",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Facebook",
+        "costWhereApplicable": "Facebook::6",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "MSCI",
+        "costWhereApplicable": "MSCI::6",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
+        "source": "South Korea",
+        "costWhereApplicable": "South Korea::6",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
+        "source": "Kolkata",
+        "costWhereApplicable": "Kolkata::6",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "Indians",
+        "costWhereApplicable": "Indians::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "BSE Sensex",
+        "costWhereApplicable": "BSE Sensex::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Amazon",
+        "costWhereApplicable": "Amazon::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "HDFC Securities",
+        "costWhereApplicable": "HDFC Securities::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Mukesh Ambani",
+        "costWhereApplicable": "Mukesh Ambani::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "Americans",
+        "costWhereApplicable": "Americans::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Bloomberg",
+        "costWhereApplicable": "Bloomberg::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
+        "source": "Italy",
+        "costWhereApplicable": "Italy::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "German",
+        "costWhereApplicable": "German::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
+        "source": "Shanghai",
+        "costWhereApplicable": "Shanghai::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Silver Lake",
+        "costWhereApplicable": "Silver Lake::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
+        "source": "London",
+        "costWhereApplicable": "London::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "TCS",
+        "costWhereApplicable": "TCS::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "Nikkei",
+        "costWhereApplicable": "Nikkei::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
+        "source": "Canada",
+        "costWhereApplicable": "Canada::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "ICICI Securities",
+        "costWhereApplicable": "ICICI Securities::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "Nasdaq",
+        "costWhereApplicable": "Nasdaq::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "United States Federal Reserve",
+        "costWhereApplicable": "United States Federal Reserve::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Trump",
+        "costWhereApplicable": "Trump::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
+        "source": "Bengaluru",
+        "costWhereApplicable": "Bengaluru::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Singapore Exchange",
+        "costWhereApplicable": "Singapore Exchange::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
+        "source": "United",
+        "costWhereApplicable": "United::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Motilal Oswal",
+        "costWhereApplicable": "Motilal Oswal::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
+        "source": "California",
+        "costWhereApplicable": "California::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "Dow Jones Industrial Average",
+        "costWhereApplicable": "Dow Jones Industrial Average::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Sun Pharma",
+        "costWhereApplicable": "Sun Pharma::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "G",
+        "costWhereApplicable": "G::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "French",
+        "costWhereApplicable": "French::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Jio Platforms",
+        "costWhereApplicable": "Jio Platforms::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
+        "source": "New York",
+        "costWhereApplicable": "New York::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "S & P 500",
+        "costWhereApplicable": "S & P 500::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Apple",
+        "costWhereApplicable": "Apple::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "ONGC",
+        "costWhereApplicable": "ONGC::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Dalal Street",
+        "costWhereApplicable": "Dalal Street::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Facebook Inc",
+        "costWhereApplicable": "Facebook Inc::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
+        "source": "America",
+        "costWhereApplicable": "America::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Titan",
+        "costWhereApplicable": "Titan::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "Dow",
+        "costWhereApplicable": "Dow::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "European Central Bank",
+        "costWhereApplicable": "European Central Bank::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Jerome Powell",
+        "costWhereApplicable": "Jerome Powell::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Ltd",
+        "costWhereApplicable": "Ltd::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Reliance Industries Ltd",
+        "costWhereApplicable": "Reliance Industries Ltd::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Goldman Sachs",
+        "costWhereApplicable": "Goldman Sachs::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Morgan Stanley",
+        "costWhereApplicable": "Morgan Stanley::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "Saudi",
+        "costWhereApplicable": "Saudi::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Microsoft",
+        "costWhereApplicable": "Microsoft::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Amazon . com Inc",
+        "costWhereApplicable": "Amazon . com Inc::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Treasury",
+        "costWhereApplicable": "Treasury::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "Hang Seng",
+        "costWhereApplicable": "Hang Seng::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
+        "source": "Iraq",
+        "costWhereApplicable": "Iraq::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
+        "source": "New Zealand",
+        "costWhereApplicable": "New Zealand::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Tata Consultancy Services",
+        "costWhereApplicable": "Tata Consultancy Services::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Apple Inc",
+        "costWhereApplicable": "Apple Inc::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "States",
+        "costWhereApplicable": "States::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Alphabet Inc",
+        "costWhereApplicable": "Alphabet Inc::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
+        "source": "Switzerland",
+        "costWhereApplicable": "Switzerland::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "Nasdaq Composite",
+        "costWhereApplicable": "Nasdaq Composite::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "& P",
+        "costWhereApplicable": "& P::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "MS",
+        "costWhereApplicable": "MS::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
+        "source": "White House",
+        "costWhereApplicable": "White House::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "JPL",
+        "costWhereApplicable": "JPL::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "MOFSL",
+        "costWhereApplicable": "MOFSL::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Future Group",
+        "costWhereApplicable": "Future Group::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Elon Musk",
+        "costWhereApplicable": "Elon Musk::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "Group",
+        "costWhereApplicable": "Group::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Organizations",
+        "source": "General Atlantic",
+        "costWhereApplicable": "General Atlantic::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
+        "source": "England",
+        "costWhereApplicable": "England::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "Canadian",
+        "costWhereApplicable": "Canadian::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "Dow Jones",
+        "costWhereApplicable": "Dow Jones::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Se",
+        "costWhereApplicable": "Se::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Ajit Mishra",
+        "costWhereApplicable": "Ajit Mishra::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "iPhone",
+        "costWhereApplicable": "iPhone::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "Android",
+        "costWhereApplicable": "Android::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "English",
+        "costWhereApplicable": "English::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
+        "source": "Silicon Valley",
+        "costWhereApplicable": "Silicon Valley::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Warren Buffett",
+        "costWhereApplicable": "Warren Buffett::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Jeff Bezos",
+        "costWhereApplicable": "Jeff Bezos::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "Great Depression",
+        "costWhereApplicable": "Great Depression::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Mark Zuckerberg",
+        "costWhereApplicable": "Mark Zuckerberg::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "Brazilian",
+        "costWhereApplicable": "Brazilian::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
+        "source": "United States West Texas",
+        "costWhereApplicable": "United States West Texas::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "BS",
+        "costWhereApplicable": "BS::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Joe Biden",
+        "costWhereApplicable": "Joe Biden::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
+        "source": "Arabia",
+        "costWhereApplicable": "Arabia::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "RS",
+        "costWhereApplicable": "RS::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "IN",
+        "costWhereApplicable": "IN::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "E",
+        "costWhereApplicable": "E::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Shinzo Abe",
+        "costWhereApplicable": "Shinzo Abe::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Deepak Jasani",
+        "costWhereApplicable": "Deepak Jasani::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "In",
+        "costWhereApplicable": "In::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Sundar Pichai",
+        "costWhereApplicable": "Sundar Pichai::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Barack Obama",
+        "costWhereApplicable": "Barack Obama::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "Israeli",
+        "costWhereApplicable": "Israeli::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
+        "source": "Israel",
+        "costWhereApplicable": "Israel::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
+        "source": "Eastern Ladakh",
+        "costWhereApplicable": "Eastern Ladakh::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
+        "source": "U",
+        "costWhereApplicable": "U::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Mukesh Amban",
+        "costWhereApplicable": "Mukesh Amban::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Ambani",
+        "costWhereApplicable": "Ambani::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Rakesh Jhunjhunwala",
+        "costWhereApplicable": "Rakesh Jhunjhunwala::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Bill Gates",
+        "costWhereApplicable": "Bill Gates::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "Mexican",
+        "costWhereApplicable": "Mexican::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
+        "source": "Toronto",
+        "costWhereApplicable": "Toronto::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Gautam Adani",
+        "costWhereApplicable": "Gautam Adani::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
+        "source": "San Francisco",
+        "costWhereApplicable": "San Francisco::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "Bloomberg Bill",
+        "costWhereApplicable": "Bloomberg Bill::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
+        "source": "Bali",
+        "costWhereApplicable": "Bali::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Bernard Arnault",
+        "costWhereApplicable": "Bernard Arnault::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Tim Cook",
+        "costWhereApplicable": "Tim Cook::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "World",
+        "costWhereApplicable": "World::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "Bloomberg Billionaires Index",
+        "costWhereApplicable": "Bloomberg Billionaires Index::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "Saudi Arabian",
+        "costWhereApplicable": "Saudi Arabian::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Nithin Kamath",
+        "costWhereApplicable": "Nithin Kamath::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Shyam Sekhar",
+        "costWhereApplicable": "Shyam Sekhar::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Ambareesh Baliga",
+        "costWhereApplicable": "Ambareesh Baliga::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Masayoshi Son",
+        "costWhereApplicable": "Masayoshi Son::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Brien",
+        "costWhereApplicable": "Brien::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Jack Ma",
+        "costWhereApplicable": "Jack Ma::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Sanjiv Bhasin",
+        "costWhereApplicable": "Sanjiv Bhasin::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "Global Financial Crisis",
+        "costWhereApplicable": "Global Financial Crisis::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Yoshihide Suga",
+        "costWhereApplicable": "Yoshihide Suga::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "11",
+        "costWhereApplicable": "11::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
+        "source": "Zurich",
+        "costWhereApplicable": "Zurich::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Ka",
+        "costWhereApplicable": "Ka::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Shiv Nadar",
+        "costWhereApplicable": "Shiv Nadar::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Miscellaneous",
+        "source": "Alto",
+        "costWhereApplicable": "Alto::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Sergey Brin",
+        "costWhereApplicable": "Sergey Brin::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Basant Maheshwari",
+        "costWhereApplicable": "Basant Maheshwari::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Manish Hathiramani",
+        "costWhereApplicable": "Manish Hathiramani::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Jack Dorsey",
+        "costWhereApplicable": "Jack Dorsey::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Raamdeo Agrawal",
+        "costWhereApplicable": "Raamdeo Agrawal::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Naveen Kulkarni",
+        "costWhereApplicable": "Naveen Kulkarni::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Kim Kardashian",
+        "costWhereApplicable": "Kim Kardashian::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Kanye West",
+        "costWhereApplicable": "Kanye West::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Larry Page",
+        "costWhereApplicable": "Larry Page::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Buffett",
+        "costWhereApplicable": "Buffett::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
+        "source": "Nebraska",
+        "costWhereApplicable": "Nebraska::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Warren",
+        "costWhereApplicable": "Warren::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Mukesh Am",
+        "costWhereApplicable": "Mukesh Am::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Jeff",
+        "costWhereApplicable": "Jeff::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Warren Buffet",
+        "costWhereApplicable": "Warren Buffet::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
+        "source": "Oregon",
+        "costWhereApplicable": "Oregon::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
+        "source": "Montreal",
+        "costWhereApplicable": "Montreal::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
+        "source": "Louis",
+        "costWhereApplicable": "Louis::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Aveek Mitra",
+        "costWhereApplicable": "Aveek Mitra::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Warren Buffet",
+        "source": "Andrew",
+        "costWhereApplicable": "Andrew::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
+        "source": "Omaha",
+        "costWhereApplicable": "Omaha::5",
+        "relationship": "nopic"
+    },
+    {
+        "target": "Locations",
+        "source": "Southwest",
+        "costWhereApplicable": "Southwest::5",
+        "relationship": "nopic"
+    }
+]}
