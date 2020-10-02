@@ -1,7 +1,7 @@
 {"nodes":  [ {
         "group": "person",
         "id": "Warren Buffet",
-        "tooltip": "Main Entity::25",
+        "tooltip": "Master Node",
         "photo": "nopic"
     },  {
         "group": "location",
